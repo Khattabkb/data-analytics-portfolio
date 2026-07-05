@@ -1,0 +1,3501 @@
+customer_id,tenure_months,monthly_charges,contract,support_calls,payment_method,churned
+C10000,12,58.84,Month-to-month,1,Auto-pay,0
+C10001,63,88.78,Month-to-month,3,Auto-pay,0
+C10002,49,70.12,Month-to-month,2,Auto-pay,0
+C10003,39,52.95,One year,2,Auto-pay,0
+C10004,20,103.82,Month-to-month,1,Auto-pay,1
+C10005,38,79.67,One year,0,Auto-pay,0
+C10006,45,90.33,One year,2,Auto-pay,0
+C10007,51,42.07,Month-to-month,2,Manual,0
+C10008,7,59.41,Two year,3,Auto-pay,1
+C10009,62,99.6,One year,2,Auto-pay,0
+C10010,39,66.58,Two year,4,Auto-pay,0
+C10011,26,68.31,One year,3,Auto-pay,0
+C10012,52,43.17,One year,3,Auto-pay,0
+C10013,39,80.91,Month-to-month,0,Auto-pay,0
+C10014,23,42.63,Month-to-month,2,Auto-pay,0
+C10015,65,85.97,Month-to-month,0,Manual,0
+C10016,66,45.21,One year,2,Auto-pay,0
+C10017,65,68.72,One year,1,Manual,0
+C10018,6,122.25,Month-to-month,2,Auto-pay,0
+C10019,66,85.97,Month-to-month,3,Manual,0
+C10020,19,64.61,Month-to-month,2,Auto-pay,1
+C10021,25,100.7,Month-to-month,1,Auto-pay,0
+C10022,49,53.3,One year,0,Manual,0
+C10023,34,45.41,Month-to-month,3,Manual,0
+C10024,59,64.06,Month-to-month,2,Manual,0
+C10025,48,107.96,Month-to-month,3,Manual,1
+C10026,9,106.27,Two year,4,Auto-pay,0
+C10027,10,60.1,Month-to-month,1,Auto-pay,1
+C10028,8,66.48,Two year,1,Auto-pay,1
+C10029,24,87.61,Month-to-month,1,Manual,0
+C10030,34,147.85,Month-to-month,4,Auto-pay,1
+C10031,63,67.87,Month-to-month,1,Manual,0
+C10032,25,116.48,Month-to-month,1,Manual,1
+C10033,7,82.48,Month-to-month,0,Auto-pay,0
+C10034,40,100.6,Two year,3,Auto-pay,0
+C10035,30,105.41,Two year,1,Auto-pay,0
+C10036,60,80.28,One year,0,Auto-pay,0
+C10037,3,74.15,Month-to-month,0,Manual,1
+C10038,21,68.78,Month-to-month,4,Manual,0
+C10039,50,85.52,Month-to-month,1,Manual,0
+C10040,1,110.63,Two year,2,Auto-pay,1
+C10041,40,114.68,One year,1,Manual,0
+C10042,48,111.32,Month-to-month,1,Manual,1
+C10043,3,61.02,Month-to-month,0,Manual,1
+C10044,40,57.95,One year,1,Auto-pay,0
+C10045,67,50.16,Month-to-month,1,Auto-pay,0
+C10046,37,79.62,Month-to-month,1,Auto-pay,0
+C10047,13,102.99,Month-to-month,2,Auto-pay,1
+C10048,56,58.05,Two year,2,Manual,0
+C10049,5,69.51,Month-to-month,5,Auto-pay,1
+C10050,61,94.4,Month-to-month,4,Manual,0
+C10051,68,65.37,Two year,0,Auto-pay,0
+C10052,11,69.29,Two year,0,Auto-pay,0
+C10053,20,108.43,Month-to-month,2,Auto-pay,1
+C10054,60,75.71,Two year,2,Auto-pay,0
+C10055,53,53.39,Month-to-month,0,Auto-pay,0
+C10056,39,77.89,One year,0,Manual,0
+C10057,48,88.0,One year,1,Manual,0
+C10058,62,150.14,One year,1,Manual,0
+C10059,51,120.57,Month-to-month,0,Auto-pay,0
+C10060,41,170.77,Month-to-month,0,Manual,0
+C10061,28,43.04,One year,2,Auto-pay,0
+C10062,64,116.74,Month-to-month,2,Auto-pay,0
+C10063,41,121.59,Month-to-month,3,Auto-pay,1
+C10064,60,75.91,Two year,1,Auto-pay,0
+C10065,61,63.23,One year,1,Auto-pay,0
+C10066,24,97.12,Month-to-month,3,Auto-pay,0
+C10067,53,65.22,Month-to-month,1,Manual,0
+C10068,46,40.68,Month-to-month,0,Auto-pay,0
+C10069,17,32.48,One year,1,Manual,0
+C10070,41,30.1,One year,2,Auto-pay,0
+C10071,68,81.99,Month-to-month,2,Auto-pay,0
+C10072,38,95.14,Two year,5,Auto-pay,1
+C10073,49,45.76,Month-to-month,2,Auto-pay,0
+C10074,8,89.51,Two year,0,Manual,0
+C10075,28,89.3,One year,1,Auto-pay,1
+C10076,2,85.4,One year,2,Manual,1
+C10077,26,95.4,Month-to-month,0,Manual,0
+C10078,25,81.47,Two year,1,Manual,0
+C10079,14,114.99,Month-to-month,1,Auto-pay,0
+C10080,36,93.71,Month-to-month,0,Auto-pay,1
+C10081,36,37.36,Month-to-month,0,Auto-pay,0
+C10082,40,130.2,Month-to-month,1,Manual,1
+C10083,29,46.18,Two year,2,Manual,0
+C10084,37,74.51,One year,4,Auto-pay,0
+C10085,42,151.56,Month-to-month,2,Auto-pay,0
+C10086,11,89.69,Two year,0,Auto-pay,0
+C10087,35,50.32,Month-to-month,1,Auto-pay,0
+C10088,59,85.1,One year,2,Manual,0
+C10089,51,90.67,One year,1,Manual,0
+C10090,52,81.03,Two year,2,Auto-pay,0
+C10091,21,59.8,One year,0,Manual,0
+C10092,62,36.61,Month-to-month,1,Manual,0
+C10093,35,40.06,Month-to-month,1,Manual,0
+C10094,63,51.62,Month-to-month,2,Manual,1
+C10095,12,113.85,Month-to-month,2,Auto-pay,0
+C10096,60,38.43,Month-to-month,1,Manual,0
+C10097,22,79.67,Month-to-month,2,Auto-pay,0
+C10098,48,116.95,One year,0,Manual,0
+C10099,2,94.52,Month-to-month,1,Manual,1
+C10100,32,117.64,One year,1,Auto-pay,0
+C10101,56,57.41,One year,2,Auto-pay,0
+C10102,46,93.84,Month-to-month,4,Auto-pay,0
+C10103,23,109.53,One year,2,Auto-pay,0
+C10104,18,103.24,Month-to-month,1,Auto-pay,0
+C10105,17,101.7,Two year,2,Manual,1
+C10106,66,39.16,Month-to-month,4,Manual,0
+C10107,22,95.01,Month-to-month,1,Auto-pay,1
+C10108,45,89.63,Month-to-month,2,Manual,0
+C10109,1,70.49,One year,1,Manual,0
+C10110,43,56.85,Month-to-month,2,Auto-pay,0
+C10111,47,88.51,Month-to-month,1,Auto-pay,0
+C10112,42,45.38,One year,1,Manual,1
+C10113,60,62.06,Two year,0,Auto-pay,0
+C10114,49,103.26,Month-to-month,2,Manual,0
+C10115,15,106.26,Month-to-month,0,Manual,0
+C10116,49,89.46,Month-to-month,2,Manual,1
+C10117,17,61.21,One year,1,Auto-pay,0
+C10118,4,41.65,Month-to-month,2,Auto-pay,1
+C10119,67,51.62,One year,1,Auto-pay,0
+C10120,31,113.57,Month-to-month,1,Auto-pay,1
+C10121,31,80.84,Month-to-month,1,Manual,0
+C10122,70,71.94,Month-to-month,2,Manual,0
+C10123,44,79.9,Month-to-month,0,Auto-pay,0
+C10124,54,95.54,One year,0,Auto-pay,0
+C10125,63,44.2,One year,2,Auto-pay,0
+C10126,14,60.41,One year,0,Auto-pay,0
+C10127,11,94.38,Month-to-month,3,Auto-pay,1
+C10128,31,82.19,Month-to-month,1,Auto-pay,0
+C10129,6,108.18,One year,0,Auto-pay,0
+C10130,33,97.6,One year,1,Auto-pay,0
+C10131,39,51.84,One year,2,Auto-pay,0
+C10132,70,20.0,Month-to-month,3,Auto-pay,0
+C10133,13,81.13,Month-to-month,2,Auto-pay,0
+C10134,68,43.64,One year,3,Auto-pay,0
+C10135,18,90.23,Month-to-month,1,Auto-pay,0
+C10136,6,122.71,Month-to-month,4,Manual,1
+C10137,61,44.11,One year,3,Auto-pay,0
+C10138,19,94.39,Month-to-month,0,Auto-pay,0
+C10139,22,101.11,Month-to-month,2,Auto-pay,0
+C10140,6,85.37,Month-to-month,0,Auto-pay,1
+C10141,39,84.84,One year,0,Manual,0
+C10142,14,20.0,Month-to-month,2,Manual,0
+C10143,44,76.97,One year,2,Auto-pay,0
+C10144,32,74.74,Month-to-month,1,Auto-pay,0
+C10145,20,106.49,One year,1,Manual,0
+C10146,43,103.8,Month-to-month,0,Auto-pay,0
+C10147,11,59.69,One year,2,Manual,0
+C10148,58,20.0,Month-to-month,0,Manual,0
+C10149,50,27.12,One year,0,Manual,0
+C10150,7,117.26,Month-to-month,1,Auto-pay,1
+C10151,71,72.68,One year,1,Auto-pay,0
+C10152,20,31.6,Month-to-month,2,Auto-pay,0
+C10153,69,35.33,Month-to-month,1,Manual,0
+C10154,44,81.92,Two year,1,Manual,0
+C10155,66,78.63,Month-to-month,0,Auto-pay,0
+C10156,33,124.68,Month-to-month,4,Auto-pay,0
+C10157,55,72.59,One year,1,Auto-pay,0
+C10158,22,86.59,One year,3,Auto-pay,1
+C10159,50,73.74,Month-to-month,2,Auto-pay,0
+C10160,13,99.57,Month-to-month,1,Auto-pay,0
+C10161,11,127.8,Month-to-month,4,Auto-pay,1
+C10162,51,103.33,Month-to-month,0,Auto-pay,0
+C10163,3,134.13,Month-to-month,1,Manual,1
+C10164,17,91.23,Month-to-month,1,Manual,1
+C10165,35,27.42,Two year,0,Auto-pay,0
+C10166,49,50.28,Two year,0,Manual,0
+C10167,42,99.63,One year,2,Auto-pay,0
+C10168,66,67.76,Month-to-month,1,Auto-pay,0
+C10169,52,75.06,Two year,2,Auto-pay,0
+C10170,16,50.7,One year,1,Auto-pay,0
+C10171,50,118.33,Month-to-month,3,Manual,0
+C10172,52,120.94,Month-to-month,1,Manual,0
+C10173,61,68.13,One year,0,Auto-pay,0
+C10174,57,68.42,Two year,1,Manual,0
+C10175,45,113.26,Month-to-month,0,Manual,1
+C10176,45,106.38,Month-to-month,1,Auto-pay,0
+C10177,33,26.07,One year,2,Auto-pay,0
+C10178,24,95.38,Month-to-month,1,Manual,0
+C10179,68,89.87,Month-to-month,0,Auto-pay,0
+C10180,18,80.6,One year,1,Manual,0
+C10181,60,48.67,Month-to-month,1,Manual,0
+C10182,56,49.33,Month-to-month,0,Manual,0
+C10183,44,20.0,Month-to-month,3,Auto-pay,0
+C10184,24,55.31,Month-to-month,3,Auto-pay,1
+C10185,51,20.0,Month-to-month,3,Auto-pay,1
+C10186,58,58.77,One year,1,Auto-pay,0
+C10187,43,87.06,Two year,2,Auto-pay,0
+C10188,60,39.97,One year,5,Manual,0
+C10189,37,114.96,Month-to-month,0,Auto-pay,0
+C10190,62,133.68,Month-to-month,2,Auto-pay,1
+C10191,29,82.11,Month-to-month,0,Auto-pay,0
+C10192,58,93.26,One year,1,Manual,0
+C10193,5,26.45,Month-to-month,2,Manual,1
+C10194,64,80.5,Month-to-month,2,Manual,0
+C10195,48,32.85,Month-to-month,1,Auto-pay,0
+C10196,67,23.28,One year,1,Manual,0
+C10197,66,37.02,Month-to-month,5,Auto-pay,0
+C10198,36,70.37,Month-to-month,2,Manual,1
+C10199,47,73.78,One year,0,Manual,0
+C10200,21,72.82,One year,3,Auto-pay,0
+C10201,70,40.09,Month-to-month,1,Auto-pay,0
+C10202,14,78.18,One year,3,Manual,1
+C10203,14,54.14,One year,1,Manual,0
+C10204,28,78.86,Month-to-month,1,Auto-pay,1
+C10205,31,67.92,One year,1,Auto-pay,0
+C10206,18,20.92,Month-to-month,0,Auto-pay,1
+C10207,69,54.62,One year,1,Auto-pay,0
+C10208,60,91.33,Month-to-month,2,Auto-pay,0
+C10209,15,100.16,Month-to-month,1,Auto-pay,1
+C10210,60,38.04,One year,0,Auto-pay,0
+C10211,23,52.08,One year,1,Auto-pay,0
+C10212,32,61.58,Month-to-month,3,Auto-pay,1
+C10213,70,110.15,Two year,1,Auto-pay,0
+C10214,58,89.07,Month-to-month,2,Auto-pay,0
+C10215,25,36.6,Month-to-month,1,Manual,0
+C10216,46,89.76,Month-to-month,2,Manual,1
+C10217,57,113.06,Month-to-month,3,Auto-pay,0
+C10218,41,81.49,Two year,2,Auto-pay,0
+C10219,18,51.75,Month-to-month,2,Auto-pay,1
+C10220,58,100.45,Month-to-month,0,Auto-pay,0
+C10221,26,80.55,One year,0,Manual,0
+C10222,58,67.51,Month-to-month,0,Auto-pay,0
+C10223,39,101.79,One year,0,Manual,0
+C10224,57,74.88,Month-to-month,1,Manual,0
+C10225,59,77.42,Two year,3,Manual,0
+C10226,39,100.81,Month-to-month,2,Manual,1
+C10227,24,59.97,Two year,4,Auto-pay,0
+C10228,23,40.31,Month-to-month,1,Auto-pay,0
+C10229,3,84.76,Month-to-month,0,Auto-pay,1
+C10230,29,121.7,Month-to-month,0,Manual,1
+C10231,15,20.0,Month-to-month,1,Auto-pay,0
+C10232,49,97.0,Month-to-month,1,Manual,0
+C10233,47,76.04,Month-to-month,1,Manual,0
+C10234,65,58.98,Month-to-month,4,Auto-pay,0
+C10235,12,55.61,Month-to-month,0,Auto-pay,0
+C10236,52,102.09,One year,0,Auto-pay,0
+C10237,17,95.4,Two year,0,Auto-pay,0
+C10238,57,43.89,Month-to-month,0,Auto-pay,0
+C10239,58,84.14,Month-to-month,1,Auto-pay,1
+C10240,21,116.17,One year,2,Auto-pay,0
+C10241,69,95.92,One year,0,Auto-pay,0
+C10242,32,24.96,Month-to-month,1,Manual,1
+C10243,46,94.38,Month-to-month,1,Manual,0
+C10244,54,37.58,Month-to-month,3,Manual,0
+C10245,43,81.54,Month-to-month,1,Auto-pay,0
+C10246,62,52.57,One year,1,Manual,0
+C10247,5,87.07,Month-to-month,1,Manual,1
+C10248,37,54.91,Month-to-month,1,Manual,0
+C10249,57,43.61,Two year,1,Auto-pay,0
+C10250,2,84.45,Month-to-month,2,Auto-pay,1
+C10251,34,78.46,Two year,3,Auto-pay,1
+C10252,63,99.65,Month-to-month,0,Manual,0
+C10253,24,59.09,One year,2,Auto-pay,0
+C10254,7,29.58,Month-to-month,3,Auto-pay,1
+C10255,28,95.28,Two year,2,Auto-pay,0
+C10256,38,118.41,Month-to-month,0,Manual,0
+C10257,7,57.67,Month-to-month,0,Manual,1
+C10258,35,89.58,One year,1,Manual,0
+C10259,47,65.65,Month-to-month,2,Manual,0
+C10260,69,132.98,Two year,1,Auto-pay,0
+C10261,48,59.22,Month-to-month,2,Manual,0
+C10262,9,73.62,Month-to-month,1,Manual,0
+C10263,67,20.0,Month-to-month,2,Auto-pay,0
+C10264,48,122.19,Month-to-month,3,Auto-pay,0
+C10265,60,58.97,Two year,1,Auto-pay,0
+C10266,23,113.95,Two year,2,Auto-pay,0
+C10267,3,54.9,Two year,2,Auto-pay,0
+C10268,31,72.64,Two year,5,Auto-pay,0
+C10269,26,51.56,Month-to-month,2,Auto-pay,0
+C10270,30,46.96,One year,3,Auto-pay,0
+C10271,67,66.21,Month-to-month,0,Manual,0
+C10272,25,70.85,One year,3,Auto-pay,0
+C10273,20,64.05,Two year,2,Manual,0
+C10274,63,29.34,Month-to-month,0,Auto-pay,0
+C10275,64,83.51,Month-to-month,1,Manual,0
+C10276,52,20.0,Month-to-month,1,Auto-pay,0
+C10277,9,64.86,Two year,0,Auto-pay,1
+C10278,64,27.59,Two year,5,Manual,0
+C10279,3,102.01,Two year,0,Auto-pay,0
+C10280,58,111.96,One year,0,Auto-pay,0
+C10281,53,92.76,Two year,1,Manual,0
+C10282,30,60.71,Two year,1,Auto-pay,0
+C10283,14,52.75,Month-to-month,0,Manual,0
+C10284,5,67.39,Two year,2,Auto-pay,0
+C10285,3,73.35,One year,0,Manual,0
+C10286,22,89.48,Month-to-month,2,Auto-pay,0
+C10287,34,86.94,One year,3,Manual,0
+C10288,25,20.0,Month-to-month,2,Auto-pay,0
+C10289,44,94.86,Month-to-month,2,Auto-pay,0
+C10290,8,86.57,Month-to-month,2,Auto-pay,1
+C10291,50,51.55,One year,1,Manual,0
+C10292,11,45.97,One year,0,Manual,0
+C10293,32,76.85,Month-to-month,1,Auto-pay,0
+C10294,2,80.4,One year,0,Manual,0
+C10295,66,41.94,Month-to-month,0,Auto-pay,0
+C10296,32,76.75,Two year,0,Auto-pay,0
+C10297,27,80.54,One year,2,Auto-pay,0
+C10298,13,100.74,Two year,0,Manual,1
+C10299,17,71.67,One year,2,Auto-pay,0
+C10300,20,20.0,Month-to-month,0,Auto-pay,1
+C10301,7,82.56,Month-to-month,4,Auto-pay,1
+C10302,35,24.28,One year,1,Auto-pay,0
+C10303,11,49.5,Month-to-month,2,Auto-pay,0
+C10304,12,34.48,Month-to-month,4,Manual,1
+C10305,7,89.82,Two year,1,Manual,0
+C10306,5,42.41,Two year,2,Auto-pay,0
+C10307,59,104.98,Month-to-month,2,Manual,0
+C10308,55,40.26,Month-to-month,2,Auto-pay,1
+C10309,48,20.0,Two year,1,Manual,0
+C10310,63,64.56,Month-to-month,1,Auto-pay,0
+C10311,33,35.16,Month-to-month,1,Auto-pay,0
+C10312,24,114.5,Month-to-month,2,Auto-pay,1
+C10313,31,54.61,Month-to-month,1,Auto-pay,0
+C10314,33,109.63,One year,2,Auto-pay,0
+C10315,8,65.82,Two year,0,Auto-pay,0
+C10316,21,85.69,One year,3,Manual,0
+C10317,34,59.12,Month-to-month,3,Manual,0
+C10318,33,146.31,One year,0,Auto-pay,0
+C10319,28,40.53,One year,3,Auto-pay,0
+C10320,7,20.0,Month-to-month,2,Auto-pay,0
+C10321,21,82.81,Month-to-month,2,Manual,0
+C10322,33,44.25,Month-to-month,1,Auto-pay,0
+C10323,16,81.13,One year,1,Auto-pay,0
+C10324,33,72.92,One year,3,Auto-pay,0
+C10325,23,59.12,Two year,2,Auto-pay,1
+C10326,22,62.79,Two year,3,Auto-pay,0
+C10327,67,87.28,Two year,2,Manual,0
+C10328,62,64.16,Two year,5,Manual,0
+C10329,50,70.42,One year,0,Auto-pay,0
+C10330,30,60.07,Two year,1,Auto-pay,0
+C10331,57,123.85,Month-to-month,2,Manual,0
+C10332,11,114.29,Month-to-month,1,Manual,0
+C10333,14,30.83,Two year,1,Auto-pay,0
+C10334,54,75.08,Month-to-month,2,Manual,0
+C10335,65,50.56,Month-to-month,2,Auto-pay,0
+C10336,11,37.64,Two year,0,Auto-pay,0
+C10337,35,20.0,One year,2,Auto-pay,0
+C10338,7,65.24,Month-to-month,2,Auto-pay,1
+C10339,70,67.54,Month-to-month,5,Auto-pay,0
+C10340,27,115.68,One year,2,Manual,0
+C10341,58,106.42,One year,2,Manual,0
+C10342,57,89.75,One year,0,Auto-pay,0
+C10343,12,97.14,One year,1,Manual,0
+C10344,68,100.55,Month-to-month,0,Auto-pay,0
+C10345,69,89.63,One year,2,Manual,0
+C10346,47,116.54,One year,1,Auto-pay,0
+C10347,69,36.91,Month-to-month,0,Auto-pay,0
+C10348,64,60.38,Two year,0,Auto-pay,0
+C10349,40,56.14,Month-to-month,2,Auto-pay,0
+C10350,41,58.46,Month-to-month,1,Auto-pay,0
+C10351,71,70.45,Month-to-month,0,Auto-pay,0
+C10352,14,123.98,Month-to-month,0,Auto-pay,0
+C10353,34,101.86,One year,1,Auto-pay,0
+C10354,41,111.69,Two year,1,Manual,0
+C10355,7,72.66,Month-to-month,1,Auto-pay,1
+C10356,53,71.3,One year,1,Auto-pay,0
+C10357,45,92.35,Two year,3,Auto-pay,0
+C10358,6,87.96,One year,1,Manual,1
+C10359,61,87.94,Two year,2,Manual,1
+C10360,30,144.55,One year,1,Manual,0
+C10361,8,92.58,Two year,2,Auto-pay,0
+C10362,6,51.39,One year,2,Manual,0
+C10363,20,53.88,Month-to-month,0,Auto-pay,1
+C10364,29,100.26,Month-to-month,2,Auto-pay,0
+C10365,29,97.91,Month-to-month,0,Manual,1
+C10366,40,104.36,Two year,0,Auto-pay,0
+C10367,47,90.63,Month-to-month,1,Auto-pay,0
+C10368,51,43.8,Month-to-month,0,Manual,0
+C10369,32,121.1,Month-to-month,0,Auto-pay,1
+C10370,26,115.29,Month-to-month,1,Auto-pay,0
+C10371,53,63.43,Month-to-month,3,Auto-pay,0
+C10372,9,85.99,Two year,0,Auto-pay,0
+C10373,64,80.57,Two year,1,Manual,0
+C10374,36,63.85,One year,2,Auto-pay,0
+C10375,45,40.22,Month-to-month,2,Auto-pay,0
+C10376,10,92.23,Two year,2,Auto-pay,0
+C10377,7,30.24,Month-to-month,0,Manual,0
+C10378,7,57.14,Month-to-month,2,Manual,1
+C10379,29,126.35,Month-to-month,1,Auto-pay,1
+C10380,53,87.49,Month-to-month,2,Manual,0
+C10381,69,86.49,Month-to-month,0,Manual,0
+C10382,44,66.16,Month-to-month,3,Manual,0
+C10383,31,28.16,Month-to-month,2,Manual,0
+C10384,38,87.43,Two year,2,Manual,0
+C10385,12,89.97,Two year,0,Auto-pay,0
+C10386,12,98.83,Two year,1,Manual,0
+C10387,61,63.22,One year,2,Auto-pay,0
+C10388,66,62.74,One year,3,Auto-pay,0
+C10389,60,92.04,One year,1,Auto-pay,0
+C10390,62,37.26,Two year,2,Manual,0
+C10391,52,99.39,Month-to-month,3,Manual,1
+C10392,60,70.19,One year,1,Auto-pay,0
+C10393,4,83.79,Month-to-month,2,Manual,1
+C10394,5,144.23,Month-to-month,0,Manual,1
+C10395,64,66.84,One year,2,Auto-pay,0
+C10396,6,79.18,Two year,3,Manual,0
+C10397,19,75.9,Two year,2,Manual,0
+C10398,34,20.0,Month-to-month,2,Manual,0
+C10399,38,93.34,Month-to-month,2,Auto-pay,1
+C10400,21,20.0,Two year,1,Auto-pay,0
+C10401,63,97.72,One year,1,Auto-pay,0
+C10402,24,54.25,Month-to-month,6,Manual,1
+C10403,56,52.85,Month-to-month,1,Auto-pay,0
+C10404,51,73.85,One year,2,Manual,0
+C10405,4,35.23,One year,2,Manual,0
+C10406,67,71.64,Two year,2,Auto-pay,0
+C10407,15,42.12,Month-to-month,2,Manual,1
+C10408,43,36.32,Month-to-month,1,Auto-pay,0
+C10409,43,68.45,Month-to-month,2,Manual,1
+C10410,3,111.71,Month-to-month,3,Auto-pay,1
+C10411,69,96.67,Month-to-month,2,Auto-pay,0
+C10412,3,58.69,Month-to-month,4,Auto-pay,0
+C10413,31,70.09,Month-to-month,1,Manual,1
+C10414,17,58.71,Month-to-month,3,Auto-pay,0
+C10415,15,39.17,Month-to-month,4,Auto-pay,1
+C10416,1,43.58,Two year,2,Auto-pay,1
+C10417,9,82.94,One year,0,Auto-pay,0
+C10418,10,53.09,Month-to-month,1,Manual,0
+C10419,48,73.18,Month-to-month,2,Auto-pay,0
+C10420,4,44.38,Month-to-month,5,Auto-pay,1
+C10421,39,98.75,One year,2,Manual,0
+C10422,20,94.17,Month-to-month,2,Manual,0
+C10423,3,121.7,Month-to-month,0,Auto-pay,1
+C10424,4,115.85,Month-to-month,1,Auto-pay,0
+C10425,60,47.35,Two year,1,Auto-pay,0
+C10426,65,49.2,Month-to-month,0,Manual,0
+C10427,44,85.54,Month-to-month,1,Auto-pay,0
+C10428,38,48.41,One year,2,Auto-pay,0
+C10429,17,82.06,Two year,2,Auto-pay,0
+C10430,62,64.61,One year,2,Auto-pay,0
+C10431,35,102.5,Month-to-month,1,Auto-pay,0
+C10432,49,103.36,One year,4,Auto-pay,0
+C10433,56,65.81,Month-to-month,1,Auto-pay,0
+C10434,33,20.12,Month-to-month,1,Auto-pay,0
+C10435,24,105.31,Month-to-month,3,Auto-pay,1
+C10436,34,56.67,Month-to-month,1,Manual,1
+C10437,64,74.3,Month-to-month,1,Manual,0
+C10438,52,70.9,Month-to-month,0,Manual,0
+C10439,50,86.52,One year,1,Auto-pay,0
+C10440,23,56.33,Month-to-month,2,Manual,1
+C10441,23,41.44,Month-to-month,0,Auto-pay,0
+C10442,38,79.55,Month-to-month,1,Auto-pay,1
+C10443,2,99.79,One year,1,Auto-pay,0
+C10444,9,71.3,One year,2,Manual,0
+C10445,40,71.21,One year,3,Auto-pay,0
+C10446,56,39.4,Month-to-month,1,Auto-pay,0
+C10447,28,90.42,One year,0,Auto-pay,0
+C10448,24,92.59,Month-to-month,0,Manual,1
+C10449,50,71.78,Month-to-month,2,Manual,0
+C10450,13,45.77,Month-to-month,3,Manual,1
+C10451,8,77.45,One year,3,Manual,1
+C10452,53,79.98,One year,2,Auto-pay,0
+C10453,36,73.77,One year,0,Manual,0
+C10454,7,42.51,One year,2,Auto-pay,1
+C10455,46,82.61,Month-to-month,1,Auto-pay,1
+C10456,68,79.88,Month-to-month,0,Auto-pay,0
+C10457,26,87.56,Month-to-month,1,Auto-pay,0
+C10458,49,70.91,Two year,1,Auto-pay,0
+C10459,50,113.51,One year,1,Auto-pay,0
+C10460,53,74.94,Month-to-month,2,Manual,0
+C10461,34,116.85,One year,1,Auto-pay,0
+C10462,6,81.69,Month-to-month,0,Auto-pay,0
+C10463,9,40.25,One year,1,Manual,0
+C10464,41,100.07,Two year,2,Auto-pay,0
+C10465,37,64.07,One year,0,Auto-pay,0
+C10466,3,61.68,Two year,2,Auto-pay,0
+C10467,17,106.14,Month-to-month,2,Auto-pay,1
+C10468,24,37.52,One year,2,Auto-pay,0
+C10469,58,22.45,Month-to-month,1,Manual,0
+C10470,52,68.43,One year,2,Auto-pay,0
+C10471,62,84.04,Month-to-month,2,Auto-pay,0
+C10472,16,101.03,One year,1,Auto-pay,0
+C10473,62,79.35,Month-to-month,0,Auto-pay,0
+C10474,50,20.0,One year,1,Manual,0
+C10475,4,45.87,Month-to-month,2,Auto-pay,0
+C10476,40,37.21,One year,0,Auto-pay,0
+C10477,19,20.0,Month-to-month,1,Auto-pay,1
+C10478,65,69.9,Month-to-month,2,Auto-pay,0
+C10479,32,90.33,One year,1,Auto-pay,0
+C10480,36,104.14,Month-to-month,2,Auto-pay,0
+C10481,67,89.89,Month-to-month,1,Auto-pay,0
+C10482,22,58.26,Month-to-month,1,Auto-pay,0
+C10483,45,107.47,Month-to-month,1,Manual,0
+C10484,63,68.69,Month-to-month,2,Auto-pay,0
+C10485,41,76.81,Month-to-month,2,Auto-pay,0
+C10486,34,55.13,Two year,3,Manual,0
+C10487,22,67.65,Month-to-month,2,Auto-pay,0
+C10488,21,62.36,One year,0,Auto-pay,0
+C10489,60,33.55,Month-to-month,2,Auto-pay,0
+C10490,30,94.11,Month-to-month,0,Manual,1
+C10491,24,80.03,One year,0,Manual,0
+C10492,32,98.85,Two year,1,Auto-pay,0
+C10493,5,53.88,Month-to-month,1,Manual,1
+C10494,16,96.16,Month-to-month,3,Auto-pay,1
+C10495,65,27.94,One year,0,Auto-pay,0
+C10496,57,91.24,One year,0,Auto-pay,0
+C10497,64,95.27,One year,1,Manual,0
+C10498,59,43.85,Two year,1,Auto-pay,0
+C10499,3,108.5,Month-to-month,1,Manual,1
+C10500,32,121.75,One year,1,Manual,1
+C10501,10,57.75,Two year,3,Auto-pay,1
+C10502,2,118.48,Month-to-month,1,Auto-pay,1
+C10503,18,23.95,One year,1,Auto-pay,0
+C10504,8,70.91,One year,2,Auto-pay,0
+C10505,64,20.0,Month-to-month,1,Auto-pay,0
+C10506,37,102.89,Month-to-month,1,Auto-pay,0
+C10507,67,29.09,Two year,1,Manual,0
+C10508,19,20.0,Month-to-month,2,Manual,0
+C10509,36,82.87,Month-to-month,0,Auto-pay,0
+C10510,24,106.09,Two year,2,Manual,0
+C10511,37,62.87,Month-to-month,1,Auto-pay,0
+C10512,38,79.09,Month-to-month,1,Auto-pay,0
+C10513,4,127.86,Month-to-month,2,Auto-pay,1
+C10514,48,46.48,Two year,0,Auto-pay,0
+C10515,15,45.56,Month-to-month,4,Auto-pay,1
+C10516,14,107.57,Two year,2,Manual,1
+C10517,71,81.73,Two year,4,Manual,0
+C10518,49,117.75,Month-to-month,1,Manual,0
+C10519,7,36.13,One year,3,Auto-pay,0
+C10520,8,21.33,Month-to-month,2,Manual,1
+C10521,6,31.98,One year,4,Auto-pay,0
+C10522,41,96.2,Month-to-month,3,Manual,1
+C10523,48,111.02,Month-to-month,0,Manual,0
+C10524,48,107.12,Month-to-month,1,Auto-pay,1
+C10525,1,91.66,Month-to-month,1,Auto-pay,1
+C10526,21,112.58,Month-to-month,1,Manual,0
+C10527,14,56.78,One year,1,Manual,1
+C10528,60,20.0,Month-to-month,1,Auto-pay,0
+C10529,11,26.49,Month-to-month,1,Manual,1
+C10530,56,31.4,One year,0,Manual,0
+C10531,18,20.0,One year,2,Auto-pay,0
+C10532,63,34.18,Two year,5,Auto-pay,0
+C10533,23,47.24,Month-to-month,2,Auto-pay,0
+C10534,25,93.2,One year,0,Auto-pay,0
+C10535,39,83.83,Month-to-month,0,Auto-pay,0
+C10536,67,120.25,One year,1,Auto-pay,0
+C10537,32,37.81,Two year,1,Auto-pay,0
+C10538,35,86.19,Month-to-month,1,Auto-pay,1
+C10539,28,114.48,Month-to-month,2,Auto-pay,1
+C10540,23,59.67,Month-to-month,3,Auto-pay,0
+C10541,70,61.64,Month-to-month,1,Auto-pay,0
+C10542,45,116.45,Month-to-month,0,Auto-pay,0
+C10543,69,64.32,Two year,2,Auto-pay,0
+C10544,63,118.0,One year,1,Manual,0
+C10545,31,30.56,Month-to-month,0,Manual,0
+C10546,64,123.57,Month-to-month,3,Auto-pay,0
+C10547,10,112.72,Month-to-month,3,Auto-pay,1
+C10548,18,46.31,Month-to-month,1,Auto-pay,0
+C10549,33,65.75,Two year,1,Manual,0
+C10550,11,37.77,One year,1,Auto-pay,0
+C10551,2,60.19,Month-to-month,0,Manual,0
+C10552,32,28.08,Two year,2,Auto-pay,0
+C10553,5,21.6,Two year,1,Auto-pay,0
+C10554,67,37.38,Month-to-month,1,Manual,0
+C10555,39,106.11,One year,0,Manual,1
+C10556,69,20.0,Month-to-month,0,Auto-pay,0
+C10557,46,116.18,Two year,3,Auto-pay,0
+C10558,20,102.44,Month-to-month,0,Manual,0
+C10559,48,114.52,Two year,1,Auto-pay,0
+C10560,5,85.34,Month-to-month,2,Manual,1
+C10561,36,124.47,One year,1,Manual,0
+C10562,51,31.97,Month-to-month,1,Manual,0
+C10563,32,116.05,Month-to-month,0,Manual,1
+C10564,17,166.24,One year,2,Manual,1
+C10565,66,67.09,Month-to-month,1,Auto-pay,0
+C10566,15,73.34,Month-to-month,1,Auto-pay,0
+C10567,20,47.36,Two year,0,Manual,0
+C10568,53,76.99,Month-to-month,1,Auto-pay,0
+C10569,19,80.58,Month-to-month,2,Manual,0
+C10570,15,20.0,Month-to-month,0,Auto-pay,0
+C10571,11,93.36,Two year,1,Auto-pay,0
+C10572,56,108.29,Month-to-month,3,Manual,0
+C10573,9,48.56,Month-to-month,4,Manual,0
+C10574,66,62.27,Month-to-month,2,Auto-pay,0
+C10575,11,100.45,Month-to-month,1,Auto-pay,0
+C10576,11,47.12,Month-to-month,2,Auto-pay,0
+C10577,69,97.3,Month-to-month,1,Auto-pay,0
+C10578,39,83.58,Month-to-month,1,Auto-pay,0
+C10579,51,145.05,Month-to-month,2,Auto-pay,0
+C10580,50,71.15,Month-to-month,1,Manual,0
+C10581,21,58.99,Month-to-month,3,Auto-pay,1
+C10582,38,82.41,One year,2,Auto-pay,0
+C10583,34,78.47,One year,1,Auto-pay,0
+C10584,65,123.96,Two year,0,Auto-pay,0
+C10585,61,122.38,Month-to-month,2,Manual,0
+C10586,5,53.11,One year,3,Manual,0
+C10587,46,69.23,Month-to-month,0,Manual,0
+C10588,71,54.16,One year,2,Auto-pay,0
+C10589,33,48.85,Two year,1,Auto-pay,0
+C10590,40,20.0,Two year,1,Manual,0
+C10591,55,125.67,One year,0,Auto-pay,0
+C10592,16,54.89,Month-to-month,1,Auto-pay,0
+C10593,21,61.62,Month-to-month,1,Auto-pay,0
+C10594,45,158.1,Month-to-month,1,Auto-pay,1
+C10595,69,55.79,Month-to-month,0,Auto-pay,0
+C10596,48,69.51,One year,1,Auto-pay,0
+C10597,55,83.01,Month-to-month,1,Auto-pay,0
+C10598,1,85.14,Month-to-month,2,Auto-pay,0
+C10599,7,56.44,One year,1,Auto-pay,1
+C10600,60,108.7,One year,2,Manual,0
+C10601,56,79.82,Month-to-month,1,Manual,0
+C10602,6,78.37,One year,2,Auto-pay,0
+C10603,28,54.79,Month-to-month,0,Manual,1
+C10604,16,71.08,One year,0,Auto-pay,0
+C10605,44,104.24,Two year,1,Auto-pay,0
+C10606,43,104.34,One year,1,Auto-pay,0
+C10607,2,62.13,Two year,2,Auto-pay,0
+C10608,55,51.78,Month-to-month,1,Manual,1
+C10609,13,101.36,Month-to-month,2,Auto-pay,1
+C10610,46,84.04,One year,0,Auto-pay,0
+C10611,60,101.31,One year,0,Manual,0
+C10612,45,45.93,Month-to-month,0,Manual,0
+C10613,70,74.36,Month-to-month,2,Auto-pay,0
+C10614,35,101.38,Month-to-month,1,Auto-pay,0
+C10615,20,53.64,Month-to-month,1,Auto-pay,0
+C10616,37,131.62,Month-to-month,2,Manual,1
+C10617,52,123.91,Month-to-month,4,Auto-pay,0
+C10618,31,68.88,One year,1,Auto-pay,0
+C10619,7,69.1,One year,4,Manual,0
+C10620,20,84.64,One year,0,Manual,0
+C10621,38,80.1,Month-to-month,2,Auto-pay,1
+C10622,26,111.44,Two year,0,Manual,0
+C10623,66,48.58,Month-to-month,2,Auto-pay,0
+C10624,63,48.89,Month-to-month,1,Auto-pay,0
+C10625,46,83.13,One year,0,Auto-pay,0
+C10626,28,89.85,Month-to-month,1,Auto-pay,1
+C10627,13,73.92,One year,2,Manual,0
+C10628,55,101.87,Month-to-month,2,Manual,0
+C10629,68,116.02,Two year,3,Auto-pay,1
+C10630,44,97.41,Month-to-month,4,Manual,1
+C10631,2,86.14,Month-to-month,1,Auto-pay,1
+C10632,16,68.5,One year,0,Manual,0
+C10633,40,77.25,One year,3,Manual,0
+C10634,11,34.01,Month-to-month,2,Manual,1
+C10635,41,39.31,Month-to-month,1,Manual,0
+C10636,9,112.76,One year,1,Auto-pay,0
+C10637,32,127.61,One year,1,Manual,0
+C10638,36,34.01,One year,2,Auto-pay,0
+C10639,46,91.4,Month-to-month,3,Auto-pay,1
+C10640,15,29.26,Month-to-month,0,Auto-pay,0
+C10641,43,124.44,Two year,1,Auto-pay,0
+C10642,19,74.5,Month-to-month,1,Manual,1
+C10643,31,150.58,Month-to-month,2,Auto-pay,1
+C10644,60,55.9,One year,1,Manual,0
+C10645,5,59.71,Month-to-month,3,Manual,1
+C10646,35,86.99,Month-to-month,1,Auto-pay,0
+C10647,67,102.11,Month-to-month,0,Auto-pay,0
+C10648,24,99.34,Month-to-month,1,Auto-pay,1
+C10649,31,104.22,Two year,0,Auto-pay,0
+C10650,14,68.22,Two year,1,Auto-pay,0
+C10651,12,104.57,One year,0,Auto-pay,0
+C10652,32,141.71,Month-to-month,1,Auto-pay,0
+C10653,41,99.04,Two year,2,Auto-pay,0
+C10654,19,50.46,Two year,3,Manual,1
+C10655,40,87.81,Month-to-month,1,Manual,0
+C10656,3,20.0,Month-to-month,2,Auto-pay,1
+C10657,38,96.07,Two year,2,Manual,0
+C10658,62,24.98,Two year,2,Auto-pay,0
+C10659,51,96.55,Two year,0,Manual,0
+C10660,41,73.79,Two year,0,Auto-pay,0
+C10661,69,105.14,Month-to-month,4,Auto-pay,0
+C10662,59,76.46,One year,3,Auto-pay,1
+C10663,5,117.4,Month-to-month,3,Auto-pay,1
+C10664,53,92.17,Month-to-month,2,Auto-pay,0
+C10665,52,108.05,Month-to-month,2,Auto-pay,0
+C10666,2,63.48,Month-to-month,3,Auto-pay,1
+C10667,29,61.9,Month-to-month,3,Manual,1
+C10668,47,33.19,One year,1,Auto-pay,0
+C10669,48,40.87,Month-to-month,1,Manual,0
+C10670,10,77.91,Two year,0,Auto-pay,0
+C10671,18,76.97,Month-to-month,1,Manual,1
+C10672,6,87.06,One year,2,Auto-pay,0
+C10673,37,54.33,Two year,1,Manual,0
+C10674,3,80.11,Two year,3,Auto-pay,0
+C10675,45,115.4,Month-to-month,2,Auto-pay,0
+C10676,60,88.01,Month-to-month,2,Auto-pay,0
+C10677,56,76.2,Month-to-month,0,Manual,0
+C10678,41,83.58,One year,1,Manual,0
+C10679,48,112.32,Month-to-month,0,Auto-pay,0
+C10680,55,80.22,Month-to-month,0,Auto-pay,0
+C10681,55,59.42,Month-to-month,2,Manual,0
+C10682,46,59.72,Month-to-month,2,Manual,1
+C10683,70,58.68,Two year,3,Auto-pay,0
+C10684,10,57.92,Month-to-month,0,Auto-pay,0
+C10685,35,98.69,Two year,1,Manual,1
+C10686,44,126.02,Month-to-month,2,Auto-pay,0
+C10687,60,62.74,Two year,1,Auto-pay,0
+C10688,8,47.93,Two year,2,Manual,0
+C10689,22,36.89,One year,3,Manual,0
+C10690,4,126.79,Month-to-month,1,Auto-pay,0
+C10691,22,103.99,Month-to-month,4,Auto-pay,1
+C10692,25,54.57,Two year,1,Auto-pay,0
+C10693,24,79.21,Month-to-month,0,Auto-pay,1
+C10694,8,117.09,Month-to-month,1,Manual,1
+C10695,42,73.09,Month-to-month,1,Auto-pay,0
+C10696,51,100.88,Two year,0,Auto-pay,0
+C10697,15,70.32,Two year,1,Auto-pay,1
+C10698,43,66.14,Month-to-month,1,Manual,0
+C10699,27,20.0,Month-to-month,3,Auto-pay,1
+C10700,49,62.86,Two year,2,Manual,0
+C10701,33,58.92,One year,0,Auto-pay,0
+C10702,65,90.61,One year,2,Manual,0
+C10703,53,82.49,Two year,2,Auto-pay,0
+C10704,26,80.93,Two year,2,Manual,1
+C10705,35,103.58,One year,1,Auto-pay,0
+C10706,40,20.0,Month-to-month,1,Manual,1
+C10707,9,73.51,Two year,2,Manual,0
+C10708,27,39.91,One year,3,Auto-pay,0
+C10709,20,37.45,Month-to-month,0,Auto-pay,0
+C10710,10,66.28,Month-to-month,1,Manual,0
+C10711,18,75.65,One year,2,Auto-pay,0
+C10712,60,90.07,Two year,0,Manual,0
+C10713,58,88.08,Month-to-month,1,Auto-pay,0
+C10714,41,50.21,Month-to-month,1,Auto-pay,0
+C10715,45,69.09,Month-to-month,2,Auto-pay,0
+C10716,45,118.11,Two year,2,Manual,0
+C10717,50,123.42,Month-to-month,1,Auto-pay,0
+C10718,19,65.79,Month-to-month,0,Auto-pay,1
+C10719,41,77.79,Month-to-month,1,Auto-pay,0
+C10720,59,48.11,Month-to-month,2,Manual,0
+C10721,3,105.82,Month-to-month,0,Auto-pay,1
+C10722,37,144.48,Month-to-month,3,Manual,1
+C10723,8,58.95,One year,1,Auto-pay,0
+C10724,5,110.29,One year,2,Manual,1
+C10725,45,97.1,Month-to-month,1,Manual,1
+C10726,23,69.97,One year,1,Manual,0
+C10727,36,54.12,One year,2,Auto-pay,0
+C10728,33,149.35,Month-to-month,0,Auto-pay,1
+C10729,40,97.98,Month-to-month,1,Manual,0
+C10730,24,103.76,One year,2,Manual,0
+C10731,37,68.65,One year,3,Manual,0
+C10732,9,76.83,Month-to-month,1,Manual,1
+C10733,18,38.5,One year,1,Manual,0
+C10734,24,97.83,Two year,3,Auto-pay,1
+C10735,38,63.76,Month-to-month,0,Auto-pay,0
+C10736,1,44.2,Month-to-month,1,Manual,1
+C10737,64,49.35,Month-to-month,2,Manual,0
+C10738,16,147.32,Month-to-month,3,Auto-pay,1
+C10739,60,66.08,One year,0,Manual,0
+C10740,46,86.05,One year,3,Auto-pay,0
+C10741,22,39.15,Two year,2,Manual,0
+C10742,39,69.33,Month-to-month,0,Auto-pay,0
+C10743,20,33.88,Month-to-month,1,Manual,0
+C10744,27,86.16,Month-to-month,2,Auto-pay,0
+C10745,58,47.68,Two year,4,Auto-pay,0
+C10746,69,98.94,One year,1,Manual,0
+C10747,34,21.31,Two year,2,Manual,0
+C10748,4,56.04,One year,0,Manual,0
+C10749,32,110.3,Month-to-month,0,Manual,0
+C10750,46,120.99,One year,0,Auto-pay,0
+C10751,36,75.18,Two year,2,Auto-pay,0
+C10752,45,63.35,Month-to-month,1,Auto-pay,0
+C10753,11,78.49,Month-to-month,3,Manual,1
+C10754,37,136.56,One year,1,Auto-pay,0
+C10755,30,66.95,One year,1,Auto-pay,0
+C10756,19,75.1,Month-to-month,2,Auto-pay,0
+C10757,69,43.41,Month-to-month,1,Auto-pay,0
+C10758,36,54.67,Month-to-month,2,Manual,0
+C10759,25,88.22,Month-to-month,3,Manual,1
+C10760,34,101.79,Two year,1,Manual,0
+C10761,46,84.07,Month-to-month,2,Manual,0
+C10762,11,99.92,Month-to-month,0,Auto-pay,1
+C10763,70,44.98,Month-to-month,3,Manual,0
+C10764,17,42.01,Two year,1,Manual,0
+C10765,8,98.83,Two year,0,Manual,0
+C10766,32,60.72,One year,1,Auto-pay,0
+C10767,69,39.76,Month-to-month,1,Auto-pay,0
+C10768,27,81.09,Two year,0,Manual,0
+C10769,41,77.58,Month-to-month,2,Auto-pay,0
+C10770,10,69.3,Month-to-month,1,Manual,1
+C10771,36,122.61,Month-to-month,1,Manual,0
+C10772,17,131.24,Month-to-month,0,Auto-pay,1
+C10773,1,103.79,Month-to-month,1,Auto-pay,1
+C10774,43,87.88,Month-to-month,0,Auto-pay,1
+C10775,38,116.4,Month-to-month,2,Auto-pay,1
+C10776,50,79.73,Month-to-month,1,Auto-pay,0
+C10777,71,69.19,One year,0,Auto-pay,0
+C10778,54,57.49,One year,2,Manual,0
+C10779,61,51.53,One year,1,Auto-pay,0
+C10780,39,102.84,Two year,0,Auto-pay,1
+C10781,67,29.94,Month-to-month,1,Auto-pay,0
+C10782,4,57.17,Two year,1,Auto-pay,0
+C10783,56,64.39,Month-to-month,0,Manual,0
+C10784,17,32.78,One year,1,Auto-pay,0
+C10785,69,63.26,One year,0,Manual,0
+C10786,52,77.81,Month-to-month,2,Auto-pay,0
+C10787,15,105.82,Two year,1,Auto-pay,0
+C10788,21,59.82,One year,1,Auto-pay,1
+C10789,5,78.02,Month-to-month,0,Auto-pay,1
+C10790,48,30.17,One year,1,Auto-pay,0
+C10791,15,38.51,Month-to-month,2,Auto-pay,1
+C10792,46,20.0,Month-to-month,2,Auto-pay,0
+C10793,5,104.37,Month-to-month,5,Auto-pay,1
+C10794,37,65.16,Two year,1,Manual,0
+C10795,16,81.63,Month-to-month,0,Auto-pay,1
+C10796,22,90.7,Two year,0,Manual,0
+C10797,31,99.25,Two year,1,Manual,0
+C10798,6,135.16,Two year,1,Manual,0
+C10799,27,73.76,One year,3,Auto-pay,0
+C10800,52,53.65,Two year,1,Auto-pay,0
+C10801,25,95.95,Month-to-month,2,Manual,1
+C10802,18,145.89,One year,1,Manual,0
+C10803,35,58.82,One year,2,Manual,0
+C10804,21,51.15,Month-to-month,1,Auto-pay,0
+C10805,64,20.0,One year,1,Auto-pay,0
+C10806,9,20.0,One year,1,Manual,0
+C10807,35,117.58,Month-to-month,3,Auto-pay,0
+C10808,52,69.79,Two year,0,Auto-pay,0
+C10809,28,40.87,Month-to-month,0,Auto-pay,0
+C10810,69,75.09,One year,1,Auto-pay,0
+C10811,71,153.04,Two year,1,Auto-pay,0
+C10812,35,75.13,Two year,4,Auto-pay,0
+C10813,51,132.44,One year,4,Auto-pay,0
+C10814,26,46.89,Two year,1,Auto-pay,0
+C10815,68,118.81,One year,1,Auto-pay,0
+C10816,37,58.17,Month-to-month,1,Auto-pay,0
+C10817,44,51.91,One year,1,Auto-pay,0
+C10818,28,46.81,Month-to-month,2,Auto-pay,1
+C10819,31,65.28,One year,4,Manual,0
+C10820,22,104.28,Month-to-month,3,Manual,1
+C10821,18,60.55,Month-to-month,2,Manual,0
+C10822,69,107.09,Month-to-month,0,Manual,0
+C10823,24,53.48,Month-to-month,2,Manual,1
+C10824,67,72.54,One year,2,Manual,0
+C10825,1,59.08,Month-to-month,0,Auto-pay,1
+C10826,45,129.36,Two year,2,Auto-pay,0
+C10827,58,90.53,Month-to-month,1,Auto-pay,0
+C10828,2,83.53,Month-to-month,1,Manual,1
+C10829,5,66.63,Month-to-month,1,Auto-pay,1
+C10830,27,57.51,One year,1,Auto-pay,0
+C10831,23,44.8,Month-to-month,3,Auto-pay,0
+C10832,15,114.66,Two year,1,Auto-pay,0
+C10833,36,26.56,Month-to-month,0,Auto-pay,0
+C10834,42,64.13,Month-to-month,0,Auto-pay,0
+C10835,62,101.48,One year,2,Auto-pay,0
+C10836,29,24.74,Month-to-month,2,Manual,0
+C10837,57,80.35,One year,0,Auto-pay,0
+C10838,30,48.88,Month-to-month,1,Manual,0
+C10839,54,75.8,One year,1,Manual,0
+C10840,66,69.94,Month-to-month,1,Manual,0
+C10841,30,20.0,One year,2,Auto-pay,0
+C10842,65,94.14,Month-to-month,4,Auto-pay,0
+C10843,40,45.37,Two year,0,Manual,0
+C10844,20,58.54,Month-to-month,4,Manual,0
+C10845,61,76.52,Month-to-month,1,Auto-pay,0
+C10846,45,86.27,Month-to-month,1,Manual,0
+C10847,40,88.42,Month-to-month,3,Auto-pay,0
+C10848,62,98.73,Month-to-month,3,Manual,0
+C10849,47,20.0,Month-to-month,0,Auto-pay,0
+C10850,69,89.48,Month-to-month,1,Manual,0
+C10851,1,75.33,One year,2,Auto-pay,1
+C10852,53,58.4,Month-to-month,2,Auto-pay,0
+C10853,35,82.88,Month-to-month,2,Manual,0
+C10854,8,102.62,One year,1,Auto-pay,1
+C10855,25,48.7,Month-to-month,2,Auto-pay,0
+C10856,49,117.06,Two year,1,Auto-pay,0
+C10857,5,109.39,Month-to-month,1,Manual,1
+C10858,35,86.1,Month-to-month,1,Manual,0
+C10859,48,38.31,One year,2,Auto-pay,0
+C10860,21,139.65,Month-to-month,1,Manual,1
+C10861,62,83.53,Two year,1,Auto-pay,0
+C10862,64,79.45,Month-to-month,2,Auto-pay,0
+C10863,46,78.41,Month-to-month,1,Auto-pay,0
+C10864,46,91.58,Month-to-month,0,Auto-pay,0
+C10865,20,102.81,Month-to-month,0,Auto-pay,0
+C10866,65,74.25,Month-to-month,0,Auto-pay,0
+C10867,36,37.72,One year,2,Auto-pay,0
+C10868,5,106.05,One year,3,Manual,0
+C10869,25,50.54,Month-to-month,0,Manual,0
+C10870,56,44.86,Month-to-month,0,Auto-pay,0
+C10871,41,73.09,Month-to-month,2,Auto-pay,0
+C10872,42,61.33,Month-to-month,1,Auto-pay,0
+C10873,50,86.4,Month-to-month,1,Manual,0
+C10874,22,92.1,Two year,2,Manual,0
+C10875,19,60.9,Month-to-month,2,Manual,1
+C10876,63,78.64,Month-to-month,1,Auto-pay,0
+C10877,35,60.44,Month-to-month,1,Auto-pay,0
+C10878,57,98.0,Two year,2,Manual,0
+C10879,45,89.71,One year,2,Auto-pay,0
+C10880,41,96.52,Month-to-month,0,Auto-pay,0
+C10881,36,66.47,One year,1,Manual,0
+C10882,70,82.75,Two year,1,Auto-pay,0
+C10883,42,90.3,Month-to-month,1,Manual,0
+C10884,57,97.47,Month-to-month,1,Manual,0
+C10885,17,94.89,Month-to-month,1,Auto-pay,1
+C10886,34,71.32,Month-to-month,2,Manual,0
+C10887,39,40.51,Month-to-month,1,Manual,0
+C10888,4,90.05,Month-to-month,1,Manual,0
+C10889,71,88.56,Month-to-month,3,Auto-pay,0
+C10890,44,42.0,One year,1,Auto-pay,0
+C10891,8,100.4,Two year,1,Auto-pay,0
+C10892,31,79.69,Month-to-month,0,Auto-pay,0
+C10893,71,71.13,Two year,2,Manual,0
+C10894,42,81.4,Month-to-month,0,Manual,0
+C10895,16,102.93,Month-to-month,1,Manual,1
+C10896,4,121.76,One year,1,Auto-pay,0
+C10897,29,73.39,Month-to-month,4,Auto-pay,1
+C10898,59,68.09,Month-to-month,3,Auto-pay,0
+C10899,20,93.23,Month-to-month,0,Auto-pay,0
+C10900,58,34.8,Month-to-month,0,Auto-pay,0
+C10901,40,100.87,Month-to-month,4,Auto-pay,1
+C10902,54,34.36,Month-to-month,0,Auto-pay,0
+C10903,65,33.77,Month-to-month,3,Auto-pay,0
+C10904,56,121.6,Month-to-month,0,Auto-pay,0
+C10905,50,20.0,Two year,0,Auto-pay,0
+C10906,13,114.22,Month-to-month,0,Auto-pay,0
+C10907,53,121.79,Month-to-month,0,Auto-pay,0
+C10908,37,85.19,One year,3,Manual,0
+C10909,15,93.17,Month-to-month,1,Manual,1
+C10910,54,27.78,One year,0,Auto-pay,0
+C10911,65,60.23,Month-to-month,0,Auto-pay,0
+C10912,45,85.75,Month-to-month,2,Manual,0
+C10913,63,84.88,Month-to-month,2,Auto-pay,0
+C10914,37,88.33,Two year,2,Manual,0
+C10915,64,84.86,Month-to-month,2,Auto-pay,0
+C10916,26,75.63,Two year,1,Manual,0
+C10917,2,38.35,Month-to-month,3,Auto-pay,1
+C10918,48,85.56,Month-to-month,0,Manual,0
+C10919,25,40.89,Month-to-month,0,Auto-pay,0
+C10920,3,64.06,One year,1,Manual,1
+C10921,39,116.76,Month-to-month,5,Auto-pay,1
+C10922,3,28.07,One year,1,Auto-pay,1
+C10923,37,71.27,Two year,0,Auto-pay,0
+C10924,31,101.05,Two year,0,Auto-pay,0
+C10925,20,94.16,Two year,3,Auto-pay,1
+C10926,39,84.17,Two year,3,Auto-pay,0
+C10927,29,54.68,Month-to-month,3,Auto-pay,1
+C10928,24,114.33,Month-to-month,1,Manual,0
+C10929,6,38.28,Month-to-month,0,Manual,0
+C10930,49,95.79,Month-to-month,2,Manual,0
+C10931,6,79.59,Two year,0,Auto-pay,1
+C10932,66,51.4,Month-to-month,3,Manual,0
+C10933,61,63.33,Month-to-month,1,Auto-pay,0
+C10934,10,129.33,Two year,0,Auto-pay,1
+C10935,26,40.14,Month-to-month,1,Manual,0
+C10936,34,22.2,Month-to-month,4,Auto-pay,0
+C10937,41,55.86,Month-to-month,1,Auto-pay,0
+C10938,67,87.39,Two year,1,Auto-pay,0
+C10939,2,117.71,Month-to-month,6,Manual,1
+C10940,68,75.76,Month-to-month,6,Auto-pay,0
+C10941,47,26.14,Month-to-month,0,Auto-pay,0
+C10942,35,77.87,Month-to-month,1,Auto-pay,0
+C10943,23,100.68,One year,0,Manual,0
+C10944,55,84.62,Month-to-month,0,Manual,0
+C10945,3,89.81,One year,1,Manual,0
+C10946,14,20.0,Month-to-month,5,Auto-pay,0
+C10947,62,34.74,Month-to-month,4,Auto-pay,0
+C10948,58,70.98,Month-to-month,1,Manual,0
+C10949,33,109.0,Month-to-month,1,Manual,0
+C10950,70,51.32,Month-to-month,1,Manual,0
+C10951,29,81.14,Two year,3,Auto-pay,0
+C10952,24,79.99,Month-to-month,0,Manual,1
+C10953,10,43.72,One year,0,Manual,1
+C10954,17,52.91,Two year,4,Manual,1
+C10955,18,74.24,One year,3,Auto-pay,0
+C10956,9,64.03,Two year,2,Manual,1
+C10957,69,99.62,Month-to-month,2,Auto-pay,0
+C10958,32,62.38,Month-to-month,1,Manual,0
+C10959,71,101.61,Month-to-month,1,Auto-pay,0
+C10960,24,64.15,Month-to-month,2,Auto-pay,1
+C10961,64,75.72,Month-to-month,1,Auto-pay,0
+C10962,36,99.0,One year,4,Auto-pay,0
+C10963,18,71.78,Month-to-month,1,Manual,1
+C10964,37,62.22,One year,1,Manual,0
+C10965,16,72.92,Month-to-month,1,Auto-pay,0
+C10966,62,101.8,Month-to-month,1,Manual,0
+C10967,23,84.95,Month-to-month,0,Auto-pay,0
+C10968,63,20.0,Two year,1,Manual,0
+C10969,54,53.34,Two year,1,Auto-pay,0
+C10970,32,53.6,Month-to-month,2,Auto-pay,0
+C10971,33,92.51,Month-to-month,2,Manual,0
+C10972,54,20.0,Month-to-month,3,Manual,0
+C10973,3,83.39,One year,0,Auto-pay,0
+C10974,40,94.08,Month-to-month,1,Auto-pay,0
+C10975,50,94.08,Month-to-month,2,Auto-pay,0
+C10976,52,72.46,Month-to-month,0,Manual,0
+C10977,64,26.52,Month-to-month,0,Manual,0
+C10978,50,67.28,Month-to-month,0,Auto-pay,0
+C10979,32,119.21,Month-to-month,2,Auto-pay,1
+C10980,59,57.12,Month-to-month,4,Manual,0
+C10981,13,140.43,Month-to-month,2,Auto-pay,1
+C10982,12,99.33,Month-to-month,4,Auto-pay,1
+C10983,1,70.71,Two year,1,Manual,0
+C10984,57,81.77,Month-to-month,5,Auto-pay,1
+C10985,23,86.23,Two year,2,Manual,0
+C10986,16,57.69,One year,3,Auto-pay,0
+C10987,14,62.58,One year,2,Manual,0
+C10988,49,134.84,Month-to-month,4,Manual,1
+C10989,34,119.75,Two year,0,Auto-pay,0
+C10990,69,63.67,Month-to-month,4,Auto-pay,0
+C10991,49,51.63,Month-to-month,2,Auto-pay,0
+C10992,42,27.21,Month-to-month,1,Auto-pay,0
+C10993,13,139.7,Month-to-month,0,Auto-pay,1
+C10994,63,105.73,Month-to-month,1,Auto-pay,0
+C10995,22,112.39,Two year,2,Manual,0
+C10996,58,58.7,One year,1,Auto-pay,0
+C10997,1,56.72,Two year,2,Manual,0
+C10998,50,47.36,One year,1,Auto-pay,0
+C10999,56,20.0,Month-to-month,0,Auto-pay,0
+C11000,6,48.76,Month-to-month,0,Auto-pay,0
+C11001,51,84.59,Month-to-month,1,Manual,0
+C11002,2,82.45,Two year,3,Auto-pay,0
+C11003,38,56.52,One year,1,Auto-pay,0
+C11004,65,94.64,Month-to-month,2,Manual,0
+C11005,29,54.78,One year,0,Auto-pay,0
+C11006,50,98.03,One year,2,Auto-pay,0
+C11007,14,97.65,Two year,2,Auto-pay,0
+C11008,39,99.57,One year,0,Auto-pay,0
+C11009,33,77.22,One year,2,Manual,0
+C11010,1,50.51,Month-to-month,0,Auto-pay,0
+C11011,60,39.23,Month-to-month,3,Auto-pay,0
+C11012,9,20.0,Month-to-month,1,Manual,0
+C11013,5,97.72,One year,1,Auto-pay,0
+C11014,49,24.42,Two year,1,Auto-pay,0
+C11015,59,70.95,One year,4,Auto-pay,0
+C11016,17,81.54,Two year,1,Manual,0
+C11017,49,42.93,One year,1,Auto-pay,0
+C11018,26,71.3,One year,0,Auto-pay,1
+C11019,55,84.57,Month-to-month,0,Auto-pay,0
+C11020,59,66.8,One year,1,Auto-pay,0
+C11021,41,88.81,Month-to-month,0,Manual,1
+C11022,24,61.66,Month-to-month,1,Auto-pay,1
+C11023,26,66.67,One year,0,Manual,0
+C11024,37,48.34,One year,4,Auto-pay,0
+C11025,14,70.93,Two year,1,Auto-pay,0
+C11026,6,75.18,Month-to-month,1,Auto-pay,1
+C11027,49,47.28,Month-to-month,3,Auto-pay,0
+C11028,36,87.87,Month-to-month,2,Auto-pay,1
+C11029,37,20.0,Month-to-month,0,Manual,0
+C11030,51,107.46,Month-to-month,1,Manual,0
+C11031,34,32.48,Month-to-month,1,Auto-pay,0
+C11032,17,106.21,Two year,1,Manual,0
+C11033,1,93.61,Month-to-month,1,Auto-pay,1
+C11034,42,105.38,Two year,0,Auto-pay,0
+C11035,43,41.21,Month-to-month,0,Manual,0
+C11036,42,68.89,One year,0,Auto-pay,0
+C11037,7,83.81,One year,0,Manual,1
+C11038,58,87.84,Month-to-month,0,Auto-pay,0
+C11039,64,100.2,Month-to-month,2,Auto-pay,0
+C11040,26,94.54,One year,2,Auto-pay,0
+C11041,3,89.27,Month-to-month,3,Manual,1
+C11042,64,89.74,Month-to-month,3,Auto-pay,0
+C11043,46,95.51,One year,0,Auto-pay,0
+C11044,34,75.6,Month-to-month,2,Manual,1
+C11045,13,109.38,Two year,0,Manual,1
+C11046,3,72.69,Month-to-month,2,Manual,0
+C11047,17,24.26,Month-to-month,0,Auto-pay,1
+C11048,6,112.36,One year,0,Manual,0
+C11049,12,89.04,One year,3,Auto-pay,0
+C11050,65,70.53,Month-to-month,3,Manual,0
+C11051,49,78.42,Month-to-month,2,Auto-pay,0
+C11052,6,120.21,Month-to-month,2,Auto-pay,1
+C11053,57,78.0,Month-to-month,1,Auto-pay,0
+C11054,57,120.57,Month-to-month,3,Auto-pay,0
+C11055,14,89.15,Month-to-month,1,Auto-pay,1
+C11056,71,64.11,Month-to-month,0,Auto-pay,0
+C11057,9,35.71,One year,2,Auto-pay,0
+C11058,60,77.74,Month-to-month,0,Auto-pay,1
+C11059,22,114.42,Month-to-month,1,Manual,0
+C11060,29,57.95,Two year,1,Auto-pay,0
+C11061,32,86.0,Month-to-month,0,Manual,1
+C11062,17,121.05,Month-to-month,2,Auto-pay,1
+C11063,61,21.81,Month-to-month,1,Manual,0
+C11064,12,86.93,Month-to-month,1,Manual,1
+C11065,44,91.62,Month-to-month,0,Auto-pay,0
+C11066,27,85.68,Two year,2,Auto-pay,0
+C11067,69,23.88,Month-to-month,1,Manual,0
+C11068,35,52.22,Month-to-month,3,Manual,1
+C11069,63,20.0,Month-to-month,3,Auto-pay,0
+C11070,34,35.47,Month-to-month,1,Auto-pay,0
+C11071,51,100.31,Month-to-month,0,Auto-pay,0
+C11072,44,65.1,Two year,2,Manual,0
+C11073,27,99.58,Month-to-month,1,Auto-pay,1
+C11074,57,97.94,One year,2,Manual,0
+C11075,24,41.29,Month-to-month,2,Auto-pay,0
+C11076,12,80.08,One year,3,Manual,0
+C11077,48,27.41,Two year,4,Auto-pay,0
+C11078,24,83.24,Month-to-month,0,Manual,1
+C11079,51,87.71,Month-to-month,0,Auto-pay,0
+C11080,53,68.18,Month-to-month,0,Manual,0
+C11081,52,24.54,Month-to-month,1,Auto-pay,0
+C11082,64,30.37,Month-to-month,3,Manual,0
+C11083,56,151.28,Month-to-month,1,Auto-pay,0
+C11084,60,93.64,Month-to-month,2,Manual,0
+C11085,68,66.63,Month-to-month,2,Auto-pay,0
+C11086,69,103.8,Month-to-month,2,Auto-pay,0
+C11087,4,119.15,Month-to-month,1,Manual,1
+C11088,57,111.32,One year,1,Auto-pay,0
+C11089,62,69.2,Month-to-month,1,Auto-pay,0
+C11090,70,64.98,Month-to-month,2,Auto-pay,0
+C11091,15,98.88,Month-to-month,3,Auto-pay,1
+C11092,67,67.94,One year,2,Manual,0
+C11093,71,110.96,Month-to-month,2,Auto-pay,1
+C11094,47,78.36,One year,1,Manual,0
+C11095,28,98.8,One year,0,Manual,0
+C11096,51,106.19,Month-to-month,1,Auto-pay,1
+C11097,9,36.03,Month-to-month,2,Manual,1
+C11098,22,79.37,Two year,0,Auto-pay,0
+C11099,40,109.45,Month-to-month,2,Manual,0
+C11100,64,50.8,One year,0,Manual,0
+C11101,33,58.56,One year,5,Auto-pay,0
+C11102,50,111.04,Month-to-month,0,Auto-pay,0
+C11103,41,120.84,One year,3,Auto-pay,1
+C11104,64,20.0,Month-to-month,0,Auto-pay,0
+C11105,63,110.96,One year,0,Auto-pay,0
+C11106,16,20.0,Two year,2,Auto-pay,0
+C11107,34,73.11,One year,2,Manual,0
+C11108,27,33.43,Month-to-month,2,Manual,0
+C11109,48,58.57,One year,1,Auto-pay,0
+C11110,7,78.15,One year,3,Manual,0
+C11111,18,90.92,Month-to-month,4,Auto-pay,0
+C11112,67,117.88,Month-to-month,0,Manual,0
+C11113,57,34.64,Month-to-month,1,Auto-pay,0
+C11114,58,109.69,One year,2,Manual,0
+C11115,46,66.67,One year,1,Manual,0
+C11116,55,67.31,Two year,2,Auto-pay,0
+C11117,35,126.01,Two year,3,Auto-pay,0
+C11118,32,100.27,Two year,2,Auto-pay,0
+C11119,31,24.53,Two year,1,Manual,0
+C11120,1,72.65,Month-to-month,0,Manual,1
+C11121,23,52.57,Month-to-month,2,Auto-pay,0
+C11122,69,61.96,Month-to-month,1,Auto-pay,0
+C11123,55,71.06,One year,0,Auto-pay,0
+C11124,28,88.9,One year,1,Auto-pay,0
+C11125,11,37.34,Two year,0,Manual,0
+C11126,18,68.35,One year,2,Auto-pay,0
+C11127,44,63.16,One year,1,Auto-pay,0
+C11128,61,86.52,Two year,0,Auto-pay,0
+C11129,25,73.41,One year,2,Auto-pay,1
+C11130,15,103.13,Month-to-month,0,Auto-pay,1
+C11131,29,82.76,Month-to-month,2,Auto-pay,0
+C11132,13,93.1,Two year,1,Auto-pay,0
+C11133,33,81.99,One year,3,Manual,1
+C11134,34,40.51,Month-to-month,1,Manual,0
+C11135,22,63.76,Month-to-month,0,Manual,0
+C11136,33,54.94,One year,1,Auto-pay,0
+C11137,42,97.77,One year,2,Auto-pay,1
+C11138,63,100.54,Two year,0,Manual,0
+C11139,55,72.54,Month-to-month,2,Auto-pay,0
+C11140,71,79.36,Two year,3,Auto-pay,0
+C11141,41,27.62,Two year,1,Auto-pay,0
+C11142,19,63.31,One year,1,Auto-pay,0
+C11143,6,20.0,One year,1,Manual,1
+C11144,15,99.27,Month-to-month,1,Manual,1
+C11145,26,141.87,Month-to-month,1,Manual,1
+C11146,34,59.0,Month-to-month,2,Manual,0
+C11147,41,81.87,Month-to-month,1,Manual,1
+C11148,32,87.52,Month-to-month,2,Manual,1
+C11149,24,40.9,One year,1,Auto-pay,0
+C11150,59,71.06,Month-to-month,1,Auto-pay,0
+C11151,44,89.03,Two year,2,Manual,0
+C11152,7,80.07,Two year,2,Auto-pay,0
+C11153,38,76.79,Month-to-month,3,Auto-pay,1
+C11154,12,66.11,Two year,2,Manual,0
+C11155,57,50.52,Month-to-month,0,Auto-pay,0
+C11156,15,95.28,Two year,2,Auto-pay,0
+C11157,38,127.81,One year,0,Auto-pay,0
+C11158,6,20.0,Month-to-month,2,Auto-pay,0
+C11159,67,20.0,One year,1,Manual,0
+C11160,5,38.56,One year,0,Auto-pay,1
+C11161,46,61.76,Two year,4,Manual,0
+C11162,37,67.13,One year,3,Auto-pay,0
+C11163,5,78.81,One year,4,Auto-pay,1
+C11164,64,77.17,One year,1,Manual,0
+C11165,30,70.84,Two year,0,Auto-pay,0
+C11166,59,113.16,One year,1,Auto-pay,0
+C11167,33,47.23,One year,1,Manual,0
+C11168,14,102.22,Month-to-month,0,Auto-pay,1
+C11169,21,134.55,Two year,2,Auto-pay,0
+C11170,11,30.88,Two year,2,Manual,0
+C11171,30,20.0,Month-to-month,1,Manual,0
+C11172,44,80.57,Two year,0,Auto-pay,0
+C11173,39,94.4,Month-to-month,2,Auto-pay,0
+C11174,24,76.09,One year,3,Auto-pay,0
+C11175,26,20.0,Two year,1,Auto-pay,0
+C11176,36,24.4,Month-to-month,0,Manual,0
+C11177,21,59.76,One year,3,Auto-pay,0
+C11178,51,87.47,Two year,1,Manual,0
+C11179,24,64.36,Two year,1,Manual,1
+C11180,64,81.4,One year,1,Auto-pay,0
+C11181,18,80.56,Month-to-month,0,Manual,0
+C11182,14,102.93,One year,1,Auto-pay,0
+C11183,68,40.18,Month-to-month,1,Auto-pay,0
+C11184,5,77.64,One year,0,Auto-pay,0
+C11185,1,118.16,One year,1,Manual,0
+C11186,17,51.3,Two year,0,Auto-pay,0
+C11187,13,56.19,Month-to-month,0,Auto-pay,0
+C11188,40,77.59,One year,0,Manual,0
+C11189,62,43.28,One year,2,Auto-pay,0
+C11190,7,40.07,One year,1,Auto-pay,0
+C11191,37,64.59,One year,0,Manual,0
+C11192,24,67.68,Month-to-month,2,Auto-pay,1
+C11193,56,97.54,One year,2,Manual,0
+C11194,22,48.1,Month-to-month,2,Manual,1
+C11195,22,75.91,Two year,2,Auto-pay,1
+C11196,8,112.03,Month-to-month,2,Manual,1
+C11197,1,110.24,Two year,1,Auto-pay,0
+C11198,70,71.69,Month-to-month,1,Auto-pay,0
+C11199,31,80.67,Month-to-month,1,Auto-pay,0
+C11200,61,47.84,One year,1,Manual,0
+C11201,69,83.67,Month-to-month,2,Auto-pay,0
+C11202,43,120.91,One year,1,Auto-pay,0
+C11203,39,113.98,One year,2,Auto-pay,1
+C11204,63,74.33,Month-to-month,0,Auto-pay,0
+C11205,53,85.38,One year,0,Auto-pay,0
+C11206,21,52.93,Month-to-month,2,Auto-pay,0
+C11207,71,47.11,One year,0,Auto-pay,0
+C11208,60,64.07,One year,3,Auto-pay,0
+C11209,2,83.12,One year,3,Manual,1
+C11210,49,96.66,Month-to-month,2,Auto-pay,1
+C11211,3,72.62,One year,0,Manual,1
+C11212,17,88.2,Month-to-month,1,Manual,1
+C11213,45,20.0,Month-to-month,1,Auto-pay,0
+C11214,48,80.11,Month-to-month,2,Auto-pay,0
+C11215,16,56.39,Month-to-month,1,Manual,0
+C11216,37,37.47,Two year,0,Manual,0
+C11217,8,88.62,One year,3,Auto-pay,0
+C11218,36,118.41,Month-to-month,2,Auto-pay,1
+C11219,19,74.59,Two year,3,Auto-pay,1
+C11220,67,101.39,One year,0,Manual,0
+C11221,57,62.47,Month-to-month,0,Auto-pay,0
+C11222,28,136.59,Two year,1,Auto-pay,0
+C11223,31,27.71,One year,1,Auto-pay,0
+C11224,66,71.97,Month-to-month,0,Manual,1
+C11225,62,97.54,One year,2,Auto-pay,0
+C11226,59,74.07,Month-to-month,0,Manual,0
+C11227,39,116.29,Month-to-month,1,Auto-pay,0
+C11228,31,20.0,Month-to-month,0,Manual,0
+C11229,44,71.66,Month-to-month,3,Manual,0
+C11230,56,67.52,Month-to-month,4,Manual,0
+C11231,8,71.69,Month-to-month,0,Auto-pay,0
+C11232,9,27.51,Month-to-month,2,Auto-pay,1
+C11233,32,66.26,Two year,1,Manual,0
+C11234,36,64.87,Month-to-month,0,Manual,0
+C11235,14,82.3,Two year,0,Manual,1
+C11236,5,107.95,One year,0,Manual,1
+C11237,36,78.34,Month-to-month,1,Auto-pay,1
+C11238,14,87.53,Month-to-month,0,Auto-pay,0
+C11239,11,112.73,One year,0,Manual,1
+C11240,26,110.68,Month-to-month,3,Manual,1
+C11241,65,20.0,One year,3,Auto-pay,0
+C11242,7,98.92,Month-to-month,0,Manual,0
+C11243,33,98.73,Month-to-month,1,Auto-pay,0
+C11244,64,67.13,One year,1,Manual,0
+C11245,1,61.24,Month-to-month,1,Auto-pay,1
+C11246,63,41.13,Month-to-month,5,Manual,0
+C11247,56,20.0,Month-to-month,1,Manual,0
+C11248,1,100.49,Month-to-month,1,Auto-pay,1
+C11249,30,97.95,One year,1,Auto-pay,0
+C11250,8,72.0,One year,3,Auto-pay,0
+C11251,28,96.3,Two year,1,Auto-pay,0
+C11252,67,105.71,One year,0,Manual,0
+C11253,60,21.13,Two year,1,Manual,0
+C11254,1,82.48,Month-to-month,3,Auto-pay,1
+C11255,59,67.72,One year,2,Auto-pay,0
+C11256,68,87.97,Two year,1,Auto-pay,0
+C11257,46,80.59,Two year,3,Manual,0
+C11258,41,98.1,Two year,2,Auto-pay,0
+C11259,48,27.51,Month-to-month,4,Auto-pay,0
+C11260,40,114.42,Month-to-month,0,Manual,1
+C11261,18,59.29,Month-to-month,2,Auto-pay,1
+C11262,3,70.97,Month-to-month,0,Manual,1
+C11263,4,22.21,Month-to-month,2,Manual,1
+C11264,26,71.89,Month-to-month,1,Auto-pay,1
+C11265,53,74.45,Month-to-month,2,Manual,0
+C11266,60,72.61,Month-to-month,1,Auto-pay,0
+C11267,16,52.92,One year,0,Manual,0
+C11268,23,38.41,Two year,0,Auto-pay,0
+C11269,1,94.24,Month-to-month,3,Manual,0
+C11270,65,22.89,Two year,4,Manual,0
+C11271,12,99.14,Two year,2,Auto-pay,0
+C11272,37,125.84,Month-to-month,1,Manual,1
+C11273,5,141.5,Two year,1,Auto-pay,0
+C11274,60,42.49,Month-to-month,0,Auto-pay,0
+C11275,63,92.73,Month-to-month,1,Manual,0
+C11276,56,58.12,Month-to-month,1,Auto-pay,0
+C11277,13,111.74,One year,1,Auto-pay,0
+C11278,33,86.79,Month-to-month,1,Auto-pay,0
+C11279,68,66.23,Month-to-month,2,Manual,0
+C11280,60,47.69,One year,2,Auto-pay,0
+C11281,12,63.91,Two year,1,Auto-pay,0
+C11282,62,54.77,One year,1,Manual,0
+C11283,35,74.27,Month-to-month,0,Auto-pay,0
+C11284,69,75.82,Two year,1,Auto-pay,0
+C11285,30,58.36,Month-to-month,2,Manual,1
+C11286,6,55.68,Two year,1,Manual,0
+C11287,35,93.82,Month-to-month,2,Auto-pay,0
+C11288,58,96.01,Two year,0,Auto-pay,0
+C11289,60,50.62,Month-to-month,2,Auto-pay,0
+C11290,48,73.36,Month-to-month,0,Manual,0
+C11291,62,49.07,Two year,0,Manual,0
+C11292,50,153.24,One year,0,Manual,0
+C11293,42,46.78,One year,1,Manual,0
+C11294,66,82.6,One year,2,Auto-pay,0
+C11295,20,88.35,Month-to-month,2,Auto-pay,1
+C11296,3,55.04,Month-to-month,2,Auto-pay,1
+C11297,67,49.19,Month-to-month,3,Manual,0
+C11298,54,66.62,One year,1,Manual,0
+C11299,56,49.05,Month-to-month,1,Auto-pay,0
+C11300,27,80.65,Month-to-month,3,Manual,0
+C11301,37,49.51,Month-to-month,1,Auto-pay,0
+C11302,43,79.4,Month-to-month,3,Auto-pay,1
+C11303,46,20.0,Month-to-month,1,Auto-pay,0
+C11304,17,50.79,Month-to-month,3,Auto-pay,1
+C11305,28,62.4,Month-to-month,4,Manual,1
+C11306,21,105.02,One year,3,Auto-pay,0
+C11307,32,20.0,Month-to-month,2,Manual,1
+C11308,44,105.46,Month-to-month,3,Manual,1
+C11309,18,94.79,Month-to-month,2,Auto-pay,1
+C11310,27,21.43,Month-to-month,0,Auto-pay,1
+C11311,26,91.14,Two year,2,Auto-pay,0
+C11312,22,47.1,Two year,1,Manual,1
+C11313,58,92.14,Month-to-month,2,Manual,0
+C11314,3,93.92,Month-to-month,1,Auto-pay,0
+C11315,43,98.79,Month-to-month,0,Manual,1
+C11316,11,57.86,One year,2,Manual,0
+C11317,35,95.46,Month-to-month,0,Manual,0
+C11318,44,121.2,Month-to-month,1,Manual,0
+C11319,34,66.26,One year,2,Manual,0
+C11320,29,70.07,One year,0,Manual,0
+C11321,43,96.31,Month-to-month,1,Manual,1
+C11322,3,20.0,Month-to-month,2,Auto-pay,0
+C11323,65,45.55,One year,2,Manual,0
+C11324,25,105.21,One year,0,Auto-pay,0
+C11325,4,79.61,Month-to-month,1,Auto-pay,0
+C11326,26,68.54,Two year,4,Manual,1
+C11327,26,46.75,Month-to-month,3,Auto-pay,1
+C11328,17,75.8,Month-to-month,1,Auto-pay,0
+C11329,44,59.07,One year,1,Auto-pay,1
+C11330,12,22.59,One year,4,Auto-pay,0
+C11331,25,114.08,Two year,1,Manual,1
+C11332,1,54.15,Month-to-month,3,Auto-pay,1
+C11333,17,66.85,Two year,1,Manual,1
+C11334,45,21.51,Month-to-month,2,Auto-pay,0
+C11335,20,58.95,Month-to-month,0,Auto-pay,0
+C11336,55,105.18,Two year,1,Auto-pay,0
+C11337,36,102.93,Month-to-month,1,Auto-pay,0
+C11338,17,75.76,One year,1,Auto-pay,0
+C11339,19,56.26,One year,1,Manual,0
+C11340,24,75.77,One year,0,Manual,0
+C11341,39,90.17,Month-to-month,0,Auto-pay,0
+C11342,64,30.09,Month-to-month,1,Auto-pay,0
+C11343,18,82.52,Two year,1,Auto-pay,0
+C11344,69,97.99,Month-to-month,0,Auto-pay,0
+C11345,47,73.19,Month-to-month,1,Auto-pay,0
+C11346,41,74.42,Month-to-month,1,Manual,1
+C11347,23,53.21,Month-to-month,0,Auto-pay,0
+C11348,29,83.92,Month-to-month,0,Auto-pay,0
+C11349,55,123.25,Month-to-month,1,Auto-pay,0
+C11350,71,117.19,Two year,3,Manual,0
+C11351,36,57.73,Month-to-month,1,Auto-pay,1
+C11352,5,63.76,One year,2,Auto-pay,1
+C11353,41,115.97,One year,2,Auto-pay,0
+C11354,21,92.85,Two year,3,Manual,0
+C11355,55,92.25,Month-to-month,1,Manual,0
+C11356,38,20.75,One year,2,Auto-pay,0
+C11357,10,102.44,Month-to-month,3,Auto-pay,1
+C11358,18,66.59,Two year,3,Manual,1
+C11359,65,82.0,Two year,1,Auto-pay,0
+C11360,66,53.84,Two year,1,Auto-pay,0
+C11361,27,124.49,Month-to-month,0,Manual,1
+C11362,38,45.75,Month-to-month,2,Manual,0
+C11363,24,133.58,Two year,1,Auto-pay,0
+C11364,64,75.86,One year,0,Auto-pay,0
+C11365,61,69.98,Month-to-month,0,Auto-pay,1
+C11366,24,48.51,Month-to-month,1,Auto-pay,0
+C11367,18,59.32,Month-to-month,2,Auto-pay,1
+C11368,12,68.9,One year,3,Auto-pay,0
+C11369,55,79.04,Month-to-month,2,Manual,0
+C11370,66,91.18,Two year,2,Auto-pay,0
+C11371,38,68.74,One year,1,Auto-pay,0
+C11372,34,91.16,Two year,2,Manual,0
+C11373,27,110.48,Month-to-month,1,Manual,1
+C11374,57,106.76,One year,0,Auto-pay,0
+C11375,4,93.8,Two year,0,Auto-pay,0
+C11376,23,90.01,One year,1,Manual,0
+C11377,43,43.19,One year,1,Auto-pay,0
+C11378,8,81.27,Month-to-month,0,Auto-pay,0
+C11379,25,42.46,Month-to-month,3,Manual,1
+C11380,45,105.51,One year,1,Auto-pay,0
+C11381,25,83.66,Month-to-month,1,Auto-pay,0
+C11382,19,108.89,Two year,0,Auto-pay,0
+C11383,52,110.26,One year,2,Manual,0
+C11384,66,88.23,Month-to-month,1,Manual,0
+C11385,16,54.71,One year,1,Auto-pay,0
+C11386,21,20.0,One year,2,Manual,0
+C11387,16,91.28,One year,0,Auto-pay,0
+C11388,21,69.96,One year,3,Manual,0
+C11389,66,99.01,Month-to-month,1,Manual,0
+C11390,54,95.95,Month-to-month,1,Manual,0
+C11391,58,92.95,Two year,0,Auto-pay,0
+C11392,27,82.41,Month-to-month,1,Manual,1
+C11393,9,25.24,Month-to-month,3,Auto-pay,1
+C11394,11,112.91,Two year,3,Auto-pay,0
+C11395,67,37.29,Month-to-month,0,Auto-pay,0
+C11396,17,55.58,Two year,3,Auto-pay,0
+C11397,8,65.09,Month-to-month,2,Auto-pay,1
+C11398,48,75.55,Month-to-month,2,Manual,0
+C11399,23,65.43,One year,2,Auto-pay,0
+C11400,9,58.33,Month-to-month,1,Auto-pay,0
+C11401,25,99.08,Two year,6,Auto-pay,1
+C11402,50,35.05,One year,3,Auto-pay,0
+C11403,24,62.57,Month-to-month,1,Auto-pay,0
+C11404,68,20.0,Two year,0,Auto-pay,0
+C11405,32,44.07,Month-to-month,2,Manual,0
+C11406,10,28.11,Month-to-month,1,Auto-pay,1
+C11407,64,97.02,Month-to-month,1,Auto-pay,1
+C11408,20,80.6,Month-to-month,2,Manual,0
+C11409,26,50.73,One year,0,Auto-pay,0
+C11410,25,20.0,Two year,1,Auto-pay,0
+C11411,35,29.23,One year,4,Auto-pay,0
+C11412,42,42.03,One year,0,Manual,0
+C11413,41,64.18,Month-to-month,2,Auto-pay,0
+C11414,46,97.73,One year,3,Manual,0
+C11415,20,31.84,Month-to-month,0,Auto-pay,0
+C11416,69,34.48,One year,0,Manual,0
+C11417,34,24.72,Month-to-month,0,Auto-pay,0
+C11418,70,75.08,Month-to-month,1,Manual,0
+C11419,6,20.0,Month-to-month,0,Auto-pay,1
+C11420,23,22.04,Month-to-month,2,Manual,0
+C11421,59,89.14,One year,1,Auto-pay,0
+C11422,15,120.72,Month-to-month,3,Manual,1
+C11423,46,76.91,Month-to-month,3,Manual,0
+C11424,18,65.58,Month-to-month,1,Auto-pay,0
+C11425,59,140.34,Month-to-month,0,Auto-pay,0
+C11426,44,59.35,Month-to-month,1,Auto-pay,0
+C11427,36,59.45,Month-to-month,0,Auto-pay,0
+C11428,20,58.91,One year,1,Auto-pay,1
+C11429,66,120.02,Month-to-month,1,Manual,0
+C11430,58,91.17,One year,3,Auto-pay,0
+C11431,33,90.85,One year,2,Auto-pay,1
+C11432,33,84.8,Month-to-month,1,Manual,0
+C11433,55,61.3,Month-to-month,3,Auto-pay,0
+C11434,1,65.3,Month-to-month,1,Auto-pay,1
+C11435,56,46.06,Month-to-month,0,Manual,0
+C11436,56,63.12,Month-to-month,2,Manual,1
+C11437,53,83.48,Two year,1,Auto-pay,0
+C11438,31,69.14,Month-to-month,1,Auto-pay,0
+C11439,33,99.28,Month-to-month,0,Auto-pay,0
+C11440,71,82.88,Two year,0,Auto-pay,0
+C11441,50,80.69,One year,2,Auto-pay,0
+C11442,55,48.96,Two year,0,Auto-pay,0
+C11443,33,38.21,Month-to-month,2,Auto-pay,0
+C11444,40,41.21,One year,5,Auto-pay,0
+C11445,27,107.64,Two year,2,Auto-pay,0
+C11446,9,23.19,Two year,0,Auto-pay,0
+C11447,58,80.7,Month-to-month,0,Auto-pay,0
+C11448,38,80.71,Month-to-month,3,Auto-pay,1
+C11449,38,54.47,Month-to-month,0,Manual,0
+C11450,44,73.92,One year,4,Manual,0
+C11451,49,80.14,Month-to-month,1,Auto-pay,0
+C11452,61,40.35,Month-to-month,2,Auto-pay,0
+C11453,53,51.32,Month-to-month,1,Auto-pay,0
+C11454,58,70.98,Month-to-month,2,Auto-pay,0
+C11455,51,71.9,Two year,0,Auto-pay,0
+C11456,67,32.34,Month-to-month,0,Auto-pay,0
+C11457,9,75.1,Two year,1,Manual,1
+C11458,51,76.23,Month-to-month,2,Auto-pay,1
+C11459,9,102.47,One year,0,Auto-pay,0
+C11460,35,71.84,Month-to-month,3,Auto-pay,1
+C11461,4,60.39,Month-to-month,0,Auto-pay,1
+C11462,30,95.51,Two year,2,Auto-pay,0
+C11463,27,105.9,Month-to-month,1,Manual,1
+C11464,34,30.94,Month-to-month,1,Auto-pay,1
+C11465,60,56.73,Two year,0,Auto-pay,0
+C11466,22,20.0,Month-to-month,1,Auto-pay,0
+C11467,8,43.55,Two year,1,Manual,0
+C11468,10,116.91,Month-to-month,0,Manual,1
+C11469,57,40.12,Month-to-month,5,Manual,0
+C11470,19,86.27,One year,2,Manual,0
+C11471,27,84.59,Month-to-month,0,Manual,1
+C11472,50,54.76,One year,0,Manual,0
+C11473,63,58.64,Two year,3,Auto-pay,0
+C11474,6,114.04,Month-to-month,1,Manual,1
+C11475,55,100.57,One year,1,Manual,0
+C11476,28,139.38,Month-to-month,2,Auto-pay,1
+C11477,37,20.0,One year,1,Auto-pay,0
+C11478,13,88.29,Month-to-month,3,Manual,1
+C11479,9,20.0,Month-to-month,2,Auto-pay,0
+C11480,49,71.01,Month-to-month,0,Manual,0
+C11481,45,65.5,One year,1,Auto-pay,0
+C11482,24,37.73,Month-to-month,4,Manual,1
+C11483,26,53.95,Month-to-month,2,Manual,0
+C11484,38,63.1,Month-to-month,0,Manual,0
+C11485,32,85.19,Month-to-month,0,Manual,1
+C11486,60,37.68,Month-to-month,3,Manual,1
+C11487,16,49.94,Month-to-month,0,Manual,0
+C11488,38,87.65,Month-to-month,1,Auto-pay,0
+C11489,47,93.63,Month-to-month,0,Manual,0
+C11490,22,150.95,Month-to-month,2,Manual,1
+C11491,15,77.08,One year,1,Auto-pay,0
+C11492,43,91.03,Month-to-month,3,Auto-pay,1
+C11493,29,65.3,Month-to-month,2,Auto-pay,0
+C11494,70,114.1,One year,6,Manual,0
+C11495,15,44.04,One year,0,Auto-pay,0
+C11496,41,70.01,Month-to-month,1,Manual,0
+C11497,30,79.55,Two year,2,Manual,0
+C11498,25,86.67,Month-to-month,1,Auto-pay,0
+C11499,41,100.1,Month-to-month,0,Auto-pay,0
+C11500,55,65.91,Two year,2,Manual,0
+C11501,21,98.79,Month-to-month,0,Auto-pay,0
+C11502,44,29.58,Two year,0,Auto-pay,0
+C11503,60,79.57,One year,1,Auto-pay,0
+C11504,69,20.0,Month-to-month,2,Manual,0
+C11505,45,65.23,Month-to-month,0,Auto-pay,0
+C11506,12,147.02,Two year,1,Auto-pay,0
+C11507,60,79.99,Two year,1,Auto-pay,0
+C11508,71,57.69,One year,1,Auto-pay,0
+C11509,68,87.45,Month-to-month,2,Manual,0
+C11510,50,70.58,One year,1,Auto-pay,0
+C11511,9,38.26,Month-to-month,2,Manual,0
+C11512,44,20.0,Month-to-month,2,Auto-pay,0
+C11513,13,71.63,Two year,0,Auto-pay,0
+C11514,55,66.16,Month-to-month,1,Auto-pay,0
+C11515,4,64.39,One year,1,Auto-pay,0
+C11516,11,97.32,Month-to-month,1,Auto-pay,1
+C11517,50,113.76,One year,1,Auto-pay,0
+C11518,19,94.34,Month-to-month,2,Manual,1
+C11519,7,62.53,Month-to-month,0,Auto-pay,0
+C11520,9,76.63,Month-to-month,0,Auto-pay,0
+C11521,22,105.99,Two year,2,Auto-pay,0
+C11522,35,99.34,Two year,1,Auto-pay,0
+C11523,51,90.28,Month-to-month,0,Auto-pay,0
+C11524,37,58.46,One year,1,Auto-pay,0
+C11525,30,106.11,Month-to-month,1,Auto-pay,0
+C11526,65,115.36,Month-to-month,1,Auto-pay,0
+C11527,56,99.6,One year,0,Manual,0
+C11528,32,163.3,Month-to-month,2,Auto-pay,0
+C11529,71,97.47,Month-to-month,2,Manual,0
+C11530,52,109.42,Month-to-month,2,Auto-pay,0
+C11531,26,94.22,One year,1,Auto-pay,0
+C11532,29,71.11,Two year,1,Auto-pay,0
+C11533,6,39.72,Two year,0,Auto-pay,1
+C11534,57,51.92,Two year,4,Auto-pay,0
+C11535,43,52.23,One year,5,Manual,1
+C11536,9,38.73,Month-to-month,2,Manual,0
+C11537,11,66.4,Two year,2,Auto-pay,0
+C11538,8,75.1,Month-to-month,0,Manual,0
+C11539,12,110.74,Month-to-month,0,Auto-pay,1
+C11540,23,38.84,Two year,0,Manual,0
+C11541,54,101.76,One year,3,Auto-pay,0
+C11542,71,83.04,One year,1,Auto-pay,0
+C11543,30,86.3,One year,3,Manual,1
+C11544,38,72.11,Two year,2,Manual,1
+C11545,39,137.76,Month-to-month,4,Manual,1
+C11546,47,51.41,Month-to-month,2,Manual,0
+C11547,49,58.25,Two year,3,Auto-pay,0
+C11548,7,78.53,Two year,3,Auto-pay,1
+C11549,41,86.87,One year,1,Auto-pay,0
+C11550,28,81.75,Month-to-month,1,Manual,0
+C11551,58,73.5,Two year,1,Auto-pay,0
+C11552,67,90.79,Two year,2,Auto-pay,0
+C11553,26,93.05,Month-to-month,0,Manual,0
+C11554,41,73.84,One year,0,Auto-pay,0
+C11555,19,130.1,Two year,2,Manual,0
+C11556,5,88.25,Month-to-month,0,Manual,1
+C11557,11,66.73,Month-to-month,3,Auto-pay,1
+C11558,61,112.3,Two year,3,Manual,0
+C11559,23,20.0,One year,0,Manual,0
+C11560,8,41.24,One year,2,Auto-pay,0
+C11561,17,68.88,One year,4,Manual,0
+C11562,44,39.66,Month-to-month,2,Auto-pay,0
+C11563,31,99.1,Two year,2,Auto-pay,1
+C11564,11,98.08,One year,1,Manual,0
+C11565,34,123.93,Month-to-month,1,Auto-pay,0
+C11566,62,57.67,One year,3,Auto-pay,0
+C11567,33,92.02,One year,0,Auto-pay,0
+C11568,70,113.39,One year,1,Manual,0
+C11569,27,79.88,Month-to-month,2,Manual,1
+C11570,19,104.58,Month-to-month,2,Manual,1
+C11571,42,72.0,Month-to-month,2,Auto-pay,0
+C11572,61,114.44,Month-to-month,0,Auto-pay,0
+C11573,58,52.17,Two year,1,Manual,0
+C11574,65,28.45,One year,2,Auto-pay,0
+C11575,4,63.63,One year,2,Auto-pay,1
+C11576,54,72.36,Month-to-month,1,Auto-pay,0
+C11577,3,88.13,Month-to-month,0,Auto-pay,0
+C11578,56,88.53,Two year,1,Auto-pay,0
+C11579,19,53.72,Month-to-month,1,Auto-pay,0
+C11580,50,45.04,One year,1,Auto-pay,0
+C11581,28,123.79,Month-to-month,1,Auto-pay,0
+C11582,5,70.87,Two year,0,Auto-pay,0
+C11583,50,60.73,One year,1,Auto-pay,0
+C11584,26,84.57,Two year,0,Manual,0
+C11585,11,45.91,Two year,2,Manual,1
+C11586,22,53.55,Month-to-month,3,Auto-pay,1
+C11587,14,98.76,One year,2,Auto-pay,0
+C11588,15,44.57,Month-to-month,1,Manual,0
+C11589,32,35.12,One year,1,Auto-pay,0
+C11590,33,64.33,Month-to-month,3,Auto-pay,1
+C11591,24,82.77,Month-to-month,2,Auto-pay,1
+C11592,19,116.24,One year,1,Auto-pay,0
+C11593,59,85.22,Month-to-month,0,Auto-pay,1
+C11594,38,90.48,Month-to-month,2,Auto-pay,0
+C11595,17,44.32,One year,2,Auto-pay,0
+C11596,35,80.6,Month-to-month,4,Manual,0
+C11597,71,41.42,Two year,1,Manual,0
+C11598,1,102.46,Month-to-month,3,Manual,0
+C11599,66,78.41,Month-to-month,0,Manual,0
+C11600,10,73.45,Month-to-month,2,Manual,1
+C11601,18,90.17,Two year,3,Auto-pay,0
+C11602,42,60.28,One year,3,Manual,0
+C11603,16,60.45,Month-to-month,1,Manual,1
+C11604,70,46.47,Month-to-month,0,Manual,1
+C11605,53,128.43,One year,1,Manual,0
+C11606,41,68.16,Two year,3,Manual,0
+C11607,28,65.52,Month-to-month,3,Auto-pay,1
+C11608,67,95.81,Two year,2,Auto-pay,0
+C11609,26,75.35,One year,2,Manual,0
+C11610,71,20.0,One year,3,Auto-pay,0
+C11611,71,135.68,Month-to-month,1,Auto-pay,0
+C11612,49,60.61,Month-to-month,1,Auto-pay,0
+C11613,50,49.81,Month-to-month,2,Auto-pay,0
+C11614,42,70.12,One year,2,Auto-pay,0
+C11615,68,59.52,Month-to-month,2,Auto-pay,0
+C11616,42,60.09,Month-to-month,0,Auto-pay,0
+C11617,68,78.49,Month-to-month,2,Manual,0
+C11618,15,20.0,Two year,1,Manual,0
+C11619,31,97.04,Month-to-month,2,Auto-pay,0
+C11620,12,103.62,Month-to-month,1,Auto-pay,0
+C11621,1,24.31,Month-to-month,2,Auto-pay,0
+C11622,22,88.67,Month-to-month,2,Auto-pay,1
+C11623,67,49.32,One year,1,Auto-pay,0
+C11624,24,61.87,One year,2,Auto-pay,0
+C11625,59,85.55,One year,3,Manual,0
+C11626,20,100.99,One year,1,Auto-pay,0
+C11627,49,84.93,Month-to-month,1,Auto-pay,0
+C11628,14,33.32,Month-to-month,1,Manual,1
+C11629,35,76.92,One year,0,Auto-pay,0
+C11630,54,89.68,Month-to-month,2,Manual,0
+C11631,63,51.82,Month-to-month,2,Auto-pay,0
+C11632,27,49.63,Month-to-month,0,Auto-pay,0
+C11633,42,72.86,Month-to-month,0,Manual,0
+C11634,42,92.21,Month-to-month,1,Manual,1
+C11635,32,58.0,Two year,1,Manual,0
+C11636,29,82.21,Month-to-month,5,Manual,1
+C11637,67,37.18,Two year,2,Auto-pay,0
+C11638,32,83.11,Month-to-month,0,Auto-pay,0
+C11639,53,20.36,Month-to-month,3,Auto-pay,0
+C11640,31,84.29,Month-to-month,1,Auto-pay,0
+C11641,38,101.44,Month-to-month,0,Manual,0
+C11642,41,69.99,Two year,4,Auto-pay,0
+C11643,14,91.72,One year,1,Manual,0
+C11644,17,82.36,Two year,0,Manual,1
+C11645,49,33.69,Month-to-month,4,Auto-pay,0
+C11646,70,39.57,Month-to-month,0,Auto-pay,0
+C11647,49,64.14,Two year,1,Auto-pay,0
+C11648,43,70.54,Month-to-month,2,Auto-pay,0
+C11649,71,51.52,Month-to-month,1,Manual,0
+C11650,50,38.39,One year,1,Auto-pay,0
+C11651,63,20.0,Month-to-month,2,Auto-pay,0
+C11652,25,125.21,One year,2,Auto-pay,0
+C11653,58,126.14,Two year,2,Auto-pay,0
+C11654,62,49.65,Month-to-month,3,Auto-pay,1
+C11655,59,31.79,Month-to-month,4,Manual,0
+C11656,27,118.65,Two year,0,Manual,1
+C11657,53,20.0,Two year,0,Auto-pay,0
+C11658,60,105.84,One year,2,Auto-pay,0
+C11659,43,94.1,One year,2,Manual,0
+C11660,17,64.51,One year,1,Auto-pay,0
+C11661,14,116.79,Month-to-month,0,Manual,1
+C11662,60,55.21,Month-to-month,0,Auto-pay,0
+C11663,13,100.22,Month-to-month,0,Auto-pay,0
+C11664,68,67.51,Month-to-month,2,Auto-pay,0
+C11665,43,38.5,Month-to-month,1,Manual,0
+C11666,15,136.29,Month-to-month,1,Auto-pay,1
+C11667,15,53.75,Month-to-month,3,Manual,1
+C11668,3,62.12,Month-to-month,1,Auto-pay,0
+C11669,43,99.4,One year,2,Auto-pay,1
+C11670,59,112.21,Month-to-month,1,Auto-pay,0
+C11671,53,35.44,Two year,1,Auto-pay,0
+C11672,42,118.23,One year,2,Auto-pay,0
+C11673,42,74.81,Two year,2,Auto-pay,0
+C11674,18,72.36,Month-to-month,0,Auto-pay,1
+C11675,59,69.98,Month-to-month,2,Manual,0
+C11676,39,74.5,One year,3,Auto-pay,0
+C11677,60,28.22,One year,1,Manual,0
+C11678,70,87.2,Month-to-month,1,Auto-pay,0
+C11679,63,81.13,Two year,1,Manual,0
+C11680,67,63.98,Month-to-month,2,Auto-pay,0
+C11681,54,81.17,Two year,1,Manual,0
+C11682,22,68.85,Month-to-month,4,Auto-pay,1
+C11683,21,72.78,One year,3,Auto-pay,0
+C11684,49,87.53,Month-to-month,1,Manual,0
+C11685,18,68.22,Month-to-month,3,Auto-pay,1
+C11686,37,51.68,Month-to-month,2,Auto-pay,0
+C11687,50,97.77,Month-to-month,0,Auto-pay,0
+C11688,21,42.75,Two year,2,Manual,0
+C11689,8,106.55,Month-to-month,0,Manual,1
+C11690,11,64.69,Two year,2,Auto-pay,0
+C11691,50,101.27,Two year,2,Auto-pay,0
+C11692,10,118.14,Month-to-month,2,Manual,1
+C11693,56,73.22,Month-to-month,2,Manual,0
+C11694,2,101.16,Two year,0,Auto-pay,0
+C11695,55,93.91,One year,1,Auto-pay,0
+C11696,46,80.48,Two year,1,Auto-pay,0
+C11697,19,93.08,One year,0,Auto-pay,0
+C11698,20,66.6,Month-to-month,2,Auto-pay,0
+C11699,38,124.26,One year,2,Auto-pay,0
+C11700,42,77.53,Month-to-month,0,Manual,0
+C11701,60,53.09,Month-to-month,2,Manual,0
+C11702,54,61.98,Month-to-month,4,Auto-pay,0
+C11703,37,101.63,One year,4,Auto-pay,0
+C11704,1,47.39,Two year,1,Manual,0
+C11705,66,131.76,Month-to-month,0,Manual,1
+C11706,32,114.17,Month-to-month,2,Auto-pay,1
+C11707,61,38.06,Month-to-month,1,Auto-pay,0
+C11708,20,98.2,Month-to-month,4,Auto-pay,0
+C11709,27,45.97,Month-to-month,0,Auto-pay,0
+C11710,44,49.99,Month-to-month,2,Manual,1
+C11711,52,60.93,Month-to-month,0,Auto-pay,0
+C11712,11,52.73,Month-to-month,0,Manual,0
+C11713,57,96.76,Month-to-month,2,Manual,1
+C11714,41,82.61,Two year,2,Auto-pay,0
+C11715,58,87.68,Month-to-month,4,Manual,0
+C11716,42,75.09,Month-to-month,1,Auto-pay,0
+C11717,39,59.16,Month-to-month,0,Manual,0
+C11718,46,59.38,Month-to-month,2,Auto-pay,0
+C11719,36,108.17,One year,2,Manual,0
+C11720,8,64.54,One year,2,Auto-pay,0
+C11721,25,116.87,Month-to-month,3,Manual,0
+C11722,70,55.94,Month-to-month,0,Auto-pay,0
+C11723,18,76.38,Month-to-month,0,Manual,1
+C11724,31,84.28,One year,1,Auto-pay,0
+C11725,16,110.46,Month-to-month,1,Manual,0
+C11726,33,104.08,Two year,2,Auto-pay,0
+C11727,56,84.22,Month-to-month,0,Manual,0
+C11728,51,77.24,Month-to-month,0,Auto-pay,0
+C11729,8,47.74,Month-to-month,2,Auto-pay,1
+C11730,66,69.23,Month-to-month,2,Auto-pay,0
+C11731,46,142.88,One year,1,Auto-pay,0
+C11732,49,46.25,One year,2,Auto-pay,0
+C11733,55,58.12,One year,1,Auto-pay,0
+C11734,48,33.54,Month-to-month,2,Auto-pay,0
+C11735,63,52.58,Month-to-month,1,Manual,0
+C11736,50,39.51,Month-to-month,1,Auto-pay,0
+C11737,71,38.23,Two year,1,Auto-pay,0
+C11738,49,84.69,Month-to-month,3,Auto-pay,0
+C11739,60,96.91,Two year,0,Manual,0
+C11740,39,85.58,Two year,0,Auto-pay,0
+C11741,24,44.35,Month-to-month,2,Manual,0
+C11742,37,24.48,Two year,2,Manual,0
+C11743,12,20.0,One year,4,Auto-pay,0
+C11744,34,38.43,Month-to-month,1,Manual,0
+C11745,52,44.22,One year,1,Auto-pay,0
+C11746,55,61.23,Month-to-month,2,Manual,0
+C11747,28,82.87,Month-to-month,2,Auto-pay,1
+C11748,34,63.4,Month-to-month,1,Manual,1
+C11749,41,122.53,One year,0,Manual,0
+C11750,10,144.2,Month-to-month,1,Auto-pay,0
+C11751,45,71.81,Two year,0,Manual,0
+C11752,35,20.0,Two year,1,Auto-pay,0
+C11753,53,58.89,One year,1,Manual,0
+C11754,46,67.0,One year,4,Auto-pay,0
+C11755,13,95.58,Two year,0,Auto-pay,0
+C11756,41,34.92,Month-to-month,1,Manual,0
+C11757,25,26.31,Two year,3,Auto-pay,0
+C11758,44,82.86,Month-to-month,1,Manual,0
+C11759,45,58.6,Two year,0,Manual,0
+C11760,28,58.12,Month-to-month,3,Auto-pay,0
+C11761,44,48.61,One year,1,Auto-pay,0
+C11762,13,62.89,Two year,1,Auto-pay,1
+C11763,27,80.97,One year,0,Auto-pay,0
+C11764,52,20.0,Month-to-month,1,Manual,0
+C11765,37,75.49,Month-to-month,0,Manual,0
+C11766,3,95.63,One year,5,Auto-pay,1
+C11767,33,88.41,Month-to-month,1,Auto-pay,0
+C11768,19,138.22,Two year,2,Manual,1
+C11769,64,61.87,Month-to-month,2,Auto-pay,0
+C11770,67,72.21,Month-to-month,1,Auto-pay,0
+C11771,5,113.21,Month-to-month,6,Auto-pay,1
+C11772,27,76.62,Month-to-month,1,Auto-pay,0
+C11773,42,120.16,Two year,1,Auto-pay,0
+C11774,24,99.51,One year,2,Auto-pay,0
+C11775,52,79.32,One year,1,Manual,0
+C11776,9,74.66,Two year,1,Manual,0
+C11777,61,67.96,Month-to-month,1,Auto-pay,0
+C11778,18,73.96,Month-to-month,1,Manual,1
+C11779,18,49.63,Month-to-month,2,Auto-pay,1
+C11780,25,95.32,Month-to-month,3,Auto-pay,1
+C11781,67,132.43,Month-to-month,5,Manual,1
+C11782,20,20.65,Month-to-month,2,Auto-pay,0
+C11783,19,110.37,Month-to-month,0,Auto-pay,1
+C11784,18,82.26,Month-to-month,1,Auto-pay,1
+C11785,11,106.33,One year,1,Auto-pay,0
+C11786,67,57.39,Month-to-month,1,Auto-pay,0
+C11787,47,69.56,One year,1,Auto-pay,0
+C11788,40,112.97,One year,1,Auto-pay,0
+C11789,10,73.52,Month-to-month,0,Manual,0
+C11790,4,99.75,One year,1,Auto-pay,1
+C11791,22,57.35,One year,1,Auto-pay,0
+C11792,67,69.05,Month-to-month,1,Auto-pay,0
+C11793,38,90.28,Month-to-month,1,Auto-pay,0
+C11794,58,87.14,Month-to-month,1,Manual,0
+C11795,22,99.81,Two year,1,Manual,1
+C11796,8,64.77,Month-to-month,1,Auto-pay,1
+C11797,17,75.0,Month-to-month,1,Auto-pay,1
+C11798,17,104.07,Month-to-month,0,Auto-pay,0
+C11799,43,118.28,Month-to-month,3,Manual,1
+C11800,14,49.83,Month-to-month,2,Auto-pay,1
+C11801,70,110.64,Month-to-month,1,Manual,0
+C11802,50,51.94,Month-to-month,2,Manual,0
+C11803,29,81.23,Month-to-month,1,Auto-pay,1
+C11804,43,83.47,One year,1,Manual,0
+C11805,51,60.38,One year,2,Manual,0
+C11806,55,69.67,Month-to-month,0,Auto-pay,0
+C11807,2,21.92,Month-to-month,0,Manual,0
+C11808,37,96.74,One year,2,Auto-pay,0
+C11809,28,66.67,Month-to-month,4,Manual,1
+C11810,22,73.74,One year,2,Auto-pay,0
+C11811,46,57.83,Month-to-month,4,Manual,1
+C11812,18,96.84,One year,4,Auto-pay,0
+C11813,19,80.56,One year,2,Auto-pay,0
+C11814,48,40.53,Two year,2,Auto-pay,0
+C11815,5,71.63,Month-to-month,2,Auto-pay,0
+C11816,27,43.95,Month-to-month,2,Manual,0
+C11817,54,75.61,One year,1,Manual,0
+C11818,29,95.48,Month-to-month,1,Manual,1
+C11819,21,80.78,Month-to-month,2,Manual,0
+C11820,15,88.03,Two year,0,Auto-pay,0
+C11821,35,106.71,Month-to-month,1,Auto-pay,0
+C11822,56,50.44,Month-to-month,4,Auto-pay,0
+C11823,7,61.84,Month-to-month,2,Manual,0
+C11824,44,21.01,One year,1,Auto-pay,0
+C11825,56,63.62,Month-to-month,3,Manual,0
+C11826,16,56.6,Month-to-month,0,Manual,1
+C11827,49,94.62,Month-to-month,1,Auto-pay,0
+C11828,30,88.84,Month-to-month,2,Manual,1
+C11829,2,120.03,One year,1,Manual,0
+C11830,51,59.96,Month-to-month,2,Auto-pay,1
+C11831,51,86.9,Month-to-month,3,Manual,1
+C11832,50,97.21,Month-to-month,2,Auto-pay,0
+C11833,6,143.74,Month-to-month,2,Auto-pay,1
+C11834,32,88.07,Month-to-month,2,Manual,0
+C11835,13,73.56,One year,2,Auto-pay,0
+C11836,47,78.77,One year,1,Manual,0
+C11837,32,88.96,Month-to-month,2,Manual,1
+C11838,45,116.2,One year,2,Auto-pay,0
+C11839,63,62.24,Month-to-month,0,Manual,0
+C11840,7,53.67,Month-to-month,1,Manual,0
+C11841,18,153.66,Month-to-month,2,Auto-pay,0
+C11842,42,41.2,One year,2,Manual,0
+C11843,66,100.67,Month-to-month,4,Auto-pay,1
+C11844,4,87.49,Month-to-month,1,Auto-pay,1
+C11845,60,84.66,Two year,5,Manual,0
+C11846,57,38.17,Month-to-month,0,Auto-pay,0
+C11847,14,156.27,One year,2,Auto-pay,1
+C11848,59,80.29,Month-to-month,3,Manual,0
+C11849,42,59.55,Month-to-month,2,Auto-pay,0
+C11850,4,35.11,Month-to-month,1,Auto-pay,0
+C11851,4,20.0,Month-to-month,1,Auto-pay,0
+C11852,24,96.12,Two year,3,Manual,1
+C11853,38,49.87,Month-to-month,3,Auto-pay,0
+C11854,56,66.96,One year,2,Manual,0
+C11855,8,56.93,Two year,2,Manual,0
+C11856,48,91.13,Month-to-month,1,Auto-pay,1
+C11857,48,86.69,One year,3,Manual,0
+C11858,28,97.56,Month-to-month,0,Auto-pay,0
+C11859,19,98.71,Two year,0,Manual,1
+C11860,19,53.52,Month-to-month,1,Manual,1
+C11861,32,34.6,Month-to-month,2,Manual,0
+C11862,21,70.55,Two year,3,Auto-pay,0
+C11863,41,90.52,One year,1,Auto-pay,0
+C11864,9,78.25,One year,1,Manual,0
+C11865,50,20.0,Month-to-month,3,Auto-pay,0
+C11866,71,76.72,Month-to-month,1,Auto-pay,0
+C11867,16,44.98,Two year,2,Auto-pay,0
+C11868,49,75.66,Month-to-month,2,Manual,0
+C11869,52,103.94,One year,1,Auto-pay,0
+C11870,40,20.0,Two year,1,Auto-pay,0
+C11871,22,120.21,One year,1,Manual,0
+C11872,70,43.62,One year,1,Manual,0
+C11873,45,104.88,Month-to-month,1,Auto-pay,0
+C11874,27,100.23,Month-to-month,1,Manual,0
+C11875,19,65.96,One year,1,Auto-pay,0
+C11876,62,88.63,Two year,0,Manual,0
+C11877,52,53.96,Month-to-month,0,Manual,0
+C11878,64,23.22,One year,0,Auto-pay,0
+C11879,53,109.13,Month-to-month,2,Manual,0
+C11880,9,54.5,Month-to-month,3,Auto-pay,1
+C11881,56,129.02,Month-to-month,0,Auto-pay,0
+C11882,71,101.49,Month-to-month,0,Auto-pay,0
+C11883,2,49.66,Month-to-month,0,Manual,0
+C11884,54,92.66,Month-to-month,2,Auto-pay,0
+C11885,56,90.84,One year,2,Manual,1
+C11886,25,126.68,Month-to-month,3,Manual,0
+C11887,62,60.33,Month-to-month,4,Auto-pay,0
+C11888,29,68.03,Month-to-month,2,Manual,0
+C11889,31,88.0,Month-to-month,2,Auto-pay,0
+C11890,6,75.54,Month-to-month,2,Auto-pay,1
+C11891,27,33.29,One year,2,Auto-pay,0
+C11892,56,105.45,Month-to-month,3,Manual,0
+C11893,39,122.95,Two year,1,Manual,0
+C11894,22,79.6,Month-to-month,2,Manual,0
+C11895,52,36.82,Month-to-month,0,Manual,0
+C11896,25,71.61,Month-to-month,1,Auto-pay,0
+C11897,28,47.72,Month-to-month,4,Auto-pay,0
+C11898,37,67.23,Month-to-month,3,Manual,0
+C11899,7,80.56,Two year,0,Auto-pay,0
+C11900,36,94.68,Month-to-month,2,Auto-pay,1
+C11901,52,117.15,Month-to-month,0,Manual,0
+C11902,15,93.81,Month-to-month,2,Auto-pay,1
+C11903,40,43.26,One year,1,Auto-pay,0
+C11904,1,95.46,One year,1,Manual,1
+C11905,59,66.43,Month-to-month,2,Auto-pay,0
+C11906,51,69.81,Month-to-month,1,Manual,0
+C11907,52,74.58,One year,1,Manual,0
+C11908,32,79.05,One year,0,Manual,0
+C11909,43,105.38,One year,2,Manual,0
+C11910,52,89.9,One year,1,Auto-pay,0
+C11911,26,39.43,Two year,2,Auto-pay,0
+C11912,28,29.94,Month-to-month,1,Manual,0
+C11913,24,94.51,Month-to-month,0,Auto-pay,1
+C11914,27,91.16,Two year,0,Manual,1
+C11915,49,112.83,Month-to-month,3,Auto-pay,0
+C11916,65,72.05,Two year,0,Auto-pay,0
+C11917,16,83.4,One year,2,Auto-pay,0
+C11918,20,89.32,One year,5,Auto-pay,1
+C11919,4,28.37,Two year,2,Auto-pay,0
+C11920,28,26.63,One year,1,Auto-pay,0
+C11921,57,97.08,Month-to-month,2,Auto-pay,0
+C11922,26,86.08,Month-to-month,1,Auto-pay,0
+C11923,1,115.4,Month-to-month,1,Auto-pay,1
+C11924,14,130.31,Month-to-month,2,Manual,1
+C11925,16,65.99,Month-to-month,3,Auto-pay,0
+C11926,15,64.43,Month-to-month,3,Auto-pay,1
+C11927,59,34.3,Month-to-month,2,Auto-pay,0
+C11928,68,90.54,One year,0,Auto-pay,0
+C11929,32,20.0,Month-to-month,2,Auto-pay,0
+C11930,7,45.89,Month-to-month,1,Manual,0
+C11931,69,84.26,One year,2,Auto-pay,0
+C11932,51,55.23,One year,3,Manual,0
+C11933,59,73.58,Month-to-month,4,Auto-pay,1
+C11934,9,68.79,Month-to-month,1,Auto-pay,1
+C11935,11,41.64,Month-to-month,0,Manual,1
+C11936,12,20.0,Two year,2,Auto-pay,0
+C11937,71,96.0,Month-to-month,1,Manual,0
+C11938,53,69.66,Two year,3,Manual,0
+C11939,60,85.19,Two year,1,Auto-pay,0
+C11940,45,73.24,One year,1,Auto-pay,0
+C11941,26,72.71,Two year,1,Auto-pay,0
+C11942,26,79.9,Month-to-month,0,Auto-pay,0
+C11943,7,69.23,Month-to-month,0,Auto-pay,1
+C11944,18,64.84,One year,1,Auto-pay,0
+C11945,46,44.85,Month-to-month,0,Auto-pay,0
+C11946,30,149.48,One year,1,Manual,0
+C11947,39,105.21,Two year,0,Auto-pay,0
+C11948,62,119.73,One year,1,Auto-pay,0
+C11949,9,113.07,Month-to-month,1,Auto-pay,1
+C11950,52,66.62,Month-to-month,0,Manual,0
+C11951,70,69.55,Month-to-month,1,Manual,0
+C11952,64,75.09,Month-to-month,0,Auto-pay,0
+C11953,14,64.07,Two year,1,Manual,0
+C11954,21,101.34,Month-to-month,1,Manual,1
+C11955,44,50.6,Two year,1,Auto-pay,0
+C11956,34,42.99,One year,0,Auto-pay,0
+C11957,46,36.11,One year,2,Manual,0
+C11958,48,65.28,One year,0,Manual,0
+C11959,11,60.84,Month-to-month,1,Manual,0
+C11960,62,56.44,One year,3,Auto-pay,0
+C11961,9,77.51,Month-to-month,1,Auto-pay,0
+C11962,44,40.02,Month-to-month,1,Auto-pay,0
+C11963,66,97.27,Two year,0,Auto-pay,0
+C11964,4,42.09,Month-to-month,3,Manual,1
+C11965,31,39.82,One year,0,Auto-pay,0
+C11966,32,55.69,Month-to-month,1,Manual,0
+C11967,30,70.86,Month-to-month,3,Manual,0
+C11968,62,100.82,Month-to-month,2,Manual,0
+C11969,5,72.76,Month-to-month,2,Manual,1
+C11970,56,26.86,One year,0,Manual,0
+C11971,2,89.63,Month-to-month,0,Auto-pay,0
+C11972,68,89.05,Month-to-month,0,Manual,0
+C11973,70,57.59,Month-to-month,0,Manual,0
+C11974,54,80.13,Month-to-month,1,Auto-pay,0
+C11975,60,118.04,One year,1,Auto-pay,0
+C11976,12,49.07,Month-to-month,2,Auto-pay,0
+C11977,11,103.81,Month-to-month,2,Auto-pay,0
+C11978,15,112.97,Month-to-month,2,Auto-pay,0
+C11979,25,80.27,Month-to-month,3,Auto-pay,0
+C11980,25,38.13,Month-to-month,1,Manual,1
+C11981,12,114.21,One year,2,Auto-pay,1
+C11982,9,102.48,Month-to-month,2,Auto-pay,0
+C11983,59,91.45,Month-to-month,1,Auto-pay,0
+C11984,50,73.43,One year,1,Manual,0
+C11985,59,109.72,Month-to-month,1,Auto-pay,0
+C11986,26,49.5,One year,2,Auto-pay,0
+C11987,61,100.71,Two year,4,Auto-pay,1
+C11988,14,65.35,One year,0,Auto-pay,0
+C11989,55,24.71,Month-to-month,1,Auto-pay,0
+C11990,17,44.86,Month-to-month,3,Manual,1
+C11991,37,87.12,Month-to-month,2,Auto-pay,0
+C11992,67,81.67,Month-to-month,1,Auto-pay,0
+C11993,7,88.3,One year,2,Auto-pay,1
+C11994,55,63.99,Month-to-month,1,Manual,0
+C11995,40,81.33,One year,1,Auto-pay,0
+C11996,23,93.76,One year,1,Auto-pay,1
+C11997,70,145.8,Month-to-month,3,Manual,0
+C11998,56,63.24,Month-to-month,0,Manual,0
+C11999,60,105.74,Month-to-month,0,Manual,0
+C12000,66,94.4,One year,5,Auto-pay,0
+C12001,61,78.68,Month-to-month,1,Auto-pay,0
+C12002,55,35.96,Month-to-month,0,Auto-pay,0
+C12003,13,116.7,Two year,1,Manual,0
+C12004,28,82.47,Month-to-month,1,Auto-pay,0
+C12005,28,57.27,One year,1,Auto-pay,0
+C12006,13,48.47,Month-to-month,1,Auto-pay,1
+C12007,21,82.83,Month-to-month,1,Manual,1
+C12008,56,46.86,Two year,3,Manual,0
+C12009,42,57.94,One year,1,Manual,0
+C12010,4,57.26,One year,0,Auto-pay,1
+C12011,49,76.39,One year,2,Manual,1
+C12012,21,93.01,One year,2,Manual,0
+C12013,4,65.47,Month-to-month,1,Auto-pay,1
+C12014,6,68.62,Month-to-month,1,Auto-pay,1
+C12015,7,78.25,Two year,1,Manual,0
+C12016,18,52.54,One year,2,Auto-pay,0
+C12017,47,57.38,Two year,1,Auto-pay,0
+C12018,23,60.98,One year,4,Auto-pay,1
+C12019,63,83.64,One year,2,Auto-pay,0
+C12020,26,123.26,One year,2,Auto-pay,1
+C12021,4,37.63,Two year,1,Manual,0
+C12022,11,82.17,One year,2,Auto-pay,0
+C12023,17,68.11,Month-to-month,1,Auto-pay,0
+C12024,44,69.91,Month-to-month,0,Manual,0
+C12025,39,60.36,Month-to-month,1,Manual,0
+C12026,69,109.24,Month-to-month,1,Auto-pay,0
+C12027,10,20.0,Month-to-month,0,Auto-pay,1
+C12028,9,40.93,Month-to-month,0,Auto-pay,1
+C12029,38,107.7,Month-to-month,1,Auto-pay,0
+C12030,51,109.95,Month-to-month,0,Auto-pay,0
+C12031,29,127.8,One year,3,Manual,1
+C12032,13,84.2,Month-to-month,2,Auto-pay,0
+C12033,31,89.47,One year,0,Auto-pay,0
+C12034,46,20.0,Two year,2,Auto-pay,0
+C12035,34,75.09,Month-to-month,1,Auto-pay,0
+C12036,12,91.79,Month-to-month,0,Auto-pay,1
+C12037,5,60.36,One year,4,Auto-pay,1
+C12038,64,72.23,One year,1,Auto-pay,0
+C12039,24,111.97,Month-to-month,1,Manual,0
+C12040,2,118.7,Month-to-month,1,Auto-pay,1
+C12041,30,82.51,Two year,1,Auto-pay,0
+C12042,16,73.47,Month-to-month,1,Manual,0
+C12043,15,96.87,Two year,2,Manual,0
+C12044,47,63.92,Month-to-month,0,Auto-pay,0
+C12045,48,106.32,Month-to-month,1,Manual,0
+C12046,48,59.25,One year,1,Auto-pay,0
+C12047,63,97.5,Two year,1,Manual,0
+C12048,33,74.41,Month-to-month,3,Manual,1
+C12049,53,56.43,Month-to-month,4,Manual,0
+C12050,18,85.78,Month-to-month,0,Manual,1
+C12051,47,63.23,Two year,1,Auto-pay,0
+C12052,45,104.83,Two year,1,Auto-pay,0
+C12053,26,45.17,One year,1,Auto-pay,0
+C12054,71,81.74,One year,2,Manual,0
+C12055,67,53.04,Month-to-month,2,Manual,0
+C12056,46,111.03,One year,2,Auto-pay,0
+C12057,14,96.44,One year,1,Auto-pay,1
+C12058,13,73.66,Month-to-month,3,Auto-pay,0
+C12059,46,74.54,Month-to-month,0,Auto-pay,0
+C12060,66,125.53,One year,2,Manual,0
+C12061,12,97.77,Two year,4,Manual,1
+C12062,51,52.33,Two year,1,Auto-pay,0
+C12063,41,103.04,Month-to-month,1,Auto-pay,0
+C12064,43,58.12,Month-to-month,1,Manual,0
+C12065,11,79.59,One year,2,Manual,0
+C12066,13,20.0,Month-to-month,0,Auto-pay,0
+C12067,32,99.45,Month-to-month,1,Manual,0
+C12068,22,54.91,One year,1,Auto-pay,0
+C12069,46,68.77,Month-to-month,1,Auto-pay,0
+C12070,34,33.21,Two year,2,Manual,0
+C12071,45,80.41,Month-to-month,0,Manual,1
+C12072,43,77.11,Two year,2,Auto-pay,0
+C12073,69,36.77,One year,1,Auto-pay,0
+C12074,25,75.98,Month-to-month,3,Auto-pay,0
+C12075,27,67.04,Month-to-month,0,Manual,0
+C12076,47,111.72,Two year,0,Auto-pay,0
+C12077,41,53.75,Month-to-month,1,Auto-pay,1
+C12078,12,89.37,Month-to-month,1,Manual,0
+C12079,19,30.89,One year,1,Manual,0
+C12080,59,77.4,Two year,2,Auto-pay,0
+C12081,7,85.73,Two year,2,Auto-pay,0
+C12082,13,87.22,One year,2,Manual,1
+C12083,52,71.44,Month-to-month,1,Auto-pay,0
+C12084,68,126.95,Month-to-month,0,Manual,0
+C12085,61,64.18,Month-to-month,1,Auto-pay,0
+C12086,52,89.45,Month-to-month,1,Auto-pay,0
+C12087,20,65.56,Two year,3,Auto-pay,0
+C12088,55,49.86,Two year,4,Auto-pay,0
+C12089,27,39.37,Month-to-month,2,Manual,0
+C12090,24,47.57,Month-to-month,1,Auto-pay,0
+C12091,20,93.13,Month-to-month,4,Auto-pay,1
+C12092,23,114.81,Month-to-month,1,Manual,0
+C12093,46,93.04,Month-to-month,1,Auto-pay,0
+C12094,58,64.95,One year,1,Auto-pay,0
+C12095,48,56.15,Two year,2,Manual,0
+C12096,60,79.93,Month-to-month,3,Auto-pay,0
+C12097,20,43.76,Two year,0,Auto-pay,0
+C12098,42,101.51,Two year,1,Auto-pay,0
+C12099,49,86.08,Two year,2,Manual,0
+C12100,28,45.97,Month-to-month,1,Auto-pay,0
+C12101,57,119.74,Month-to-month,0,Auto-pay,0
+C12102,40,38.81,Month-to-month,1,Auto-pay,0
+C12103,20,76.55,One year,2,Auto-pay,0
+C12104,50,100.01,Month-to-month,1,Auto-pay,0
+C12105,4,97.03,Month-to-month,2,Auto-pay,1
+C12106,56,56.25,Two year,1,Manual,0
+C12107,14,62.63,Month-to-month,0,Manual,0
+C12108,32,46.33,Month-to-month,1,Manual,0
+C12109,54,81.56,Month-to-month,1,Manual,0
+C12110,57,99.6,One year,4,Manual,1
+C12111,26,20.0,Month-to-month,1,Auto-pay,0
+C12112,46,91.68,Month-to-month,3,Auto-pay,0
+C12113,7,60.24,Month-to-month,0,Manual,0
+C12114,60,72.21,Month-to-month,1,Auto-pay,0
+C12115,18,43.06,One year,1,Auto-pay,0
+C12116,57,56.44,Two year,1,Manual,0
+C12117,37,134.77,Month-to-month,2,Auto-pay,0
+C12118,30,64.85,One year,3,Auto-pay,0
+C12119,25,74.67,Month-to-month,2,Manual,1
+C12120,55,47.55,Month-to-month,1,Auto-pay,0
+C12121,22,152.49,Month-to-month,0,Auto-pay,1
+C12122,43,88.98,One year,2,Auto-pay,0
+C12123,2,74.35,One year,4,Auto-pay,0
+C12124,48,102.61,One year,1,Auto-pay,0
+C12125,10,85.65,Month-to-month,2,Auto-pay,0
+C12126,17,69.84,Month-to-month,1,Auto-pay,1
+C12127,52,71.15,Two year,3,Manual,0
+C12128,55,28.82,Month-to-month,1,Auto-pay,1
+C12129,8,64.03,Two year,1,Manual,0
+C12130,9,59.84,Month-to-month,0,Manual,0
+C12131,9,84.63,One year,0,Auto-pay,0
+C12132,14,68.65,One year,1,Manual,0
+C12133,18,95.57,Month-to-month,1,Manual,1
+C12134,25,77.99,Month-to-month,1,Manual,0
+C12135,37,49.76,Month-to-month,0,Auto-pay,0
+C12136,55,119.66,Month-to-month,1,Manual,1
+C12137,6,63.4,Month-to-month,0,Auto-pay,0
+C12138,30,91.63,Month-to-month,1,Manual,0
+C12139,3,35.67,One year,0,Auto-pay,0
+C12140,44,98.1,One year,0,Auto-pay,0
+C12141,65,25.92,One year,1,Auto-pay,0
+C12142,66,133.11,Month-to-month,1,Auto-pay,0
+C12143,5,95.54,Month-to-month,1,Auto-pay,1
+C12144,51,68.47,Two year,0,Auto-pay,0
+C12145,57,92.14,Two year,0,Auto-pay,0
+C12146,60,36.98,Two year,1,Auto-pay,0
+C12147,4,68.93,One year,0,Auto-pay,0
+C12148,10,97.35,One year,1,Auto-pay,0
+C12149,27,92.19,Month-to-month,2,Manual,1
+C12150,5,74.77,One year,1,Auto-pay,0
+C12151,25,84.47,Month-to-month,0,Manual,0
+C12152,18,107.42,Month-to-month,2,Auto-pay,1
+C12153,61,96.69,Month-to-month,1,Auto-pay,0
+C12154,64,20.0,One year,1,Auto-pay,0
+C12155,21,74.77,Month-to-month,1,Auto-pay,1
+C12156,52,75.56,Month-to-month,2,Auto-pay,0
+C12157,2,37.49,Month-to-month,0,Auto-pay,0
+C12158,28,43.33,Two year,1,Auto-pay,0
+C12159,65,119.92,One year,2,Auto-pay,0
+C12160,65,53.22,Month-to-month,2,Auto-pay,0
+C12161,28,62.3,Month-to-month,2,Auto-pay,0
+C12162,47,51.01,One year,1,Auto-pay,0
+C12163,4,87.4,One year,1,Manual,0
+C12164,57,83.38,Month-to-month,1,Auto-pay,0
+C12165,18,133.15,Month-to-month,2,Manual,0
+C12166,7,58.9,One year,3,Manual,1
+C12167,39,90.71,Two year,2,Auto-pay,0
+C12168,60,20.0,Month-to-month,3,Auto-pay,0
+C12169,45,32.45,Month-to-month,0,Auto-pay,0
+C12170,35,114.95,One year,2,Auto-pay,0
+C12171,20,108.15,One year,1,Manual,0
+C12172,7,88.32,Month-to-month,1,Manual,1
+C12173,3,108.8,Two year,0,Auto-pay,1
+C12174,3,42.73,Month-to-month,1,Manual,1
+C12175,25,124.58,One year,3,Manual,0
+C12176,41,43.95,Month-to-month,2,Auto-pay,0
+C12177,1,84.72,Month-to-month,1,Auto-pay,1
+C12178,42,158.16,Month-to-month,0,Auto-pay,0
+C12179,52,48.54,Month-to-month,2,Auto-pay,0
+C12180,13,115.45,Month-to-month,1,Auto-pay,0
+C12181,32,103.99,Month-to-month,2,Auto-pay,1
+C12182,22,58.99,Two year,2,Auto-pay,1
+C12183,56,137.7,Two year,2,Manual,0
+C12184,29,47.65,Month-to-month,2,Auto-pay,0
+C12185,57,73.9,One year,2,Auto-pay,0
+C12186,1,94.25,One year,1,Manual,0
+C12187,65,72.13,Month-to-month,5,Manual,1
+C12188,69,168.25,Month-to-month,1,Auto-pay,0
+C12189,49,37.26,Two year,2,Auto-pay,0
+C12190,59,123.54,Month-to-month,1,Auto-pay,0
+C12191,51,20.0,One year,3,Auto-pay,0
+C12192,18,20.0,Two year,1,Manual,0
+C12193,11,76.59,Two year,0,Manual,0
+C12194,60,97.11,Month-to-month,0,Auto-pay,0
+C12195,1,119.7,Month-to-month,2,Auto-pay,1
+C12196,44,123.25,Month-to-month,3,Auto-pay,0
+C12197,2,81.0,One year,0,Manual,0
+C12198,13,89.95,Two year,1,Manual,1
+C12199,24,82.29,Month-to-month,0,Manual,0
+C12200,57,120.78,One year,4,Manual,0
+C12201,7,37.94,Month-to-month,3,Auto-pay,1
+C12202,7,55.06,Month-to-month,1,Manual,0
+C12203,17,100.68,Month-to-month,0,Manual,1
+C12204,31,106.58,Month-to-month,1,Manual,1
+C12205,22,115.37,One year,0,Auto-pay,0
+C12206,54,72.88,Month-to-month,2,Manual,0
+C12207,35,60.06,Month-to-month,3,Auto-pay,1
+C12208,64,96.11,One year,1,Auto-pay,0
+C12209,63,42.1,Month-to-month,2,Auto-pay,0
+C12210,21,124.99,Month-to-month,1,Auto-pay,0
+C12211,53,59.91,Month-to-month,2,Manual,0
+C12212,43,66.7,Month-to-month,2,Auto-pay,0
+C12213,46,97.54,Month-to-month,2,Auto-pay,0
+C12214,60,53.21,One year,3,Auto-pay,0
+C12215,14,40.52,Month-to-month,1,Auto-pay,0
+C12216,62,109.58,One year,4,Auto-pay,0
+C12217,41,43.71,One year,1,Auto-pay,0
+C12218,1,82.79,Month-to-month,0,Manual,0
+C12219,29,75.65,Month-to-month,2,Auto-pay,0
+C12220,7,20.0,Month-to-month,1,Auto-pay,1
+C12221,24,43.6,Month-to-month,1,Auto-pay,1
+C12222,14,85.64,Month-to-month,1,Auto-pay,1
+C12223,47,111.99,One year,2,Manual,0
+C12224,1,52.14,One year,1,Auto-pay,1
+C12225,7,48.42,Month-to-month,1,Auto-pay,0
+C12226,64,93.94,Month-to-month,3,Manual,1
+C12227,29,99.06,Two year,1,Auto-pay,0
+C12228,5,103.02,Month-to-month,1,Auto-pay,1
+C12229,56,81.62,One year,0,Auto-pay,0
+C12230,65,59.09,Month-to-month,0,Auto-pay,1
+C12231,24,98.51,One year,1,Manual,1
+C12232,22,72.48,Month-to-month,2,Manual,0
+C12233,41,95.13,Two year,1,Manual,0
+C12234,6,59.44,Month-to-month,0,Manual,1
+C12235,71,68.7,One year,1,Manual,0
+C12236,27,91.06,One year,1,Auto-pay,0
+C12237,19,20.0,One year,0,Auto-pay,0
+C12238,52,115.16,Month-to-month,2,Auto-pay,0
+C12239,28,73.49,One year,3,Manual,0
+C12240,10,20.0,One year,0,Manual,1
+C12241,34,80.07,One year,0,Auto-pay,0
+C12242,68,62.0,One year,2,Auto-pay,0
+C12243,36,43.73,One year,2,Auto-pay,0
+C12244,13,133.73,Two year,0,Auto-pay,0
+C12245,16,100.11,Two year,0,Auto-pay,0
+C12246,64,70.26,Month-to-month,1,Auto-pay,0
+C12247,55,76.63,Two year,2,Auto-pay,0
+C12248,2,83.01,One year,1,Auto-pay,0
+C12249,16,26.15,One year,3,Auto-pay,0
+C12250,53,153.86,One year,0,Auto-pay,0
+C12251,22,76.33,Month-to-month,4,Auto-pay,0
+C12252,35,129.25,Month-to-month,0,Auto-pay,0
+C12253,63,49.56,Month-to-month,2,Auto-pay,0
+C12254,55,92.6,Two year,2,Auto-pay,0
+C12255,48,39.49,One year,0,Auto-pay,0
+C12256,47,20.0,Month-to-month,6,Auto-pay,0
+C12257,18,102.13,One year,2,Manual,0
+C12258,14,80.85,One year,0,Auto-pay,0
+C12259,59,59.09,One year,2,Auto-pay,0
+C12260,4,20.0,Month-to-month,5,Manual,1
+C12261,47,60.88,One year,1,Manual,0
+C12262,29,83.21,Two year,1,Manual,0
+C12263,2,42.68,Month-to-month,2,Auto-pay,1
+C12264,42,78.96,Month-to-month,1,Auto-pay,0
+C12265,10,55.96,Month-to-month,0,Manual,0
+C12266,61,38.95,One year,0,Manual,0
+C12267,18,70.73,One year,2,Auto-pay,0
+C12268,17,20.0,Two year,3,Auto-pay,0
+C12269,49,90.04,Month-to-month,0,Auto-pay,0
+C12270,22,77.95,Two year,3,Auto-pay,0
+C12271,27,93.15,Two year,1,Auto-pay,0
+C12272,25,108.86,Two year,2,Auto-pay,0
+C12273,36,67.42,One year,3,Manual,0
+C12274,52,20.0,Month-to-month,2,Auto-pay,0
+C12275,56,67.3,One year,2,Auto-pay,0
+C12276,9,40.65,One year,0,Manual,1
+C12277,34,117.98,Month-to-month,5,Auto-pay,1
+C12278,38,63.88,Two year,2,Auto-pay,0
+C12279,68,100.24,Month-to-month,3,Auto-pay,0
+C12280,42,118.83,Two year,0,Manual,0
+C12281,59,52.57,Two year,0,Auto-pay,0
+C12282,38,77.27,One year,1,Auto-pay,0
+C12283,37,76.18,Two year,2,Auto-pay,0
+C12284,39,141.19,Month-to-month,2,Auto-pay,0
+C12285,7,112.98,Month-to-month,3,Auto-pay,0
+C12286,31,43.07,Month-to-month,0,Manual,0
+C12287,68,56.68,Month-to-month,3,Manual,0
+C12288,71,61.08,Month-to-month,2,Manual,0
+C12289,13,50.63,Month-to-month,2,Auto-pay,1
+C12290,32,65.51,Month-to-month,0,Auto-pay,0
+C12291,58,59.1,One year,3,Auto-pay,0
+C12292,60,76.09,Month-to-month,2,Auto-pay,0
+C12293,46,71.54,One year,0,Manual,0
+C12294,40,109.61,One year,3,Auto-pay,0
+C12295,63,52.15,One year,1,Manual,0
+C12296,44,24.93,Two year,1,Auto-pay,0
+C12297,57,60.2,One year,2,Manual,0
+C12298,58,56.6,One year,0,Manual,0
+C12299,19,119.2,Month-to-month,2,Auto-pay,1
+C12300,70,100.36,Month-to-month,6,Auto-pay,0
+C12301,27,113.94,One year,1,Auto-pay,0
+C12302,11,103.88,Two year,4,Auto-pay,0
+C12303,17,20.0,One year,1,Auto-pay,0
+C12304,42,49.42,Two year,1,Manual,0
+C12305,66,30.04,Two year,4,Auto-pay,0
+C12306,13,122.01,Two year,2,Auto-pay,0
+C12307,49,100.2,One year,0,Manual,0
+C12308,4,86.95,Two year,0,Auto-pay,0
+C12309,37,57.94,One year,2,Manual,0
+C12310,64,61.33,Month-to-month,2,Auto-pay,0
+C12311,47,49.2,Month-to-month,2,Auto-pay,0
+C12312,71,94.5,Two year,2,Manual,0
+C12313,68,78.11,Month-to-month,2,Manual,0
+C12314,50,95.81,Month-to-month,0,Auto-pay,0
+C12315,2,87.56,One year,2,Auto-pay,1
+C12316,29,99.77,Month-to-month,2,Manual,1
+C12317,9,90.5,Month-to-month,3,Auto-pay,1
+C12318,54,108.06,Two year,0,Auto-pay,0
+C12319,12,97.19,One year,1,Manual,0
+C12320,71,59.57,Month-to-month,1,Manual,0
+C12321,45,89.68,Month-to-month,2,Manual,1
+C12322,65,84.28,One year,2,Auto-pay,0
+C12323,58,69.28,Month-to-month,1,Auto-pay,0
+C12324,62,74.48,Month-to-month,2,Auto-pay,0
+C12325,4,105.21,Month-to-month,2,Manual,1
+C12326,37,91.23,Month-to-month,3,Auto-pay,1
+C12327,65,102.92,Two year,0,Auto-pay,0
+C12328,16,76.21,Month-to-month,3,Auto-pay,1
+C12329,27,109.49,Month-to-month,3,Auto-pay,0
+C12330,10,98.21,One year,1,Auto-pay,0
+C12331,37,50.81,Month-to-month,3,Auto-pay,1
+C12332,6,64.26,Month-to-month,1,Auto-pay,1
+C12333,7,49.51,Month-to-month,0,Manual,1
+C12334,25,42.62,Two year,0,Auto-pay,0
+C12335,57,155.39,Month-to-month,0,Auto-pay,1
+C12336,3,125.04,One year,1,Auto-pay,1
+C12337,60,109.67,One year,0,Auto-pay,0
+C12338,48,88.47,Month-to-month,3,Auto-pay,0
+C12339,68,58.74,One year,2,Auto-pay,0
+C12340,59,41.75,Month-to-month,3,Manual,0
+C12341,54,68.71,Month-to-month,2,Manual,1
+C12342,57,53.39,One year,4,Auto-pay,0
+C12343,51,96.42,Month-to-month,1,Auto-pay,0
+C12344,7,79.56,Two year,1,Auto-pay,0
+C12345,47,100.69,One year,0,Manual,0
+C12346,15,82.27,Month-to-month,1,Auto-pay,0
+C12347,13,24.28,Month-to-month,1,Manual,1
+C12348,69,69.83,One year,1,Auto-pay,0
+C12349,65,86.63,Two year,0,Manual,0
+C12350,71,83.25,Month-to-month,0,Auto-pay,0
+C12351,1,58.36,Month-to-month,0,Manual,1
+C12352,70,60.3,One year,0,Manual,0
+C12353,1,55.05,One year,0,Auto-pay,0
+C12354,66,24.9,One year,2,Manual,0
+C12355,10,74.13,Month-to-month,2,Auto-pay,0
+C12356,11,98.37,Month-to-month,1,Auto-pay,0
+C12357,4,60.73,Month-to-month,2,Auto-pay,0
+C12358,57,37.74,Two year,3,Auto-pay,0
+C12359,58,104.83,Month-to-month,1,Auto-pay,1
+C12360,16,115.88,Month-to-month,1,Auto-pay,0
+C12361,57,61.79,Month-to-month,4,Auto-pay,0
+C12362,19,46.86,Month-to-month,0,Auto-pay,0
+C12363,62,70.65,Month-to-month,2,Auto-pay,0
+C12364,35,83.43,Two year,1,Manual,0
+C12365,41,61.52,Two year,0,Auto-pay,0
+C12366,58,27.9,One year,1,Auto-pay,0
+C12367,34,103.82,Month-to-month,0,Auto-pay,1
+C12368,32,82.27,One year,2,Manual,0
+C12369,42,121.47,Month-to-month,3,Manual,1
+C12370,16,76.27,Month-to-month,0,Manual,0
+C12371,33,119.17,Month-to-month,2,Manual,1
+C12372,65,68.21,One year,1,Auto-pay,0
+C12373,46,56.87,Month-to-month,1,Manual,0
+C12374,21,59.99,Month-to-month,3,Auto-pay,1
+C12375,66,129.73,Month-to-month,0,Auto-pay,0
+C12376,55,69.37,Two year,3,Auto-pay,0
+C12377,70,122.45,One year,4,Auto-pay,0
+C12378,55,61.16,Month-to-month,0,Auto-pay,0
+C12379,2,33.46,Month-to-month,1,Auto-pay,0
+C12380,7,95.97,Month-to-month,0,Auto-pay,0
+C12381,1,55.76,Month-to-month,2,Auto-pay,1
+C12382,32,84.11,Month-to-month,1,Manual,0
+C12383,33,81.03,Month-to-month,0,Auto-pay,0
+C12384,10,80.59,Two year,2,Auto-pay,1
+C12385,7,124.46,Month-to-month,0,Auto-pay,1
+C12386,52,82.57,Month-to-month,1,Auto-pay,0
+C12387,51,78.59,Month-to-month,0,Manual,0
+C12388,53,64.36,Month-to-month,1,Auto-pay,0
+C12389,44,91.14,Month-to-month,0,Auto-pay,0
+C12390,22,88.38,One year,1,Auto-pay,0
+C12391,41,62.96,One year,4,Auto-pay,0
+C12392,49,103.27,Month-to-month,2,Manual,0
+C12393,54,68.86,One year,0,Auto-pay,0
+C12394,30,92.4,Month-to-month,1,Auto-pay,0
+C12395,14,35.22,Month-to-month,1,Auto-pay,0
+C12396,40,102.41,Two year,1,Auto-pay,0
+C12397,63,53.46,Two year,3,Manual,0
+C12398,49,95.26,Month-to-month,0,Auto-pay,0
+C12399,50,113.43,One year,4,Auto-pay,0
+C12400,60,87.3,One year,2,Auto-pay,0
+C12401,48,109.58,Two year,1,Manual,0
+C12402,36,42.65,Month-to-month,3,Manual,0
+C12403,48,72.52,Month-to-month,3,Manual,0
+C12404,50,55.57,One year,2,Manual,0
+C12405,32,55.18,Month-to-month,2,Auto-pay,0
+C12406,20,27.66,Two year,2,Auto-pay,1
+C12407,28,77.42,Month-to-month,1,Auto-pay,0
+C12408,34,103.22,One year,5,Manual,0
+C12409,48,112.99,Month-to-month,0,Manual,0
+C12410,7,43.3,One year,2,Auto-pay,0
+C12411,48,60.61,Month-to-month,2,Manual,0
+C12412,35,52.78,Month-to-month,1,Manual,1
+C12413,8,50.73,Month-to-month,0,Auto-pay,1
+C12414,27,66.1,One year,2,Manual,1
+C12415,54,75.59,Month-to-month,1,Auto-pay,0
+C12416,66,66.3,Month-to-month,0,Auto-pay,0
+C12417,57,33.22,Two year,0,Auto-pay,0
+C12418,19,104.07,Month-to-month,2,Auto-pay,1
+C12419,41,80.34,Month-to-month,2,Auto-pay,1
+C12420,71,86.81,One year,0,Auto-pay,0
+C12421,35,88.54,Month-to-month,1,Auto-pay,0
+C12422,15,93.49,One year,2,Auto-pay,1
+C12423,37,79.6,Month-to-month,1,Auto-pay,0
+C12424,43,50.0,Two year,0,Manual,0
+C12425,16,120.46,Month-to-month,0,Auto-pay,0
+C12426,24,94.15,Month-to-month,0,Manual,0
+C12427,70,48.07,Two year,2,Auto-pay,0
+C12428,64,48.5,One year,2,Auto-pay,0
+C12429,63,134.7,Month-to-month,4,Manual,0
+C12430,35,70.13,Month-to-month,1,Auto-pay,0
+C12431,61,54.67,One year,1,Manual,0
+C12432,19,59.09,One year,4,Auto-pay,0
+C12433,23,88.53,Month-to-month,2,Manual,1
+C12434,13,60.73,One year,1,Manual,0
+C12435,50,79.0,Month-to-month,2,Auto-pay,0
+C12436,54,144.28,Two year,3,Manual,1
+C12437,45,27.86,One year,2,Manual,0
+C12438,64,62.82,One year,0,Auto-pay,0
+C12439,15,76.84,One year,0,Auto-pay,0
+C12440,55,22.08,Month-to-month,3,Auto-pay,0
+C12441,70,90.51,Month-to-month,2,Auto-pay,0
+C12442,37,101.86,Two year,2,Manual,0
+C12443,37,33.35,Two year,0,Auto-pay,0
+C12444,66,72.56,Month-to-month,1,Auto-pay,0
+C12445,10,80.49,Two year,0,Auto-pay,0
+C12446,37,92.24,Month-to-month,0,Auto-pay,1
+C12447,37,155.07,One year,1,Auto-pay,0
+C12448,16,52.76,Two year,3,Auto-pay,0
+C12449,8,91.12,Month-to-month,2,Manual,1
+C12450,17,71.18,Month-to-month,0,Auto-pay,0
+C12451,56,66.06,Month-to-month,1,Manual,0
+C12452,46,75.49,One year,2,Auto-pay,0
+C12453,57,87.32,One year,0,Auto-pay,0
+C12454,58,75.29,One year,0,Auto-pay,0
+C12455,59,83.26,Two year,1,Auto-pay,0
+C12456,50,72.59,Month-to-month,6,Manual,1
+C12457,6,46.89,Two year,2,Manual,1
+C12458,9,99.77,Month-to-month,1,Auto-pay,1
+C12459,10,105.8,Two year,1,Manual,0
+C12460,33,104.44,One year,1,Auto-pay,0
+C12461,8,95.23,Two year,3,Manual,0
+C12462,5,51.72,Two year,1,Auto-pay,0
+C12463,47,46.4,Month-to-month,4,Manual,0
+C12464,66,102.48,One year,1,Manual,0
+C12465,21,38.87,Month-to-month,1,Manual,0
+C12466,8,54.44,Month-to-month,1,Manual,1
+C12467,11,139.38,Month-to-month,0,Auto-pay,0
+C12468,65,90.24,One year,2,Manual,0
+C12469,70,79.78,One year,4,Auto-pay,0
+C12470,26,20.0,One year,1,Auto-pay,0
+C12471,35,54.87,Month-to-month,1,Auto-pay,0
+C12472,42,100.08,Month-to-month,4,Auto-pay,1
+C12473,36,30.5,Two year,1,Auto-pay,0
+C12474,51,87.08,One year,0,Manual,0
+C12475,41,33.54,Month-to-month,3,Auto-pay,0
+C12476,60,56.28,Month-to-month,1,Manual,0
+C12477,36,27.8,Two year,0,Auto-pay,0
+C12478,51,77.85,Month-to-month,1,Manual,1
+C12479,19,23.98,Two year,1,Manual,0
+C12480,36,72.49,Month-to-month,1,Auto-pay,1
+C12481,49,94.16,One year,3,Manual,0
+C12482,19,81.0,Month-to-month,3,Auto-pay,0
+C12483,42,88.94,Month-to-month,1,Auto-pay,0
+C12484,15,81.78,Month-to-month,0,Manual,0
+C12485,60,72.27,One year,3,Auto-pay,1
+C12486,49,72.95,One year,0,Manual,0
+C12487,29,83.79,Month-to-month,2,Manual,0
+C12488,29,42.25,One year,2,Manual,0
+C12489,55,63.12,Month-to-month,2,Auto-pay,0
+C12490,52,136.02,Two year,1,Manual,0
+C12491,70,89.54,One year,2,Auto-pay,0
+C12492,56,112.47,Month-to-month,1,Manual,0
+C12493,28,85.21,Month-to-month,1,Auto-pay,1
+C12494,18,53.04,Month-to-month,0,Manual,0
+C12495,50,65.86,Two year,2,Auto-pay,0
+C12496,2,22.73,Month-to-month,2,Manual,1
+C12497,3,116.23,One year,3,Manual,1
+C12498,36,101.86,One year,3,Auto-pay,0
+C12499,65,49.91,Two year,0,Auto-pay,0
+C12500,24,97.93,Month-to-month,1,Manual,1
+C12501,51,95.24,One year,0,Auto-pay,0
+C12502,8,77.32,Month-to-month,3,Auto-pay,1
+C12503,45,89.28,Month-to-month,0,Manual,0
+C12504,31,92.1,Month-to-month,1,Auto-pay,1
+C12505,8,86.54,Month-to-month,0,Manual,1
+C12506,28,79.53,Month-to-month,4,Auto-pay,0
+C12507,70,77.57,Month-to-month,3,Manual,0
+C12508,17,57.98,Two year,1,Auto-pay,0
+C12509,65,102.25,Two year,1,Manual,0
+C12510,24,134.44,Month-to-month,3,Manual,1
+C12511,22,41.4,Month-to-month,1,Auto-pay,0
+C12512,4,76.03,Month-to-month,2,Auto-pay,1
+C12513,5,55.39,One year,3,Manual,1
+C12514,69,91.51,One year,1,Auto-pay,0
+C12515,29,87.8,Month-to-month,1,Auto-pay,0
+C12516,51,79.04,One year,0,Auto-pay,0
+C12517,3,57.26,Month-to-month,4,Auto-pay,0
+C12518,13,60.81,Month-to-month,0,Auto-pay,0
+C12519,39,52.18,Month-to-month,4,Manual,1
+C12520,41,23.35,One year,2,Manual,0
+C12521,53,111.87,One year,2,Auto-pay,0
+C12522,47,95.06,Month-to-month,2,Auto-pay,0
+C12523,31,113.71,Month-to-month,3,Auto-pay,1
+C12524,38,64.54,Month-to-month,4,Auto-pay,0
+C12525,61,89.7,One year,1,Manual,0
+C12526,43,49.57,Month-to-month,1,Auto-pay,0
+C12527,64,57.91,One year,2,Auto-pay,0
+C12528,62,136.48,One year,2,Manual,0
+C12529,70,63.81,One year,3,Manual,0
+C12530,64,103.42,Month-to-month,2,Auto-pay,1
+C12531,37,82.53,One year,1,Auto-pay,0
+C12532,2,33.15,Month-to-month,3,Manual,1
+C12533,39,70.96,Month-to-month,0,Manual,0
+C12534,37,86.33,Month-to-month,1,Auto-pay,0
+C12535,66,96.29,Month-to-month,1,Auto-pay,0
+C12536,33,21.39,Month-to-month,0,Manual,1
+C12537,55,46.04,One year,1,Auto-pay,0
+C12538,3,84.31,Two year,2,Manual,1
+C12539,14,46.77,Two year,2,Auto-pay,0
+C12540,65,111.57,One year,2,Auto-pay,0
+C12541,7,73.13,Two year,0,Manual,1
+C12542,71,89.6,Month-to-month,2,Auto-pay,0
+C12543,42,113.87,Two year,0,Manual,0
+C12544,51,38.56,Month-to-month,3,Auto-pay,0
+C12545,61,88.87,One year,1,Manual,0
+C12546,20,79.04,Month-to-month,2,Auto-pay,0
+C12547,29,79.95,One year,3,Manual,0
+C12548,5,68.29,One year,1,Auto-pay,1
+C12549,42,79.78,One year,0,Manual,0
+C12550,21,20.0,Month-to-month,2,Manual,0
+C12551,48,112.33,Two year,0,Manual,0
+C12552,44,34.91,Month-to-month,3,Auto-pay,0
+C12553,25,128.24,Month-to-month,4,Auto-pay,1
+C12554,21,46.52,Month-to-month,0,Manual,1
+C12555,28,45.22,Month-to-month,4,Manual,1
+C12556,53,87.15,One year,2,Manual,0
+C12557,1,83.14,Month-to-month,1,Manual,0
+C12558,70,88.52,One year,1,Auto-pay,0
+C12559,32,85.86,Two year,2,Manual,0
+C12560,16,70.78,One year,4,Manual,0
+C12561,16,63.97,One year,0,Manual,0
+C12562,71,92.47,Month-to-month,0,Manual,0
+C12563,40,54.25,Month-to-month,1,Manual,0
+C12564,36,78.58,Month-to-month,0,Manual,1
+C12565,37,24.16,Month-to-month,3,Manual,0
+C12566,30,82.62,Month-to-month,4,Manual,0
+C12567,17,77.95,One year,1,Manual,0
+C12568,15,73.77,Month-to-month,0,Auto-pay,0
+C12569,9,126.19,Two year,2,Auto-pay,0
+C12570,6,119.85,One year,1,Auto-pay,1
+C12571,47,102.43,One year,2,Manual,1
+C12572,53,101.77,Two year,1,Auto-pay,1
+C12573,30,78.17,Month-to-month,0,Manual,0
+C12574,48,84.22,Two year,2,Auto-pay,0
+C12575,27,87.98,Month-to-month,2,Manual,0
+C12576,55,93.08,Month-to-month,0,Manual,0
+C12577,59,77.14,One year,2,Manual,0
+C12578,16,91.26,Two year,0,Auto-pay,0
+C12579,46,76.94,Month-to-month,2,Auto-pay,0
+C12580,54,87.65,One year,1,Manual,0
+C12581,44,102.53,Two year,0,Manual,0
+C12582,45,55.32,Month-to-month,1,Auto-pay,0
+C12583,14,78.97,One year,1,Auto-pay,0
+C12584,29,77.28,Month-to-month,1,Auto-pay,1
+C12585,4,44.45,Two year,1,Auto-pay,0
+C12586,13,116.73,Month-to-month,1,Manual,1
+C12587,42,50.23,One year,6,Manual,0
+C12588,48,117.98,One year,1,Auto-pay,0
+C12589,28,34.73,Month-to-month,1,Manual,0
+C12590,65,30.1,Two year,2,Manual,0
+C12591,34,64.92,Month-to-month,0,Auto-pay,0
+C12592,57,86.93,Month-to-month,2,Auto-pay,0
+C12593,30,86.77,One year,3,Auto-pay,0
+C12594,70,113.79,Month-to-month,2,Auto-pay,0
+C12595,63,51.9,Two year,0,Auto-pay,0
+C12596,11,102.78,Month-to-month,1,Manual,1
+C12597,67,25.25,Two year,1,Auto-pay,0
+C12598,47,45.99,One year,2,Manual,0
+C12599,56,67.1,Two year,1,Auto-pay,0
+C12600,26,41.99,Month-to-month,1,Auto-pay,0
+C12601,7,91.41,Month-to-month,4,Manual,1
+C12602,25,55.47,Month-to-month,3,Manual,0
+C12603,15,105.09,Month-to-month,0,Auto-pay,1
+C12604,24,101.06,Two year,1,Auto-pay,0
+C12605,31,54.75,Two year,3,Auto-pay,0
+C12606,47,64.43,Month-to-month,1,Manual,0
+C12607,16,72.32,Month-to-month,1,Auto-pay,0
+C12608,56,115.63,Month-to-month,0,Auto-pay,1
+C12609,11,46.73,Month-to-month,2,Auto-pay,1
+C12610,40,20.0,Month-to-month,2,Auto-pay,0
+C12611,61,62.29,Two year,1,Auto-pay,0
+C12612,50,47.41,Month-to-month,0,Manual,0
+C12613,33,29.05,One year,3,Manual,0
+C12614,26,73.89,One year,1,Auto-pay,0
+C12615,46,39.8,Month-to-month,1,Auto-pay,0
+C12616,36,85.13,One year,2,Manual,0
+C12617,62,38.92,One year,2,Auto-pay,0
+C12618,12,163.6,Two year,1,Auto-pay,1
+C12619,55,106.78,Two year,2,Manual,0
+C12620,4,53.01,One year,2,Auto-pay,0
+C12621,68,51.86,One year,2,Auto-pay,0
+C12622,33,69.3,Two year,1,Auto-pay,0
+C12623,1,97.08,Two year,3,Manual,1
+C12624,70,61.56,One year,2,Auto-pay,0
+C12625,15,40.15,Month-to-month,3,Manual,1
+C12626,66,31.47,Month-to-month,2,Auto-pay,0
+C12627,52,74.44,Two year,1,Auto-pay,0
+C12628,64,53.26,Month-to-month,1,Auto-pay,0
+C12629,45,83.49,Two year,3,Manual,0
+C12630,26,20.0,One year,0,Manual,0
+C12631,34,89.18,Two year,2,Auto-pay,0
+C12632,54,65.37,Month-to-month,3,Auto-pay,0
+C12633,33,22.37,Month-to-month,1,Auto-pay,1
+C12634,67,85.87,Two year,3,Auto-pay,0
+C12635,40,89.96,One year,0,Auto-pay,0
+C12636,5,50.8,One year,1,Manual,0
+C12637,6,94.39,Two year,0,Manual,0
+C12638,32,34.02,Month-to-month,1,Manual,0
+C12639,3,20.0,Month-to-month,0,Auto-pay,0
+C12640,27,69.9,Month-to-month,1,Auto-pay,1
+C12641,19,48.39,One year,3,Manual,0
+C12642,60,37.62,One year,3,Auto-pay,0
+C12643,63,92.12,Month-to-month,0,Manual,0
+C12644,42,81.44,One year,0,Auto-pay,0
+C12645,57,124.21,One year,2,Auto-pay,0
+C12646,71,87.51,Month-to-month,2,Auto-pay,0
+C12647,68,91.58,Month-to-month,0,Manual,0
+C12648,5,48.8,Two year,3,Manual,1
+C12649,32,20.0,Month-to-month,0,Auto-pay,0
+C12650,23,134.34,One year,0,Auto-pay,0
+C12651,18,89.78,One year,2,Auto-pay,0
+C12652,40,123.12,One year,1,Manual,0
+C12653,4,39.55,Two year,1,Auto-pay,0
+C12654,16,105.2,Two year,2,Auto-pay,0
+C12655,15,83.67,Two year,2,Manual,0
+C12656,69,106.87,Month-to-month,1,Auto-pay,0
+C12657,66,92.41,Month-to-month,2,Auto-pay,0
+C12658,50,68.13,One year,0,Manual,0
+C12659,31,83.43,One year,1,Manual,0
+C12660,44,64.41,Month-to-month,3,Auto-pay,0
+C12661,47,100.11,One year,0,Manual,0
+C12662,10,51.12,One year,2,Manual,0
+C12663,15,53.93,Month-to-month,2,Auto-pay,0
+C12664,57,70.18,Two year,0,Manual,0
+C12665,66,93.45,Two year,2,Auto-pay,0
+C12666,69,76.6,Month-to-month,1,Auto-pay,0
+C12667,18,65.18,Month-to-month,0,Auto-pay,0
+C12668,57,106.69,Month-to-month,2,Auto-pay,0
+C12669,49,92.66,Two year,2,Manual,0
+C12670,41,61.22,Month-to-month,2,Auto-pay,0
+C12671,11,43.73,Month-to-month,1,Manual,1
+C12672,49,69.73,Month-to-month,3,Auto-pay,0
+C12673,8,56.29,One year,3,Auto-pay,0
+C12674,38,51.83,Month-to-month,1,Auto-pay,0
+C12675,25,97.49,Month-to-month,2,Manual,1
+C12676,3,108.82,One year,1,Manual,1
+C12677,27,73.22,Month-to-month,0,Auto-pay,0
+C12678,62,74.83,Month-to-month,1,Auto-pay,0
+C12679,55,52.8,Two year,3,Auto-pay,0
+C12680,17,43.1,Month-to-month,1,Auto-pay,1
+C12681,53,98.87,Two year,2,Manual,0
+C12682,23,36.88,Two year,1,Auto-pay,0
+C12683,30,56.42,Month-to-month,2,Auto-pay,1
+C12684,65,55.46,Month-to-month,0,Auto-pay,0
+C12685,37,87.72,Month-to-month,1,Auto-pay,0
+C12686,54,69.08,One year,2,Auto-pay,0
+C12687,71,57.91,Month-to-month,1,Manual,0
+C12688,40,115.78,Month-to-month,0,Manual,0
+C12689,35,123.91,One year,1,Auto-pay,0
+C12690,19,86.69,One year,1,Manual,1
+C12691,43,79.31,One year,1,Manual,0
+C12692,59,59.9,Month-to-month,1,Auto-pay,0
+C12693,68,74.45,One year,2,Manual,0
+C12694,38,38.85,One year,2,Manual,0
+C12695,18,104.66,Two year,2,Manual,0
+C12696,39,71.05,One year,1,Auto-pay,0
+C12697,71,54.37,One year,4,Auto-pay,0
+C12698,14,65.05,One year,0,Auto-pay,1
+C12699,44,96.19,Month-to-month,1,Manual,0
+C12700,32,67.31,One year,1,Manual,0
+C12701,53,51.38,Two year,5,Manual,0
+C12702,26,20.0,Two year,1,Manual,0
+C12703,34,72.66,Month-to-month,0,Auto-pay,0
+C12704,21,86.27,Month-to-month,1,Auto-pay,1
+C12705,69,60.29,Month-to-month,2,Auto-pay,1
+C12706,34,51.18,One year,0,Auto-pay,0
+C12707,65,41.24,One year,3,Auto-pay,0
+C12708,60,63.72,Two year,1,Auto-pay,0
+C12709,37,41.57,Month-to-month,1,Auto-pay,0
+C12710,23,41.38,One year,2,Auto-pay,0
+C12711,41,60.63,Month-to-month,0,Manual,0
+C12712,18,131.51,One year,2,Auto-pay,1
+C12713,36,145.05,Two year,0,Manual,0
+C12714,63,110.33,Two year,1,Manual,0
+C12715,48,94.33,Month-to-month,3,Manual,0
+C12716,55,20.0,Two year,0,Manual,0
+C12717,39,155.29,Two year,3,Auto-pay,0
+C12718,41,86.76,One year,0,Auto-pay,0
+C12719,43,42.02,Month-to-month,4,Auto-pay,1
+C12720,49,155.59,Month-to-month,0,Auto-pay,0
+C12721,20,72.05,Month-to-month,3,Auto-pay,0
+C12722,7,100.03,Two year,0,Manual,0
+C12723,16,65.56,Month-to-month,0,Auto-pay,1
+C12724,53,92.03,Two year,0,Auto-pay,0
+C12725,69,95.59,One year,2,Auto-pay,0
+C12726,64,100.8,Month-to-month,1,Manual,0
+C12727,68,113.5,Month-to-month,1,Auto-pay,0
+C12728,34,79.66,Month-to-month,1,Auto-pay,0
+C12729,22,81.3,Month-to-month,3,Manual,1
+C12730,60,73.56,One year,3,Auto-pay,0
+C12731,29,43.68,Month-to-month,0,Auto-pay,0
+C12732,41,47.86,One year,1,Auto-pay,0
+C12733,67,65.75,Two year,1,Auto-pay,0
+C12734,3,112.87,Month-to-month,0,Auto-pay,0
+C12735,56,89.12,Month-to-month,3,Manual,0
+C12736,1,72.2,Two year,1,Manual,1
+C12737,43,67.09,One year,0,Manual,0
+C12738,9,39.99,Month-to-month,0,Auto-pay,0
+C12739,55,48.04,Month-to-month,0,Auto-pay,0
+C12740,69,79.64,Month-to-month,2,Manual,1
+C12741,39,75.25,Month-to-month,1,Auto-pay,0
+C12742,68,98.35,One year,3,Auto-pay,0
+C12743,50,68.51,Month-to-month,0,Auto-pay,0
+C12744,3,92.02,Month-to-month,1,Auto-pay,1
+C12745,26,29.06,Month-to-month,2,Manual,0
+C12746,27,46.52,One year,1,Manual,1
+C12747,68,82.91,Month-to-month,2,Auto-pay,1
+C12748,68,75.49,Month-to-month,1,Manual,0
+C12749,56,97.13,Month-to-month,2,Manual,0
+C12750,40,110.27,Two year,1,Auto-pay,0
+C12751,5,111.64,Two year,0,Auto-pay,0
+C12752,57,122.58,One year,1,Auto-pay,0
+C12753,30,129.63,Two year,0,Manual,0
+C12754,15,64.31,Two year,0,Auto-pay,0
+C12755,61,143.99,Month-to-month,0,Manual,0
+C12756,8,161.68,Two year,1,Manual,1
+C12757,45,35.93,Two year,1,Auto-pay,0
+C12758,24,57.34,Month-to-month,1,Manual,0
+C12759,59,85.81,Month-to-month,0,Manual,0
+C12760,50,81.96,One year,3,Manual,0
+C12761,13,24.4,One year,2,Auto-pay,0
+C12762,67,46.51,One year,2,Manual,0
+C12763,5,81.5,One year,0,Manual,1
+C12764,56,68.47,Month-to-month,1,Auto-pay,0
+C12765,37,93.63,Month-to-month,1,Auto-pay,0
+C12766,30,133.67,Month-to-month,4,Manual,1
+C12767,35,37.66,Month-to-month,2,Manual,0
+C12768,27,144.43,Month-to-month,1,Auto-pay,0
+C12769,56,131.44,Month-to-month,1,Manual,0
+C12770,62,23.22,Two year,1,Auto-pay,0
+C12771,61,39.19,One year,1,Manual,0
+C12772,37,62.88,Month-to-month,2,Auto-pay,0
+C12773,67,46.4,Month-to-month,1,Auto-pay,0
+C12774,33,92.46,Month-to-month,2,Auto-pay,0
+C12775,33,94.05,Month-to-month,1,Auto-pay,0
+C12776,21,79.25,Month-to-month,1,Manual,0
+C12777,58,86.22,Month-to-month,2,Manual,0
+C12778,49,70.98,Two year,5,Auto-pay,0
+C12779,42,86.9,Month-to-month,1,Manual,0
+C12780,11,132.38,Two year,0,Manual,0
+C12781,26,20.0,Two year,0,Auto-pay,0
+C12782,28,75.54,Month-to-month,2,Auto-pay,0
+C12783,41,88.94,Month-to-month,0,Auto-pay,0
+C12784,54,72.04,One year,0,Auto-pay,0
+C12785,13,84.39,Two year,1,Auto-pay,0
+C12786,48,110.96,One year,2,Auto-pay,0
+C12787,41,59.51,Month-to-month,1,Manual,0
+C12788,10,141.27,Two year,1,Manual,0
+C12789,16,30.45,One year,1,Auto-pay,0
+C12790,26,93.62,Month-to-month,0,Auto-pay,0
+C12791,40,74.59,Month-to-month,2,Manual,1
+C12792,28,82.8,Month-to-month,2,Auto-pay,0
+C12793,53,97.84,One year,1,Auto-pay,0
+C12794,17,56.46,Month-to-month,3,Auto-pay,1
+C12795,31,108.07,Two year,2,Manual,0
+C12796,15,134.25,Month-to-month,2,Auto-pay,1
+C12797,17,66.3,Month-to-month,0,Manual,0
+C12798,37,59.47,Month-to-month,0,Auto-pay,1
+C12799,15,112.96,Month-to-month,3,Auto-pay,1
+C12800,24,104.47,One year,1,Manual,0
+C12801,47,28.03,Month-to-month,2,Auto-pay,0
+C12802,44,91.58,Month-to-month,1,Manual,0
+C12803,52,98.26,Month-to-month,1,Auto-pay,0
+C12804,46,73.36,Month-to-month,2,Manual,0
+C12805,67,120.02,Month-to-month,4,Manual,0
+C12806,68,26.88,Month-to-month,0,Auto-pay,0
+C12807,30,20.0,One year,0,Auto-pay,0
+C12808,42,106.95,Two year,3,Auto-pay,0
+C12809,7,50.61,Month-to-month,1,Manual,1
+C12810,59,73.96,Month-to-month,0,Manual,0
+C12811,42,41.01,Month-to-month,1,Manual,0
+C12812,65,100.57,Month-to-month,1,Manual,0
+C12813,9,85.22,Month-to-month,2,Manual,1
+C12814,31,71.02,One year,4,Auto-pay,0
+C12815,37,37.96,Month-to-month,3,Auto-pay,0
+C12816,13,70.19,Month-to-month,2,Auto-pay,0
+C12817,21,85.01,Month-to-month,2,Auto-pay,0
+C12818,20,59.05,Two year,1,Auto-pay,0
+C12819,47,60.07,One year,0,Manual,0
+C12820,49,75.31,Two year,3,Manual,0
+C12821,46,95.21,Month-to-month,1,Manual,0
+C12822,23,87.72,Two year,1,Manual,0
+C12823,10,110.28,Two year,0,Auto-pay,0
+C12824,10,72.31,Two year,1,Auto-pay,0
+C12825,57,105.39,Month-to-month,0,Manual,0
+C12826,10,40.02,Month-to-month,1,Auto-pay,0
+C12827,61,86.95,Two year,0,Auto-pay,0
+C12828,24,85.35,Month-to-month,2,Auto-pay,0
+C12829,44,145.73,One year,5,Auto-pay,0
+C12830,11,54.9,Month-to-month,1,Auto-pay,0
+C12831,59,38.97,Month-to-month,0,Manual,0
+C12832,66,51.89,Month-to-month,2,Auto-pay,0
+C12833,68,56.04,One year,0,Auto-pay,0
+C12834,1,87.3,Month-to-month,0,Auto-pay,1
+C12835,65,37.18,Month-to-month,3,Auto-pay,1
+C12836,17,85.36,Two year,0,Manual,0
+C12837,42,76.03,Two year,1,Manual,0
+C12838,66,102.43,Two year,0,Auto-pay,1
+C12839,46,93.58,Month-to-month,1,Auto-pay,0
+C12840,58,99.85,One year,3,Auto-pay,0
+C12841,17,89.73,Month-to-month,1,Manual,1
+C12842,66,110.03,Two year,1,Manual,0
+C12843,46,30.28,One year,4,Manual,0
+C12844,63,31.33,Two year,4,Auto-pay,0
+C12845,1,74.38,Month-to-month,2,Auto-pay,1
+C12846,30,77.53,Two year,1,Auto-pay,0
+C12847,58,44.28,Month-to-month,0,Manual,0
+C12848,7,91.81,Month-to-month,3,Manual,1
+C12849,16,35.87,Two year,0,Manual,0
+C12850,60,66.96,Month-to-month,1,Auto-pay,0
+C12851,68,74.46,Month-to-month,1,Manual,0
+C12852,27,92.16,Month-to-month,0,Manual,1
+C12853,12,59.88,Month-to-month,2,Auto-pay,0
+C12854,9,111.47,One year,3,Manual,0
+C12855,59,125.41,Two year,1,Auto-pay,0
+C12856,55,121.14,One year,1,Auto-pay,0
+C12857,48,129.23,One year,0,Auto-pay,0
+C12858,2,106.98,Month-to-month,4,Auto-pay,1
+C12859,26,93.46,Month-to-month,2,Auto-pay,0
+C12860,16,52.52,Month-to-month,2,Manual,1
+C12861,40,58.08,Two year,0,Auto-pay,0
+C12862,47,103.46,Month-to-month,2,Manual,0
+C12863,62,21.57,Month-to-month,1,Auto-pay,0
+C12864,18,114.71,Two year,0,Auto-pay,0
+C12865,41,56.81,Two year,1,Manual,0
+C12866,5,58.98,One year,1,Manual,0
+C12867,13,98.28,One year,2,Auto-pay,0
+C12868,49,83.41,Month-to-month,2,Auto-pay,0
+C12869,40,62.41,One year,1,Auto-pay,0
+C12870,22,47.68,One year,1,Auto-pay,0
+C12871,34,29.96,Month-to-month,1,Auto-pay,0
+C12872,66,20.0,Month-to-month,1,Auto-pay,0
+C12873,23,118.89,Month-to-month,5,Auto-pay,0
+C12874,5,68.5,One year,0,Auto-pay,0
+C12875,8,48.34,Month-to-month,3,Auto-pay,1
+C12876,25,97.55,One year,2,Auto-pay,1
+C12877,39,51.62,Month-to-month,2,Auto-pay,0
+C12878,64,52.21,One year,2,Auto-pay,0
+C12879,40,110.69,Two year,2,Auto-pay,0
+C12880,6,97.25,One year,1,Manual,0
+C12881,14,80.49,Month-to-month,1,Auto-pay,1
+C12882,63,58.37,Two year,1,Manual,0
+C12883,10,82.01,One year,5,Manual,0
+C12884,60,92.41,One year,3,Manual,0
+C12885,56,82.74,Month-to-month,2,Auto-pay,0
+C12886,10,111.43,Month-to-month,1,Manual,1
+C12887,40,44.96,Two year,1,Manual,0
+C12888,40,67.26,Two year,4,Auto-pay,0
+C12889,8,91.71,Month-to-month,2,Manual,1
+C12890,9,57.82,Two year,0,Manual,0
+C12891,14,103.59,One year,3,Manual,1
+C12892,66,115.28,Month-to-month,2,Manual,0
+C12893,5,76.78,Month-to-month,1,Manual,0
+C12894,71,86.48,One year,0,Auto-pay,0
+C12895,43,68.74,Month-to-month,0,Manual,0
+C12896,25,66.22,One year,2,Manual,0
+C12897,22,113.5,Two year,1,Auto-pay,0
+C12898,69,49.91,Month-to-month,3,Auto-pay,0
+C12899,31,99.8,Two year,2,Auto-pay,0
+C12900,20,60.21,One year,1,Manual,0
+C12901,66,49.63,One year,1,Manual,0
+C12902,43,105.24,Month-to-month,1,Auto-pay,1
+C12903,54,95.89,One year,1,Auto-pay,0
+C12904,18,55.4,Two year,1,Manual,0
+C12905,70,69.95,Month-to-month,3,Auto-pay,0
+C12906,2,71.26,Month-to-month,3,Manual,0
+C12907,68,82.05,One year,2,Auto-pay,0
+C12908,25,60.32,Two year,3,Manual,0
+C12909,1,127.1,Month-to-month,3,Manual,1
+C12910,32,41.74,Month-to-month,2,Manual,0
+C12911,30,29.52,Two year,0,Auto-pay,0
+C12912,14,71.49,Month-to-month,2,Auto-pay,1
+C12913,61,20.0,Month-to-month,2,Manual,0
+C12914,37,51.7,Month-to-month,0,Manual,0
+C12915,2,56.01,Month-to-month,1,Auto-pay,0
+C12916,67,75.45,Month-to-month,2,Auto-pay,0
+C12917,34,69.08,Month-to-month,4,Manual,0
+C12918,58,82.08,One year,0,Auto-pay,0
+C12919,8,51.6,Month-to-month,2,Auto-pay,0
+C12920,30,63.65,Month-to-month,2,Auto-pay,0
+C12921,50,92.36,Month-to-month,0,Manual,0
+C12922,30,20.0,Month-to-month,2,Auto-pay,0
+C12923,2,87.62,Two year,0,Auto-pay,0
+C12924,62,20.0,Month-to-month,0,Manual,0
+C12925,44,75.32,Month-to-month,0,Auto-pay,0
+C12926,41,90.6,Month-to-month,3,Manual,1
+C12927,13,84.23,Month-to-month,2,Auto-pay,0
+C12928,30,56.39,One year,1,Auto-pay,0
+C12929,62,82.71,Month-to-month,2,Auto-pay,0
+C12930,20,46.73,One year,1,Manual,0
+C12931,12,116.46,Month-to-month,3,Manual,1
+C12932,67,99.94,One year,2,Manual,0
+C12933,26,46.53,Two year,3,Auto-pay,0
+C12934,35,116.31,Two year,2,Auto-pay,0
+C12935,2,80.84,Two year,1,Auto-pay,1
+C12936,24,41.11,One year,1,Auto-pay,0
+C12937,66,110.03,Month-to-month,2,Auto-pay,0
+C12938,64,124.31,Month-to-month,5,Manual,1
+C12939,71,67.33,Month-to-month,2,Manual,0
+C12940,49,85.98,Two year,1,Auto-pay,0
+C12941,54,74.61,One year,6,Auto-pay,0
+C12942,63,92.38,Month-to-month,0,Auto-pay,0
+C12943,6,98.84,Month-to-month,2,Auto-pay,0
+C12944,22,104.58,Month-to-month,2,Auto-pay,1
+C12945,7,20.0,Two year,1,Auto-pay,0
+C12946,70,59.45,Month-to-month,2,Manual,0
+C12947,43,103.96,Two year,4,Auto-pay,0
+C12948,62,54.05,One year,1,Auto-pay,0
+C12949,43,85.42,Two year,1,Auto-pay,0
+C12950,46,47.51,One year,1,Auto-pay,0
+C12951,49,95.34,Month-to-month,2,Auto-pay,0
+C12952,70,76.12,Month-to-month,2,Auto-pay,0
+C12953,62,93.12,Two year,2,Auto-pay,0
+C12954,32,86.85,One year,0,Manual,0
+C12955,45,32.84,One year,2,Manual,0
+C12956,36,137.85,Month-to-month,0,Auto-pay,0
+C12957,13,35.76,Month-to-month,4,Manual,1
+C12958,43,149.56,One year,0,Auto-pay,0
+C12959,27,20.0,Two year,2,Auto-pay,0
+C12960,56,77.04,Month-to-month,2,Auto-pay,1
+C12961,63,32.77,Month-to-month,2,Auto-pay,0
+C12962,50,123.47,Month-to-month,2,Manual,0
+C12963,13,44.57,Two year,2,Manual,0
+C12964,66,42.15,One year,0,Auto-pay,0
+C12965,24,76.02,One year,1,Manual,0
+C12966,34,117.91,Month-to-month,0,Auto-pay,0
+C12967,45,111.99,Month-to-month,0,Auto-pay,0
+C12968,41,68.32,Month-to-month,2,Auto-pay,0
+C12969,55,65.39,One year,0,Manual,0
+C12970,30,90.65,Month-to-month,1,Auto-pay,1
+C12971,47,73.25,Two year,2,Manual,0
+C12972,57,77.42,One year,3,Auto-pay,0
+C12973,37,70.75,Month-to-month,1,Manual,0
+C12974,51,93.31,Month-to-month,3,Auto-pay,1
+C12975,61,88.53,Month-to-month,1,Manual,1
+C12976,68,120.64,Month-to-month,2,Auto-pay,1
+C12977,38,55.89,Two year,2,Auto-pay,0
+C12978,69,55.62,Two year,2,Auto-pay,0
+C12979,33,72.22,Month-to-month,1,Auto-pay,0
+C12980,40,68.93,Month-to-month,1,Manual,1
+C12981,11,100.89,Month-to-month,1,Manual,1
+C12982,3,43.35,Month-to-month,1,Auto-pay,0
+C12983,32,113.1,Month-to-month,0,Auto-pay,1
+C12984,42,66.47,Month-to-month,3,Auto-pay,1
+C12985,35,110.44,Month-to-month,3,Manual,0
+C12986,47,150.94,Month-to-month,1,Auto-pay,0
+C12987,21,105.79,Month-to-month,1,Auto-pay,1
+C12988,5,93.75,Month-to-month,0,Auto-pay,1
+C12989,51,108.47,One year,1,Auto-pay,0
+C12990,13,66.17,Month-to-month,2,Auto-pay,1
+C12991,23,82.89,Month-to-month,1,Manual,1
+C12992,62,54.83,One year,1,Auto-pay,0
+C12993,1,56.74,One year,0,Manual,0
+C12994,31,84.25,Two year,2,Manual,0
+C12995,46,77.87,Month-to-month,3,Auto-pay,0
+C12996,66,87.94,Month-to-month,3,Auto-pay,0
+C12997,25,79.03,Month-to-month,0,Auto-pay,0
+C12998,23,66.53,Month-to-month,2,Auto-pay,1
+C12999,15,102.71,Month-to-month,0,Manual,1
+C13000,70,56.48,Month-to-month,1,Auto-pay,0
+C13001,16,82.53,One year,1,Auto-pay,0
+C13002,48,109.43,Month-to-month,0,Manual,0
+C13003,62,96.28,Month-to-month,1,Auto-pay,0
+C13004,54,74.13,Month-to-month,1,Auto-pay,0
+C13005,37,21.12,One year,1,Auto-pay,0
+C13006,43,64.8,Month-to-month,1,Manual,0
+C13007,25,138.73,Month-to-month,1,Auto-pay,1
+C13008,39,67.56,Two year,3,Manual,0
+C13009,54,74.85,Month-to-month,1,Auto-pay,0
+C13010,52,80.09,One year,0,Auto-pay,0
+C13011,12,87.82,One year,3,Auto-pay,1
+C13012,15,55.34,Month-to-month,0,Auto-pay,0
+C13013,52,97.74,Two year,1,Auto-pay,0
+C13014,35,87.26,One year,0,Manual,0
+C13015,32,23.33,One year,1,Manual,0
+C13016,68,20.0,Month-to-month,3,Manual,0
+C13017,12,58.89,Month-to-month,2,Manual,1
+C13018,64,38.67,Month-to-month,5,Manual,1
+C13019,39,84.28,Month-to-month,0,Manual,0
+C13020,67,63.77,Month-to-month,3,Manual,0
+C13021,36,89.1,Month-to-month,0,Auto-pay,0
+C13022,57,89.5,Month-to-month,2,Auto-pay,0
+C13023,17,44.83,Two year,1,Auto-pay,0
+C13024,56,64.07,Two year,2,Manual,0
+C13025,15,58.4,Month-to-month,0,Auto-pay,1
+C13026,66,102.99,Month-to-month,2,Auto-pay,0
+C13027,42,69.73,Month-to-month,0,Auto-pay,0
+C13028,55,112.53,Month-to-month,2,Auto-pay,0
+C13029,65,114.2,Month-to-month,7,Manual,0
+C13030,7,70.93,One year,3,Manual,0
+C13031,24,57.23,Month-to-month,3,Auto-pay,1
+C13032,41,48.73,One year,2,Manual,0
+C13033,2,96.3,Two year,2,Auto-pay,0
+C13034,3,71.99,Month-to-month,2,Auto-pay,1
+C13035,47,53.13,Month-to-month,3,Auto-pay,0
+C13036,13,101.91,Month-to-month,1,Auto-pay,0
+C13037,36,102.46,One year,1,Auto-pay,0
+C13038,49,46.55,Month-to-month,2,Manual,0
+C13039,56,85.85,Month-to-month,3,Auto-pay,0
+C13040,66,92.66,Month-to-month,1,Manual,0
+C13041,2,126.05,Two year,0,Manual,1
+C13042,2,70.05,Month-to-month,0,Auto-pay,1
+C13043,4,75.01,Month-to-month,1,Auto-pay,1
+C13044,54,94.83,Month-to-month,3,Auto-pay,0
+C13045,6,113.07,Month-to-month,4,Manual,1
+C13046,33,87.02,One year,0,Auto-pay,0
+C13047,2,81.76,Two year,1,Manual,0
+C13048,59,58.16,One year,0,Manual,0
+C13049,58,65.29,One year,1,Manual,0
+C13050,45,70.53,One year,1,Manual,0
+C13051,70,96.04,Month-to-month,1,Manual,0
+C13052,42,88.46,Two year,0,Auto-pay,0
+C13053,49,54.32,Two year,1,Auto-pay,0
+C13054,31,100.49,Month-to-month,0,Auto-pay,0
+C13055,70,69.93,Month-to-month,2,Manual,0
+C13056,25,70.35,One year,1,Auto-pay,0
+C13057,18,98.04,Two year,2,Auto-pay,0
+C13058,36,101.78,One year,0,Auto-pay,0
+C13059,13,85.38,Month-to-month,1,Auto-pay,0
+C13060,48,131.15,Month-to-month,2,Auto-pay,0
+C13061,42,20.0,Month-to-month,0,Manual,0
+C13062,27,103.97,Two year,4,Manual,1
+C13063,2,45.02,One year,2,Auto-pay,0
+C13064,35,74.49,Two year,2,Auto-pay,0
+C13065,38,75.74,Month-to-month,1,Auto-pay,0
+C13066,43,73.51,Month-to-month,2,Auto-pay,0
+C13067,4,47.92,One year,1,Manual,0
+C13068,1,34.52,Month-to-month,1,Auto-pay,0
+C13069,56,20.0,Month-to-month,1,Auto-pay,0
+C13070,16,69.02,Two year,1,Auto-pay,0
+C13071,64,79.31,One year,1,Manual,0
+C13072,14,93.09,Month-to-month,0,Manual,1
+C13073,26,110.1,Month-to-month,1,Auto-pay,1
+C13074,63,100.47,Month-to-month,1,Auto-pay,0
+C13075,9,104.9,Two year,2,Manual,1
+C13076,64,45.24,Month-to-month,0,Auto-pay,0
+C13077,2,108.39,Month-to-month,0,Auto-pay,1
+C13078,13,86.49,One year,0,Auto-pay,0
+C13079,22,36.28,Month-to-month,0,Auto-pay,1
+C13080,50,107.38,Two year,0,Auto-pay,0
+C13081,42,48.8,Month-to-month,1,Auto-pay,0
+C13082,30,44.18,Month-to-month,3,Auto-pay,1
+C13083,40,121.54,One year,4,Manual,0
+C13084,39,82.44,Month-to-month,3,Manual,0
+C13085,57,43.97,Two year,1,Manual,0
+C13086,30,59.12,Month-to-month,2,Manual,1
+C13087,66,106.99,One year,0,Auto-pay,0
+C13088,34,39.23,Month-to-month,1,Auto-pay,0
+C13089,60,71.0,Month-to-month,1,Auto-pay,0
+C13090,49,70.98,Month-to-month,2,Manual,0
+C13091,29,156.92,Month-to-month,0,Auto-pay,1
+C13092,21,31.51,Two year,1,Manual,1
+C13093,36,32.75,One year,1,Auto-pay,0
+C13094,2,58.23,One year,0,Manual,0
+C13095,24,56.04,Two year,2,Auto-pay,0
+C13096,36,76.29,Month-to-month,1,Manual,0
+C13097,27,61.09,Month-to-month,3,Manual,1
+C13098,7,100.64,One year,2,Auto-pay,0
+C13099,43,77.87,Month-to-month,0,Auto-pay,0
+C13100,68,46.27,One year,0,Manual,0
+C13101,31,68.11,Month-to-month,1,Auto-pay,0
+C13102,25,67.14,Month-to-month,2,Auto-pay,1
+C13103,50,109.57,One year,2,Manual,0
+C13104,2,101.23,Month-to-month,2,Auto-pay,1
+C13105,64,96.69,Month-to-month,2,Manual,0
+C13106,35,53.47,Two year,4,Manual,0
+C13107,54,84.68,Month-to-month,2,Auto-pay,0
+C13108,23,40.75,Month-to-month,1,Auto-pay,0
+C13109,15,94.87,One year,0,Auto-pay,0
+C13110,49,111.79,Month-to-month,0,Auto-pay,0
+C13111,21,20.0,Month-to-month,1,Auto-pay,1
+C13112,51,72.78,One year,1,Manual,0
+C13113,50,72.75,One year,4,Manual,0
+C13114,50,102.66,Month-to-month,1,Auto-pay,0
+C13115,56,57.76,Two year,3,Auto-pay,0
+C13116,28,57.34,Month-to-month,2,Auto-pay,0
+C13117,70,80.36,Month-to-month,1,Manual,0
+C13118,61,93.81,Month-to-month,0,Auto-pay,0
+C13119,34,81.76,Two year,1,Auto-pay,0
+C13120,4,102.03,Month-to-month,2,Auto-pay,0
+C13121,3,96.26,One year,3,Auto-pay,1
+C13122,34,60.09,Month-to-month,4,Manual,0
+C13123,3,76.32,Two year,0,Manual,1
+C13124,68,92.11,Two year,0,Auto-pay,0
+C13125,30,51.87,Month-to-month,3,Auto-pay,1
+C13126,30,55.26,Month-to-month,2,Auto-pay,0
+C13127,38,31.88,Month-to-month,1,Auto-pay,1
+C13128,70,111.07,Two year,2,Manual,0
+C13129,43,140.71,One year,3,Auto-pay,0
+C13130,51,55.38,Two year,1,Manual,0
+C13131,40,92.97,Month-to-month,1,Auto-pay,0
+C13132,30,113.18,Two year,0,Auto-pay,0
+C13133,7,40.7,Two year,3,Auto-pay,1
+C13134,49,86.18,Month-to-month,3,Manual,1
+C13135,36,115.58,Month-to-month,0,Auto-pay,0
+C13136,68,67.9,Month-to-month,3,Auto-pay,0
+C13137,10,73.47,Month-to-month,1,Manual,1
+C13138,61,117.35,One year,0,Auto-pay,0
+C13139,48,63.24,Two year,1,Auto-pay,0
+C13140,14,58.75,One year,3,Manual,0
+C13141,37,70.46,Month-to-month,2,Auto-pay,0
+C13142,58,130.68,Two year,1,Auto-pay,0
+C13143,51,100.04,Two year,0,Auto-pay,0
+C13144,17,92.32,Month-to-month,2,Auto-pay,1
+C13145,50,92.0,Two year,3,Auto-pay,0
+C13146,8,42.77,Month-to-month,4,Manual,1
+C13147,10,93.21,Month-to-month,3,Auto-pay,1
+C13148,29,63.72,One year,1,Manual,0
+C13149,5,70.8,Month-to-month,1,Auto-pay,1
+C13150,43,69.26,One year,0,Auto-pay,0
+C13151,14,105.03,Month-to-month,0,Auto-pay,1
+C13152,23,131.73,Month-to-month,2,Manual,1
+C13153,43,49.49,One year,1,Manual,0
+C13154,61,109.08,Month-to-month,4,Auto-pay,0
+C13155,10,72.58,Month-to-month,2,Manual,1
+C13156,24,100.85,Month-to-month,1,Auto-pay,0
+C13157,31,87.12,Month-to-month,1,Manual,1
+C13158,9,59.71,Month-to-month,5,Auto-pay,1
+C13159,15,59.26,One year,3,Auto-pay,0
+C13160,36,71.79,Month-to-month,1,Auto-pay,0
+C13161,28,89.01,One year,0,Auto-pay,0
+C13162,45,93.16,Two year,2,Auto-pay,0
+C13163,62,167.4,Month-to-month,0,Manual,0
+C13164,20,94.7,Month-to-month,1,Auto-pay,0
+C13165,13,39.46,Month-to-month,2,Auto-pay,0
+C13166,64,116.16,One year,1,Auto-pay,0
+C13167,25,96.33,Month-to-month,0,Auto-pay,0
+C13168,5,73.58,Month-to-month,2,Manual,1
+C13169,66,45.23,Two year,2,Auto-pay,0
+C13170,43,70.12,Month-to-month,0,Manual,1
+C13171,70,113.62,Month-to-month,2,Auto-pay,0
+C13172,60,93.46,One year,0,Auto-pay,0
+C13173,45,119.22,Month-to-month,1,Manual,0
+C13174,58,117.63,Two year,0,Auto-pay,0
+C13175,10,84.68,Two year,0,Manual,1
+C13176,47,20.0,Month-to-month,3,Manual,0
+C13177,12,51.42,Two year,0,Auto-pay,0
+C13178,3,32.24,One year,1,Auto-pay,0
+C13179,59,121.01,Month-to-month,4,Auto-pay,0
+C13180,6,93.91,Two year,0,Manual,0
+C13181,2,71.97,Month-to-month,2,Auto-pay,0
+C13182,35,62.81,Month-to-month,1,Auto-pay,1
+C13183,27,110.95,One year,1,Manual,0
+C13184,68,51.46,Month-to-month,1,Manual,0
+C13185,49,39.69,Two year,0,Auto-pay,0
+C13186,6,37.11,Month-to-month,4,Manual,1
+C13187,11,81.62,One year,0,Auto-pay,0
+C13188,61,53.92,One year,2,Auto-pay,0
+C13189,57,108.28,Two year,0,Auto-pay,0
+C13190,58,77.84,Month-to-month,2,Auto-pay,0
+C13191,20,36.09,Month-to-month,0,Manual,1
+C13192,68,70.59,Two year,1,Manual,0
+C13193,35,48.39,Month-to-month,1,Auto-pay,0
+C13194,11,73.75,One year,1,Manual,0
+C13195,63,110.12,Month-to-month,0,Auto-pay,0
+C13196,8,72.69,One year,3,Auto-pay,0
+C13197,9,57.22,Month-to-month,2,Manual,0
+C13198,27,90.49,One year,2,Auto-pay,0
+C13199,59,64.31,One year,0,Auto-pay,0
+C13200,37,93.12,One year,1,Auto-pay,0
+C13201,11,86.88,Month-to-month,3,Auto-pay,0
+C13202,61,45.41,Month-to-month,2,Auto-pay,0
+C13203,37,37.61,Month-to-month,0,Auto-pay,0
+C13204,66,65.86,Month-to-month,3,Manual,0
+C13205,44,89.25,Month-to-month,1,Manual,0
+C13206,23,128.81,Month-to-month,0,Manual,1
+C13207,9,42.89,Two year,4,Auto-pay,0
+C13208,59,46.52,One year,1,Auto-pay,0
+C13209,8,105.91,Month-to-month,1,Auto-pay,1
+C13210,60,82.28,Two year,2,Manual,0
+C13211,54,71.06,Month-to-month,1,Manual,0
+C13212,30,96.57,Month-to-month,0,Auto-pay,0
+C13213,41,113.63,Month-to-month,1,Manual,1
+C13214,33,107.51,One year,3,Auto-pay,1
+C13215,3,55.3,Month-to-month,1,Auto-pay,1
+C13216,63,89.54,Month-to-month,0,Manual,0
+C13217,54,110.29,Month-to-month,0,Auto-pay,0
+C13218,63,67.69,Two year,3,Manual,0
+C13219,42,87.59,Two year,0,Auto-pay,1
+C13220,69,58.79,One year,4,Auto-pay,0
+C13221,5,47.8,Two year,1,Auto-pay,0
+C13222,44,88.84,Month-to-month,0,Manual,0
+C13223,65,104.13,One year,0,Manual,0
+C13224,35,99.36,Two year,1,Auto-pay,1
+C13225,34,36.37,Month-to-month,3,Auto-pay,0
+C13226,59,115.91,Month-to-month,1,Auto-pay,0
+C13227,26,94.01,Month-to-month,2,Auto-pay,0
+C13228,6,110.43,Two year,1,Auto-pay,0
+C13229,20,48.78,Month-to-month,2,Manual,0
+C13230,62,101.97,Month-to-month,1,Auto-pay,0
+C13231,22,95.96,One year,0,Auto-pay,0
+C13232,16,38.86,Month-to-month,1,Auto-pay,0
+C13233,31,90.08,One year,1,Manual,0
+C13234,34,45.96,Two year,1,Auto-pay,0
+C13235,68,77.38,Two year,1,Auto-pay,0
+C13236,49,146.47,Month-to-month,1,Auto-pay,0
+C13237,56,85.63,Month-to-month,5,Auto-pay,0
+C13238,2,73.53,Two year,1,Auto-pay,0
+C13239,61,32.42,Month-to-month,3,Manual,0
+C13240,28,85.66,One year,0,Auto-pay,0
+C13241,7,72.42,Month-to-month,3,Auto-pay,0
+C13242,21,20.0,Two year,1,Manual,1
+C13243,47,44.25,Month-to-month,1,Auto-pay,0
+C13244,5,103.69,Two year,0,Manual,0
+C13245,54,115.73,Month-to-month,1,Auto-pay,1
+C13246,12,79.2,Month-to-month,0,Auto-pay,0
+C13247,60,107.33,Month-to-month,2,Auto-pay,0
+C13248,12,78.02,Month-to-month,1,Manual,1
+C13249,63,54.33,Month-to-month,1,Auto-pay,0
+C13250,54,143.05,Month-to-month,0,Manual,0
+C13251,14,34.66,Two year,1,Manual,0
+C13252,29,89.72,One year,1,Manual,0
+C13253,7,57.5,One year,0,Auto-pay,1
+C13254,4,70.77,Month-to-month,2,Auto-pay,0
+C13255,26,124.69,Month-to-month,1,Auto-pay,0
+C13256,16,78.37,Month-to-month,4,Auto-pay,1
+C13257,55,67.32,Month-to-month,1,Auto-pay,0
+C13258,52,60.64,Two year,1,Auto-pay,0
+C13259,22,93.89,Month-to-month,0,Manual,0
+C13260,16,48.62,Month-to-month,1,Auto-pay,0
+C13261,63,79.86,Two year,1,Manual,0
+C13262,32,72.99,One year,0,Manual,0
+C13263,47,53.54,Month-to-month,1,Auto-pay,0
+C13264,47,34.06,Month-to-month,1,Manual,0
+C13265,49,78.04,Month-to-month,0,Auto-pay,0
+C13266,69,65.85,Month-to-month,0,Manual,0
+C13267,51,83.73,Two year,1,Auto-pay,0
+C13268,5,20.0,One year,3,Auto-pay,0
+C13269,29,63.24,One year,1,Manual,0
+C13270,16,102.6,Month-to-month,2,Auto-pay,0
+C13271,18,27.54,One year,1,Auto-pay,1
+C13272,16,133.25,Month-to-month,1,Manual,1
+C13273,61,87.89,One year,0,Auto-pay,0
+C13274,63,72.74,One year,0,Auto-pay,0
+C13275,15,80.21,Month-to-month,0,Manual,0
+C13276,40,51.39,Month-to-month,1,Auto-pay,0
+C13277,33,119.54,Two year,0,Auto-pay,1
+C13278,54,82.32,One year,1,Auto-pay,0
+C13279,62,78.94,One year,1,Manual,0
+C13280,33,107.04,Two year,4,Auto-pay,0
+C13281,30,88.58,Month-to-month,5,Manual,0
+C13282,34,56.57,Month-to-month,2,Auto-pay,0
+C13283,36,75.95,Month-to-month,3,Auto-pay,0
+C13284,70,93.98,Month-to-month,1,Manual,0
+C13285,10,78.71,One year,4,Auto-pay,1
+C13286,12,36.53,Month-to-month,1,Auto-pay,1
+C13287,28,118.94,Month-to-month,2,Manual,1
+C13288,29,81.74,Month-to-month,3,Auto-pay,1
+C13289,35,65.06,Month-to-month,0,Auto-pay,0
+C13290,71,96.43,Two year,1,Auto-pay,0
+C13291,42,62.08,One year,2,Manual,0
+C13292,19,30.94,One year,2,Auto-pay,0
+C13293,19,76.75,Month-to-month,1,Auto-pay,1
+C13294,8,96.94,Month-to-month,1,Manual,1
+C13295,2,68.73,One year,1,Auto-pay,1
+C13296,22,69.89,Month-to-month,0,Auto-pay,0
+C13297,50,71.24,One year,2,Manual,0
+C13298,60,73.72,Month-to-month,1,Auto-pay,0
+C13299,50,81.2,Month-to-month,1,Manual,0
+C13300,71,100.72,Month-to-month,3,Manual,0
+C13301,18,98.87,Month-to-month,0,Auto-pay,1
+C13302,45,137.75,One year,3,Auto-pay,0
+C13303,55,129.09,Month-to-month,1,Auto-pay,0
+C13304,71,50.93,Month-to-month,1,Manual,0
+C13305,21,69.9,Month-to-month,3,Manual,1
+C13306,13,98.4,Two year,2,Manual,0
+C13307,70,22.99,Month-to-month,0,Manual,0
+C13308,45,86.16,Two year,0,Auto-pay,0
+C13309,56,51.04,Month-to-month,0,Auto-pay,0
+C13310,43,75.12,Month-to-month,0,Manual,0
+C13311,11,77.07,Two year,2,Auto-pay,1
+C13312,10,23.61,Month-to-month,0,Manual,0
+C13313,23,149.25,Month-to-month,2,Auto-pay,1
+C13314,44,60.49,One year,1,Manual,0
+C13315,68,119.85,Month-to-month,1,Auto-pay,0
+C13316,39,27.65,One year,3,Manual,0
+C13317,38,57.01,Month-to-month,2,Auto-pay,1
+C13318,54,100.15,Two year,0,Auto-pay,0
+C13319,49,68.95,One year,1,Auto-pay,0
+C13320,59,100.17,Month-to-month,3,Manual,1
+C13321,22,95.2,Month-to-month,0,Auto-pay,1
+C13322,16,51.27,Month-to-month,3,Manual,0
+C13323,48,112.87,Month-to-month,4,Manual,0
+C13324,8,93.38,Two year,2,Auto-pay,1
+C13325,56,32.69,Month-to-month,3,Manual,1
+C13326,66,79.17,Month-to-month,1,Manual,0
+C13327,47,95.61,Month-to-month,1,Auto-pay,1
+C13328,53,73.02,Month-to-month,2,Manual,0
+C13329,39,77.47,Month-to-month,2,Auto-pay,0
+C13330,26,90.6,Month-to-month,3,Manual,1
+C13331,16,26.97,Month-to-month,0,Manual,0
+C13332,39,69.99,Two year,0,Auto-pay,0
+C13333,65,64.77,Month-to-month,0,Manual,0
+C13334,59,98.67,Month-to-month,3,Manual,0
+C13335,27,59.08,One year,2,Manual,0
+C13336,12,134.42,Month-to-month,3,Manual,1
+C13337,71,58.38,Month-to-month,3,Manual,0
+C13338,1,42.15,Month-to-month,1,Auto-pay,0
+C13339,14,112.77,One year,0,Auto-pay,0
+C13340,39,93.77,Month-to-month,0,Manual,1
+C13341,60,87.37,Two year,3,Manual,0
+C13342,7,68.48,Two year,2,Manual,1
+C13343,18,65.14,Month-to-month,1,Auto-pay,0
+C13344,69,89.49,Month-to-month,3,Auto-pay,0
+C13345,5,58.68,Month-to-month,0,Auto-pay,1
+C13346,15,129.09,Month-to-month,1,Manual,1
+C13347,3,82.84,Month-to-month,1,Auto-pay,1
+C13348,53,67.57,Month-to-month,1,Manual,0
+C13349,24,63.28,Month-to-month,1,Manual,0
+C13350,51,39.16,Month-to-month,2,Manual,0
+C13351,2,96.89,Month-to-month,2,Auto-pay,1
+C13352,12,51.96,One year,4,Manual,0
+C13353,9,71.13,One year,3,Auto-pay,1
+C13354,2,151.42,Two year,2,Auto-pay,1
+C13355,1,20.89,Month-to-month,2,Manual,0
+C13356,17,72.02,Month-to-month,1,Manual,0
+C13357,62,33.95,Month-to-month,0,Manual,0
+C13358,39,58.88,Month-to-month,3,Manual,0
+C13359,54,70.73,Month-to-month,3,Manual,0
+C13360,9,35.89,Month-to-month,1,Manual,0
+C13361,64,87.27,Month-to-month,1,Manual,0
+C13362,67,119.05,Month-to-month,2,Manual,0
+C13363,43,84.99,Month-to-month,2,Auto-pay,0
+C13364,56,100.21,One year,1,Auto-pay,0
+C13365,30,123.73,One year,4,Auto-pay,0
+C13366,16,93.21,Month-to-month,2,Auto-pay,1
+C13367,63,20.0,One year,5,Manual,0
+C13368,9,80.37,Month-to-month,2,Manual,1
+C13369,28,20.0,One year,1,Auto-pay,0
+C13370,5,53.33,One year,1,Manual,0
+C13371,22,30.03,Month-to-month,3,Manual,1
+C13372,59,83.19,Month-to-month,3,Manual,0
+C13373,53,48.08,Month-to-month,1,Auto-pay,0
+C13374,63,84.01,One year,1,Manual,0
+C13375,58,98.44,Month-to-month,1,Manual,0
+C13376,38,46.25,Two year,3,Manual,0
+C13377,69,82.54,One year,0,Manual,0
+C13378,41,20.0,Month-to-month,1,Auto-pay,0
+C13379,47,30.22,Month-to-month,0,Auto-pay,0
+C13380,30,113.03,Month-to-month,1,Manual,1
+C13381,22,48.54,One year,2,Auto-pay,0
+C13382,57,59.25,Two year,0,Auto-pay,0
+C13383,66,50.47,One year,0,Auto-pay,0
+C13384,63,23.0,Month-to-month,0,Manual,0
+C13385,53,43.98,Month-to-month,4,Auto-pay,0
+C13386,23,74.83,Two year,1,Auto-pay,0
+C13387,59,63.44,Month-to-month,0,Manual,0
+C13388,64,107.2,One year,1,Auto-pay,0
+C13389,33,56.44,Month-to-month,0,Auto-pay,0
+C13390,18,74.64,Month-to-month,2,Manual,0
+C13391,47,58.68,Month-to-month,0,Auto-pay,0
+C13392,16,103.02,Month-to-month,0,Manual,0
+C13393,70,32.01,Month-to-month,0,Manual,0
+C13394,61,89.33,Month-to-month,1,Auto-pay,0
+C13395,47,87.15,Month-to-month,0,Manual,0
+C13396,37,50.36,Month-to-month,0,Auto-pay,0
+C13397,13,72.02,Month-to-month,2,Auto-pay,1
+C13398,4,86.61,Two year,0,Auto-pay,1
+C13399,2,54.25,Month-to-month,1,Auto-pay,1
+C13400,8,53.62,Two year,2,Manual,1
+C13401,31,38.11,Month-to-month,2,Manual,1
+C13402,21,135.67,Month-to-month,1,Manual,1
+C13403,25,60.99,One year,1,Manual,0
+C13404,13,38.22,One year,0,Auto-pay,0
+C13405,52,21.96,One year,2,Auto-pay,0
+C13406,71,50.92,Month-to-month,5,Manual,0
+C13407,1,83.01,Month-to-month,2,Manual,1
+C13408,51,67.34,Month-to-month,1,Manual,0
+C13409,64,85.52,Month-to-month,2,Manual,0
+C13410,32,96.46,One year,0,Manual,0
+C13411,41,70.47,One year,2,Auto-pay,0
+C13412,58,71.17,Month-to-month,1,Auto-pay,0
+C13413,46,121.97,One year,3,Manual,1
+C13414,21,97.1,Two year,1,Manual,1
+C13415,23,86.54,Month-to-month,2,Auto-pay,0
+C13416,3,64.71,Two year,1,Auto-pay,1
+C13417,57,95.26,Month-to-month,0,Manual,0
+C13418,26,85.57,Month-to-month,1,Auto-pay,0
+C13419,63,84.44,Month-to-month,1,Auto-pay,0
+C13420,26,96.52,Month-to-month,1,Auto-pay,1
+C13421,37,84.78,Two year,2,Manual,0
+C13422,10,29.42,One year,0,Auto-pay,0
+C13423,5,76.64,Month-to-month,1,Manual,1
+C13424,45,41.55,One year,1,Auto-pay,0
+C13425,52,94.0,Month-to-month,1,Auto-pay,0
+C13426,28,27.95,Month-to-month,0,Auto-pay,0
+C13427,45,74.07,Two year,0,Manual,0
+C13428,22,76.74,Month-to-month,1,Auto-pay,1
+C13429,50,40.59,One year,1,Auto-pay,0
+C13430,43,72.57,Month-to-month,0,Manual,0
+C13431,61,98.03,Month-to-month,1,Manual,0
+C13432,52,58.3,Month-to-month,4,Auto-pay,0
+C13433,63,83.69,Two year,0,Manual,0
+C13434,71,90.23,Month-to-month,3,Manual,0
+C13435,26,42.98,Month-to-month,1,Auto-pay,0
+C13436,63,76.24,Month-to-month,0,Auto-pay,0
+C13437,33,68.67,Month-to-month,3,Auto-pay,1
+C13438,2,74.55,Month-to-month,0,Manual,1
+C13439,68,26.88,Month-to-month,0,Auto-pay,0
+C13440,11,32.78,Month-to-month,0,Manual,1
+C13441,9,111.6,Month-to-month,1,Manual,1
+C13442,39,97.69,Month-to-month,1,Auto-pay,0
+C13443,50,81.6,Two year,0,Auto-pay,0
+C13444,33,102.05,Month-to-month,0,Auto-pay,0
+C13445,44,35.22,One year,2,Manual,0
+C13446,62,68.19,Month-to-month,2,Manual,0
+C13447,41,65.37,Month-to-month,1,Auto-pay,1
+C13448,58,51.89,One year,2,Manual,0
+C13449,43,40.99,Month-to-month,0,Auto-pay,0
+C13450,38,114.49,Two year,3,Auto-pay,0
+C13451,36,56.12,Two year,2,Auto-pay,0
+C13452,68,88.52,One year,1,Manual,0
+C13453,25,84.97,Two year,2,Auto-pay,0
+C13454,26,106.36,Two year,1,Manual,1
+C13455,56,97.03,Month-to-month,1,Auto-pay,0
+C13456,47,65.77,Two year,2,Auto-pay,0
+C13457,11,37.05,One year,1,Auto-pay,0
+C13458,50,101.77,Month-to-month,0,Auto-pay,0
+C13459,3,111.66,Month-to-month,2,Manual,1
+C13460,37,148.89,One year,1,Auto-pay,0
+C13461,23,104.34,Month-to-month,4,Auto-pay,1
+C13462,16,55.84,Month-to-month,3,Manual,1
+C13463,45,59.73,One year,3,Auto-pay,0
+C13464,12,20.0,Two year,1,Auto-pay,0
+C13465,26,50.65,Two year,3,Auto-pay,0
+C13466,12,36.93,One year,1,Auto-pay,0
+C13467,9,92.64,Two year,0,Manual,0
+C13468,28,103.73,Two year,1,Manual,0
+C13469,45,142.74,One year,4,Auto-pay,0
+C13470,48,167.62,Month-to-month,2,Auto-pay,1
+C13471,66,82.46,Month-to-month,1,Manual,0
+C13472,23,57.52,Two year,3,Auto-pay,0
+C13473,26,63.27,Month-to-month,2,Auto-pay,1
+C13474,62,54.23,One year,1,Auto-pay,0
+C13475,13,145.31,Two year,3,Auto-pay,1
+C13476,43,20.0,One year,2,Auto-pay,0
+C13477,53,123.61,Two year,2,Auto-pay,0
+C13478,33,47.0,One year,1,Manual,0
+C13479,61,63.26,Two year,2,Auto-pay,0
+C13480,23,20.0,Two year,0,Manual,0
+C13481,8,106.65,One year,2,Auto-pay,0
+C13482,9,98.79,One year,3,Auto-pay,0
+C13483,38,42.2,Two year,3,Auto-pay,1
+C13484,40,108.23,One year,1,Manual,0
+C13485,38,102.45,One year,1,Auto-pay,0
+C13486,27,59.09,One year,0,Auto-pay,0
+C13487,34,20.0,Month-to-month,0,Manual,1
+C13488,69,68.43,Two year,0,Manual,0
+C13489,34,106.25,Month-to-month,1,Auto-pay,0
+C13490,53,47.55,Month-to-month,1,Auto-pay,0
+C13491,61,107.44,Month-to-month,3,Manual,0
+C13492,10,49.18,Month-to-month,0,Auto-pay,1
+C13493,18,72.28,Two year,2,Manual,0
+C13494,40,52.9,One year,1,Manual,0
+C13495,54,79.69,Month-to-month,1,Manual,0
+C13496,63,99.64,Month-to-month,0,Auto-pay,0
+C13497,52,123.92,Month-to-month,1,Manual,0
+C13498,67,81.25,Two year,2,Manual,0
+C13499,71,28.24,Month-to-month,1,Auto-pay,0
